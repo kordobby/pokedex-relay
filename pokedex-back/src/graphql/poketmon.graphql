@@ -1,0 +1,36 @@
+type Poketmon {
+  id: Int!
+  num: Int!
+  name: String!
+  type: String!
+  category: String!
+  attribute: String!
+  description: String!
+  image: String!
+  health: Int
+  attack: Int
+  defense: Int
+  sAttack: Int
+  sDefense: Int
+  speed: Int
+}
+
+input PoketmonListInput {
+  perPage: Int!
+  page: Int!
+  search: String
+}
+
+type PoketmonListResponse {
+  count: Int!
+  poketmonList: [Poketmon]
+}
+
+input PoketmonInput {
+  id: Int!
+}
+
+type Query {
+  getPoketmonList(PoketmonListInput: PoketmonListInput): PoketmonListResponse
+  getPoketmon(PoketmonInput: PoketmonInput!): Poketmon
+}

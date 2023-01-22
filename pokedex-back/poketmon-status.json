@@ -1,0 +1,9425 @@
+[
+  {
+    "num": "001",
+    "name": "이상해씨",
+    "attack": "45",
+    "defense": "49",
+    "sAttack": "49",
+    "sDefense": "65",
+    "speed": "65"
+  },
+  {
+    "num": "002",
+    "name": "이상해풀",
+    "attack": "60",
+    "defense": "62",
+    "sAttack": "63",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "003",
+    "name": "이상해꽃",
+    "attack": "80",
+    "defense": "82",
+    "sAttack": "83",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "003",
+    "name": "메가이상해꽃",
+    "attack": "80",
+    "defense": "100",
+    "sAttack": "123",
+    "sDefense": "122",
+    "speed": "120"
+  },
+  {
+    "num": "004",
+    "name": "파이리",
+    "attack": "39",
+    "defense": "52",
+    "sAttack": "43",
+    "sDefense": "60",
+    "speed": "50"
+  },
+  {
+    "num": "005",
+    "name": "리자드",
+    "attack": "58",
+    "defense": "64",
+    "sAttack": "58",
+    "sDefense": "80",
+    "speed": "65"
+  },
+  {
+    "num": "006",
+    "name": "리자몽",
+    "attack": "78",
+    "defense": "84",
+    "sAttack": "78",
+    "sDefense": "109",
+    "speed": "85"
+  },
+  {
+    "num": "006",
+    "name": "메가리자몽X",
+    "attack": "78",
+    "defense": "130",
+    "sAttack": "111",
+    "sDefense": "130",
+    "speed": "85"
+  },
+  {
+    "num": "006",
+    "name": "메가리자몽Y",
+    "attack": "78",
+    "defense": "104",
+    "sAttack": "78",
+    "sDefense": "159",
+    "speed": "115"
+  },
+  {
+    "num": "007",
+    "name": "꼬부기",
+    "attack": "44",
+    "defense": "48",
+    "sAttack": "65",
+    "sDefense": "50",
+    "speed": "64"
+  },
+  {
+    "num": "008",
+    "name": "어니부기",
+    "attack": "59",
+    "defense": "63",
+    "sAttack": "80",
+    "sDefense": "65",
+    "speed": "80"
+  },
+  {
+    "num": "009",
+    "name": "거북왕",
+    "attack": "79",
+    "defense": "83",
+    "sAttack": "100",
+    "sDefense": "85",
+    "speed": "105"
+  },
+  {
+    "num": "009",
+    "name": "메가거북왕",
+    "attack": "79",
+    "defense": "103",
+    "sAttack": "120",
+    "sDefense": "135",
+    "speed": "115"
+  },
+  {
+    "num": "010",
+    "name": "캐터피",
+    "attack": "45",
+    "defense": "30",
+    "sAttack": "35",
+    "sDefense": "20",
+    "speed": "20"
+  },
+  {
+    "num": "011",
+    "name": "단데기",
+    "attack": "50",
+    "defense": "20",
+    "sAttack": "55",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "012",
+    "name": "버터플",
+    "attack": "60",
+    "defense": "45",
+    "sAttack": "50",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "012",
+    "name": "버터플",
+    "attack": "60",
+    "defense": "45",
+    "sAttack": "50",
+    "sDefense": "90",
+    "speed": "80"
+  },
+  {
+    "num": "013",
+    "name": "뿔충이",
+    "attack": "40",
+    "defense": "35",
+    "sAttack": "30",
+    "sDefense": "20",
+    "speed": "20"
+  },
+  {
+    "num": "014",
+    "name": "딱충이",
+    "attack": "45",
+    "defense": "25",
+    "sAttack": "50",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "015",
+    "name": "독침붕",
+    "attack": "65",
+    "defense": "80",
+    "sAttack": "40",
+    "sDefense": "45",
+    "speed": "80"
+  },
+  {
+    "num": "015",
+    "name": "독침붕",
+    "attack": "65",
+    "defense": "90",
+    "sAttack": "40",
+    "sDefense": "45",
+    "speed": "80"
+  },
+  {
+    "num": "015",
+    "name": "메가독침붕",
+    "attack": "65",
+    "defense": "150",
+    "sAttack": "40",
+    "sDefense": "15",
+    "speed": "80"
+  },
+  {
+    "num": "016",
+    "name": "구구",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "40",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "017",
+    "name": "피죤",
+    "attack": "63",
+    "defense": "60",
+    "sAttack": "55",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "018",
+    "name": "피죤투",
+    "attack": "83",
+    "defense": "80",
+    "sAttack": "75",
+    "sDefense": "70",
+    "speed": "70"
+  },
+  {
+    "num": "018",
+    "name": "피죤투",
+    "attack": "83",
+    "defense": "80",
+    "sAttack": "75",
+    "sDefense": "70",
+    "speed": "70"
+  },
+  {
+    "num": "018",
+    "name": "메가피죤투",
+    "attack": "83",
+    "defense": "80",
+    "sAttack": "80",
+    "sDefense": "135",
+    "speed": "80"
+  },
+  {
+    "num": "019",
+    "name": "꼬렛",
+    "attack": "30",
+    "defense": "56",
+    "sAttack": "35",
+    "sDefense": "25",
+    "speed": "35"
+  },
+  {
+    "num": "019",
+    "name": "꼬렛",
+    "attack": "30",
+    "defense": "56",
+    "sAttack": "35",
+    "sDefense": "25",
+    "speed": "35"
+  },
+  {
+    "num": "020",
+    "name": "레트라",
+    "attack": "55",
+    "defense": "81",
+    "sAttack": "60",
+    "sDefense": "50",
+    "speed": "70"
+  },
+  {
+    "num": "020",
+    "name": "레트라",
+    "attack": "75",
+    "defense": "71",
+    "sAttack": "70",
+    "sDefense": "40",
+    "speed": "80"
+  },
+  {
+    "num": "021",
+    "name": "깨비참",
+    "attack": "40",
+    "defense": "60",
+    "sAttack": "30",
+    "sDefense": "31",
+    "speed": "31"
+  },
+  {
+    "num": "022",
+    "name": "깨비드릴조",
+    "attack": "65",
+    "defense": "90",
+    "sAttack": "65",
+    "sDefense": "61",
+    "speed": "61"
+  },
+  {
+    "num": "023",
+    "name": "아보",
+    "attack": "35",
+    "defense": "60",
+    "sAttack": "44",
+    "sDefense": "40",
+    "speed": "54"
+  },
+  {
+    "num": "024",
+    "name": "아보크",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "69",
+    "sDefense": "65",
+    "speed": "79"
+  },
+  {
+    "num": "025",
+    "name": "피카츄",
+    "attack": "35",
+    "defense": "55",
+    "sAttack": "30",
+    "sDefense": "50",
+    "speed": "40"
+  },
+  {
+    "num": "025",
+    "name": "피카츄",
+    "attack": "35",
+    "defense": "55",
+    "sAttack": "40",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "026",
+    "name": "라이츄",
+    "attack": "60",
+    "defense": "90",
+    "sAttack": "55",
+    "sDefense": "90",
+    "speed": "80"
+  },
+  {
+    "num": "026",
+    "name": "라이츄",
+    "attack": "60",
+    "defense": "90",
+    "sAttack": "55",
+    "sDefense": "90",
+    "speed": "80"
+  },
+  {
+    "num": "026",
+    "name": "라이츄",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "50",
+    "sDefense": "95",
+    "speed": "85"
+  },
+  {
+    "num": "027",
+    "name": "모래두지",
+    "attack": "50",
+    "defense": "75",
+    "sAttack": "85",
+    "sDefense": "20",
+    "speed": "30"
+  },
+  {
+    "num": "027",
+    "name": "모래두지",
+    "attack": "50",
+    "defense": "75",
+    "sAttack": "90",
+    "sDefense": "10",
+    "speed": "35"
+  },
+  {
+    "num": "028",
+    "name": "고지",
+    "attack": "75",
+    "defense": "100",
+    "sAttack": "110",
+    "sDefense": "45",
+    "speed": "55"
+  },
+  {
+    "num": "028",
+    "name": "고지",
+    "attack": "75",
+    "defense": "100",
+    "sAttack": "120",
+    "sDefense": "25",
+    "speed": "65"
+  },
+  {
+    "num": "029",
+    "name": "니드런♀",
+    "attack": "55",
+    "defense": "47",
+    "sAttack": "52",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "030",
+    "name": "니드리나",
+    "attack": "70",
+    "defense": "62",
+    "sAttack": "67",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "031",
+    "name": "니드퀸",
+    "attack": "90",
+    "defense": "82",
+    "sAttack": "87",
+    "sDefense": "75",
+    "speed": "85"
+  },
+  {
+    "num": "031",
+    "name": "니드퀸",
+    "attack": "90",
+    "defense": "92",
+    "sAttack": "87",
+    "sDefense": "75",
+    "speed": "85"
+  },
+  {
+    "num": "032",
+    "name": "니드런♂",
+    "attack": "46",
+    "defense": "57",
+    "sAttack": "40",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "033",
+    "name": "니드리노",
+    "attack": "61",
+    "defense": "72",
+    "sAttack": "57",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "034",
+    "name": "니드킹",
+    "attack": "81",
+    "defense": "102",
+    "sAttack": "77",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "034",
+    "name": "니드킹",
+    "attack": "81",
+    "defense": "92",
+    "sAttack": "77",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "035",
+    "name": "삐삐",
+    "attack": "70",
+    "defense": "45",
+    "sAttack": "48",
+    "sDefense": "60",
+    "speed": "65"
+  },
+  {
+    "num": "036",
+    "name": "픽시",
+    "attack": "95",
+    "defense": "70",
+    "sAttack": "73",
+    "sDefense": "85",
+    "speed": "90"
+  },
+  {
+    "num": "036",
+    "name": "픽시",
+    "attack": "95",
+    "defense": "70",
+    "sAttack": "73",
+    "sDefense": "95",
+    "speed": "90"
+  },
+  {
+    "num": "037",
+    "name": "식스테일",
+    "attack": "38",
+    "defense": "41",
+    "sAttack": "40",
+    "sDefense": "50",
+    "speed": "65"
+  },
+  {
+    "num": "037",
+    "name": "식스테일",
+    "attack": "38",
+    "defense": "41",
+    "sAttack": "40",
+    "sDefense": "50",
+    "speed": "65"
+  },
+  {
+    "num": "038",
+    "name": "나인테일",
+    "attack": "73",
+    "defense": "76",
+    "sAttack": "75",
+    "sDefense": "81",
+    "speed": "100"
+  },
+  {
+    "num": "038",
+    "name": "나인테일",
+    "attack": "73",
+    "defense": "67",
+    "sAttack": "75",
+    "sDefense": "81",
+    "speed": "100"
+  },
+  {
+    "num": "039",
+    "name": "푸린",
+    "attack": "115",
+    "defense": "45",
+    "sAttack": "20",
+    "sDefense": "45",
+    "speed": "25"
+  },
+  {
+    "num": "040",
+    "name": "푸크린",
+    "attack": "140",
+    "defense": "70",
+    "sAttack": "45",
+    "sDefense": "75",
+    "speed": "50"
+  },
+  {
+    "num": "040",
+    "name": "푸크린",
+    "attack": "140",
+    "defense": "70",
+    "sAttack": "45",
+    "sDefense": "85",
+    "speed": "50"
+  },
+  {
+    "num": "041",
+    "name": "주뱃",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "35",
+    "sDefense": "30",
+    "speed": "40"
+  },
+  {
+    "num": "042",
+    "name": "골뱃",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "70",
+    "sDefense": "65",
+    "speed": "75"
+  },
+  {
+    "num": "043",
+    "name": "뚜벅쵸",
+    "attack": "45",
+    "defense": "50",
+    "sAttack": "55",
+    "sDefense": "75",
+    "speed": "65"
+  },
+  {
+    "num": "044",
+    "name": "냄새꼬",
+    "attack": "60",
+    "defense": "65",
+    "sAttack": "70",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "045",
+    "name": "라플레시아",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "85",
+    "sDefense": "100",
+    "speed": "90"
+  },
+  {
+    "num": "045",
+    "name": "라플레시아",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "85",
+    "sDefense": "110",
+    "speed": "90"
+  },
+  {
+    "num": "046",
+    "name": "파라스",
+    "attack": "35",
+    "defense": "70",
+    "sAttack": "55",
+    "sDefense": "45",
+    "speed": "55"
+  },
+  {
+    "num": "047",
+    "name": "파라섹트",
+    "attack": "60",
+    "defense": "95",
+    "sAttack": "80",
+    "sDefense": "60",
+    "speed": "80"
+  },
+  {
+    "num": "048",
+    "name": "콘팡",
+    "attack": "60",
+    "defense": "55",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "55"
+  },
+  {
+    "num": "049",
+    "name": "도나리",
+    "attack": "70",
+    "defense": "65",
+    "sAttack": "60",
+    "sDefense": "90",
+    "speed": "75"
+  },
+  {
+    "num": "050",
+    "name": "디그다",
+    "attack": "10",
+    "defense": "55",
+    "sAttack": "25",
+    "sDefense": "35",
+    "speed": "45"
+  },
+  {
+    "num": "050",
+    "name": "디그다",
+    "attack": "10",
+    "defense": "55",
+    "sAttack": "30",
+    "sDefense": "35",
+    "speed": "45"
+  },
+  {
+    "num": "051",
+    "name": "닥트리오",
+    "attack": "35",
+    "defense": "80",
+    "sAttack": "50",
+    "sDefense": "50",
+    "speed": "70"
+  },
+  {
+    "num": "051",
+    "name": "닥트리오",
+    "attack": "35",
+    "defense": "100",
+    "sAttack": "60",
+    "sDefense": "50",
+    "speed": "70"
+  },
+  {
+    "num": "052",
+    "name": "나옹",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "35",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "052",
+    "name": "나옹",
+    "attack": "40",
+    "defense": "35",
+    "sAttack": "35",
+    "sDefense": "50",
+    "speed": "40"
+  },
+  {
+    "num": "052",
+    "name": "나옹",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "55",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "053",
+    "name": "페르시온",
+    "attack": "65",
+    "defense": "70",
+    "sAttack": "60",
+    "sDefense": "65",
+    "speed": "65"
+  },
+  {
+    "num": "053",
+    "name": "페르시온",
+    "attack": "65",
+    "defense": "60",
+    "sAttack": "60",
+    "sDefense": "75",
+    "speed": "65"
+  },
+  {
+    "num": "054",
+    "name": "고라파덕",
+    "attack": "50",
+    "defense": "52",
+    "sAttack": "48",
+    "sDefense": "65",
+    "speed": "50"
+  },
+  {
+    "num": "055",
+    "name": "골덕",
+    "attack": "80",
+    "defense": "82",
+    "sAttack": "78",
+    "sDefense": "95",
+    "speed": "80"
+  },
+  {
+    "num": "056",
+    "name": "망키",
+    "attack": "40",
+    "defense": "80",
+    "sAttack": "35",
+    "sDefense": "35",
+    "speed": "45"
+  },
+  {
+    "num": "057",
+    "name": "성원숭",
+    "attack": "65",
+    "defense": "105",
+    "sAttack": "60",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "058",
+    "name": "가디",
+    "attack": "55",
+    "defense": "70",
+    "sAttack": "45",
+    "sDefense": "70",
+    "speed": "50"
+  },
+  {
+    "num": "059",
+    "name": "윈디",
+    "attack": "90",
+    "defense": "110",
+    "sAttack": "80",
+    "sDefense": "100",
+    "speed": "80"
+  },
+  {
+    "num": "060",
+    "name": "발챙이",
+    "attack": "40",
+    "defense": "50",
+    "sAttack": "40",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "061",
+    "name": "슈륙챙이",
+    "attack": "65",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "062",
+    "name": "강챙이",
+    "attack": "90",
+    "defense": "85",
+    "sAttack": "95",
+    "sDefense": "70",
+    "speed": "90"
+  },
+  {
+    "num": "062",
+    "name": "강챙이",
+    "attack": "90",
+    "defense": "95",
+    "sAttack": "95",
+    "sDefense": "70",
+    "speed": "90"
+  },
+  {
+    "num": "063",
+    "name": "캐이시",
+    "attack": "25",
+    "defense": "20",
+    "sAttack": "15",
+    "sDefense": "105",
+    "speed": "55"
+  },
+  {
+    "num": "064",
+    "name": "윤겔라",
+    "attack": "40",
+    "defense": "35",
+    "sAttack": "30",
+    "sDefense": "120",
+    "speed": "70"
+  },
+  {
+    "num": "065",
+    "name": "후딘",
+    "attack": "55",
+    "defense": "50",
+    "sAttack": "45",
+    "sDefense": "135",
+    "speed": "85"
+  },
+  {
+    "num": "065",
+    "name": "후딘",
+    "attack": "55",
+    "defense": "50",
+    "sAttack": "45",
+    "sDefense": "135",
+    "speed": "95"
+  },
+  {
+    "num": "065",
+    "name": "메가후딘",
+    "attack": "55",
+    "defense": "50",
+    "sAttack": "65",
+    "sDefense": "175",
+    "speed": "95"
+  },
+  {
+    "num": "066",
+    "name": "알통몬",
+    "attack": "70",
+    "defense": "80",
+    "sAttack": "50",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "067",
+    "name": "근육몬",
+    "attack": "80",
+    "defense": "100",
+    "sAttack": "70",
+    "sDefense": "50",
+    "speed": "60"
+  },
+  {
+    "num": "068",
+    "name": "괴력몬",
+    "attack": "90",
+    "defense": "130",
+    "sAttack": "80",
+    "sDefense": "65",
+    "speed": "85"
+  },
+  {
+    "num": "069",
+    "name": "모다피",
+    "attack": "50",
+    "defense": "75",
+    "sAttack": "35",
+    "sDefense": "70",
+    "speed": "30"
+  },
+  {
+    "num": "070",
+    "name": "우츠동",
+    "attack": "65",
+    "defense": "90",
+    "sAttack": "50",
+    "sDefense": "85",
+    "speed": "45"
+  },
+  {
+    "num": "071",
+    "name": "우츠보트",
+    "attack": "80",
+    "defense": "105",
+    "sAttack": "65",
+    "sDefense": "100",
+    "speed": "60"
+  },
+  {
+    "num": "071",
+    "name": "우츠보트",
+    "attack": "80",
+    "defense": "105",
+    "sAttack": "65",
+    "sDefense": "100",
+    "speed": "70"
+  },
+  {
+    "num": "072",
+    "name": "왕눈해",
+    "attack": "40",
+    "defense": "40",
+    "sAttack": "35",
+    "sDefense": "50",
+    "speed": "100"
+  },
+  {
+    "num": "073",
+    "name": "독파리",
+    "attack": "80",
+    "defense": "70",
+    "sAttack": "65",
+    "sDefense": "80",
+    "speed": "120"
+  },
+  {
+    "num": "074",
+    "name": "꼬마돌",
+    "attack": "40",
+    "defense": "80",
+    "sAttack": "100",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "074",
+    "name": "꼬마돌",
+    "attack": "40",
+    "defense": "80",
+    "sAttack": "100",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "075",
+    "name": "데구리",
+    "attack": "55",
+    "defense": "95",
+    "sAttack": "115",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "075",
+    "name": "데구리",
+    "attack": "55",
+    "defense": "95",
+    "sAttack": "115",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "076",
+    "name": "딱구리",
+    "attack": "80",
+    "defense": "110",
+    "sAttack": "130",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "076",
+    "name": "딱구리",
+    "attack": "80",
+    "defense": "120",
+    "sAttack": "130",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "076",
+    "name": "딱구리",
+    "attack": "80",
+    "defense": "120",
+    "sAttack": "130",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "077",
+    "name": "포니타",
+    "attack": "50",
+    "defense": "85",
+    "sAttack": "55",
+    "sDefense": "65",
+    "speed": "65"
+  },
+  {
+    "num": "077",
+    "name": "포니타",
+    "attack": "50",
+    "defense": "85",
+    "sAttack": "55",
+    "sDefense": "65",
+    "speed": "65"
+  },
+  {
+    "num": "078",
+    "name": "날쌩마",
+    "attack": "65",
+    "defense": "100",
+    "sAttack": "70",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "078",
+    "name": "날쌩마",
+    "attack": "65",
+    "defense": "100",
+    "sAttack": "70",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "079",
+    "name": "야돈",
+    "attack": "90",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "080",
+    "name": "야도란",
+    "attack": "95",
+    "defense": "75",
+    "sAttack": "110",
+    "sDefense": "100",
+    "speed": "80"
+  },
+  {
+    "num": "080",
+    "name": "메가야도란",
+    "attack": "95",
+    "defense": "75",
+    "sAttack": "180",
+    "sDefense": "130",
+    "speed": "80"
+  },
+  {
+    "num": "081",
+    "name": "코일",
+    "attack": "25",
+    "defense": "35",
+    "sAttack": "70",
+    "sDefense": "95",
+    "speed": "55"
+  },
+  {
+    "num": "082",
+    "name": "레어코일",
+    "attack": "50",
+    "defense": "60",
+    "sAttack": "95",
+    "sDefense": "120",
+    "speed": "70"
+  },
+  {
+    "num": "083",
+    "name": "파오리",
+    "attack": "52",
+    "defense": "65",
+    "sAttack": "55",
+    "sDefense": "58",
+    "speed": "62"
+  },
+  {
+    "num": "083",
+    "name": "파오리",
+    "attack": "52",
+    "defense": "95",
+    "sAttack": "55",
+    "sDefense": "58",
+    "speed": "62"
+  },
+  {
+    "num": "084",
+    "name": "두두",
+    "attack": "35",
+    "defense": "85",
+    "sAttack": "45",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "085",
+    "name": "두트리오",
+    "attack": "60",
+    "defense": "110",
+    "sAttack": "70",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "086",
+    "name": "쥬쥬",
+    "attack": "65",
+    "defense": "45",
+    "sAttack": "55",
+    "sDefense": "45",
+    "speed": "70"
+  },
+  {
+    "num": "087",
+    "name": "쥬레곤",
+    "attack": "90",
+    "defense": "70",
+    "sAttack": "80",
+    "sDefense": "70",
+    "speed": "95"
+  },
+  {
+    "num": "088",
+    "name": "질퍽이",
+    "attack": "80",
+    "defense": "80",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "088",
+    "name": "질퍽이",
+    "attack": "80",
+    "defense": "80",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "089",
+    "name": "질뻐기",
+    "attack": "105",
+    "defense": "105",
+    "sAttack": "75",
+    "sDefense": "65",
+    "speed": "100"
+  },
+  {
+    "num": "089",
+    "name": "질뻐기",
+    "attack": "105",
+    "defense": "105",
+    "sAttack": "75",
+    "sDefense": "65",
+    "speed": "100"
+  },
+  {
+    "num": "090",
+    "name": "셀러",
+    "attack": "30",
+    "defense": "65",
+    "sAttack": "100",
+    "sDefense": "45",
+    "speed": "25"
+  },
+  {
+    "num": "091",
+    "name": "파르셀",
+    "attack": "50",
+    "defense": "95",
+    "sAttack": "180",
+    "sDefense": "85",
+    "speed": "45"
+  },
+  {
+    "num": "092",
+    "name": "고오스",
+    "attack": "30",
+    "defense": "35",
+    "sAttack": "30",
+    "sDefense": "100",
+    "speed": "35"
+  },
+  {
+    "num": "093",
+    "name": "고우스트",
+    "attack": "45",
+    "defense": "50",
+    "sAttack": "45",
+    "sDefense": "115",
+    "speed": "55"
+  },
+  {
+    "num": "094",
+    "name": "팬텀",
+    "attack": "60",
+    "defense": "65",
+    "sAttack": "60",
+    "sDefense": "130",
+    "speed": "75"
+  },
+  {
+    "num": "094",
+    "name": "메가팬텀",
+    "attack": "60",
+    "defense": "65",
+    "sAttack": "80",
+    "sDefense": "170",
+    "speed": "95"
+  },
+  {
+    "num": "095",
+    "name": "롱스톤",
+    "attack": "35",
+    "defense": "45",
+    "sAttack": "160",
+    "sDefense": "30",
+    "speed": "45"
+  },
+  {
+    "num": "096",
+    "name": "슬리프",
+    "attack": "60",
+    "defense": "48",
+    "sAttack": "45",
+    "sDefense": "43",
+    "speed": "90"
+  },
+  {
+    "num": "097",
+    "name": "슬리퍼",
+    "attack": "85",
+    "defense": "73",
+    "sAttack": "70",
+    "sDefense": "73",
+    "speed": "115"
+  },
+  {
+    "num": "098",
+    "name": "크랩",
+    "attack": "30",
+    "defense": "105",
+    "sAttack": "90",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "099",
+    "name": "킹크랩",
+    "attack": "55",
+    "defense": "130",
+    "sAttack": "115",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "100",
+    "name": "찌리리공",
+    "attack": "40",
+    "defense": "30",
+    "sAttack": "50",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "101",
+    "name": "붐볼",
+    "attack": "60",
+    "defense": "50",
+    "sAttack": "70",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "102",
+    "name": "아라리",
+    "attack": "60",
+    "defense": "40",
+    "sAttack": "80",
+    "sDefense": "60",
+    "speed": "45"
+  },
+  {
+    "num": "103",
+    "name": "나시",
+    "attack": "95",
+    "defense": "95",
+    "sAttack": "85",
+    "sDefense": "125",
+    "speed": "65"
+  },
+  {
+    "num": "103",
+    "name": "나시",
+    "attack": "95",
+    "defense": "105",
+    "sAttack": "85",
+    "sDefense": "125",
+    "speed": "75"
+  },
+  {
+    "num": "104",
+    "name": "탕구리",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "95",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "105",
+    "name": "텅구리",
+    "attack": "60",
+    "defense": "80",
+    "sAttack": "110",
+    "sDefense": "50",
+    "speed": "80"
+  },
+  {
+    "num": "105",
+    "name": "텅구리",
+    "attack": "60",
+    "defense": "80",
+    "sAttack": "110",
+    "sDefense": "50",
+    "speed": "80"
+  },
+  {
+    "num": "106",
+    "name": "시라소몬",
+    "attack": "50",
+    "defense": "120",
+    "sAttack": "53",
+    "sDefense": "35",
+    "speed": "110"
+  },
+  {
+    "num": "107",
+    "name": "홍수몬",
+    "attack": "50",
+    "defense": "105",
+    "sAttack": "79",
+    "sDefense": "35",
+    "speed": "110"
+  },
+  {
+    "num": "108",
+    "name": "내루미",
+    "attack": "90",
+    "defense": "55",
+    "sAttack": "75",
+    "sDefense": "60",
+    "speed": "75"
+  },
+  {
+    "num": "109",
+    "name": "또가스",
+    "attack": "40",
+    "defense": "65",
+    "sAttack": "95",
+    "sDefense": "60",
+    "speed": "45"
+  },
+  {
+    "num": "110",
+    "name": "또도가스",
+    "attack": "65",
+    "defense": "90",
+    "sAttack": "120",
+    "sDefense": "85",
+    "speed": "70"
+  },
+  {
+    "num": "110",
+    "name": "또도가스",
+    "attack": "65",
+    "defense": "90",
+    "sAttack": "120",
+    "sDefense": "85",
+    "speed": "70"
+  },
+  {
+    "num": "111",
+    "name": "뿔카노",
+    "attack": "80",
+    "defense": "85",
+    "sAttack": "95",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "112",
+    "name": "코뿌리",
+    "attack": "105",
+    "defense": "130",
+    "sAttack": "120",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "113",
+    "name": "럭키",
+    "attack": "250",
+    "defense": "5",
+    "sAttack": "5",
+    "sDefense": "35",
+    "speed": "105"
+  },
+  {
+    "num": "114",
+    "name": "덩쿠리",
+    "attack": "65",
+    "defense": "55",
+    "sAttack": "115",
+    "sDefense": "100",
+    "speed": "40"
+  },
+  {
+    "num": "115",
+    "name": "캥카",
+    "attack": "105",
+    "defense": "95",
+    "sAttack": "80",
+    "sDefense": "40",
+    "speed": "80"
+  },
+  {
+    "num": "115",
+    "name": "메가캥카",
+    "attack": "105",
+    "defense": "125",
+    "sAttack": "100",
+    "sDefense": "60",
+    "speed": "100"
+  },
+  {
+    "num": "116",
+    "name": "쏘드라",
+    "attack": "30",
+    "defense": "40",
+    "sAttack": "70",
+    "sDefense": "70",
+    "speed": "25"
+  },
+  {
+    "num": "117",
+    "name": "시드라",
+    "attack": "55",
+    "defense": "65",
+    "sAttack": "95",
+    "sDefense": "95",
+    "speed": "45"
+  },
+  {
+    "num": "118",
+    "name": "콘치",
+    "attack": "45",
+    "defense": "67",
+    "sAttack": "60",
+    "sDefense": "35",
+    "speed": "50"
+  },
+  {
+    "num": "119",
+    "name": "왕콘치",
+    "attack": "80",
+    "defense": "92",
+    "sAttack": "65",
+    "sDefense": "65",
+    "speed": "80"
+  },
+  {
+    "num": "120",
+    "name": "별가사리",
+    "attack": "30",
+    "defense": "45",
+    "sAttack": "55",
+    "sDefense": "70",
+    "speed": "55"
+  },
+  {
+    "num": "121",
+    "name": "아쿠스타",
+    "attack": "60",
+    "defense": "75",
+    "sAttack": "85",
+    "sDefense": "100",
+    "speed": "85"
+  },
+  {
+    "num": "122",
+    "name": "마임맨",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "65",
+    "sDefense": "100",
+    "speed": "120"
+  },
+  {
+    "num": "122",
+    "name": "마임맨",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "90",
+    "speed": "90"
+  },
+  {
+    "num": "123",
+    "name": "스라크",
+    "attack": "70",
+    "defense": "110",
+    "sAttack": "80",
+    "sDefense": "55",
+    "speed": "80"
+  },
+  {
+    "num": "124",
+    "name": "루주라",
+    "attack": "65",
+    "defense": "50",
+    "sAttack": "35",
+    "sDefense": "115",
+    "speed": "95"
+  },
+  {
+    "num": "125",
+    "name": "에레브",
+    "attack": "65",
+    "defense": "83",
+    "sAttack": "57",
+    "sDefense": "95",
+    "speed": "85"
+  },
+  {
+    "num": "126",
+    "name": "마그마",
+    "attack": "65",
+    "defense": "95",
+    "sAttack": "57",
+    "sDefense": "100",
+    "speed": "85"
+  },
+  {
+    "num": "127",
+    "name": "쁘사이저",
+    "attack": "65",
+    "defense": "125",
+    "sAttack": "100",
+    "sDefense": "55",
+    "speed": "70"
+  },
+  {
+    "num": "127",
+    "name": "메가쁘사이저",
+    "attack": "65",
+    "defense": "155",
+    "sAttack": "120",
+    "sDefense": "65",
+    "speed": "90"
+  },
+  {
+    "num": "128",
+    "name": "켄타로스",
+    "attack": "75",
+    "defense": "100",
+    "sAttack": "95",
+    "sDefense": "40",
+    "speed": "70"
+  },
+  {
+    "num": "129",
+    "name": "잉어킹",
+    "attack": "20",
+    "defense": "10",
+    "sAttack": "55",
+    "sDefense": "15",
+    "speed": "20"
+  },
+  {
+    "num": "130",
+    "name": "갸라도스",
+    "attack": "95",
+    "defense": "125",
+    "sAttack": "79",
+    "sDefense": "60",
+    "speed": "100"
+  },
+  {
+    "num": "130",
+    "name": "메가갸라도스",
+    "attack": "95",
+    "defense": "155",
+    "sAttack": "109",
+    "sDefense": "70",
+    "speed": "130"
+  },
+  {
+    "num": "131",
+    "name": "라프라스",
+    "attack": "130",
+    "defense": "85",
+    "sAttack": "80",
+    "sDefense": "85",
+    "speed": "95"
+  },
+  {
+    "num": "132",
+    "name": "메타몽",
+    "attack": "48",
+    "defense": "48",
+    "sAttack": "48",
+    "sDefense": "48",
+    "speed": "48"
+  },
+  {
+    "num": "133",
+    "name": "이브이",
+    "attack": "55",
+    "defense": "55",
+    "sAttack": "50",
+    "sDefense": "45",
+    "speed": "65"
+  },
+  {
+    "num": "134",
+    "name": "샤미드",
+    "attack": "130",
+    "defense": "65",
+    "sAttack": "60",
+    "sDefense": "110",
+    "speed": "95"
+  },
+  {
+    "num": "135",
+    "name": "쥬피썬더",
+    "attack": "65",
+    "defense": "65",
+    "sAttack": "60",
+    "sDefense": "110",
+    "speed": "95"
+  },
+  {
+    "num": "136",
+    "name": "부스터",
+    "attack": "65",
+    "defense": "130",
+    "sAttack": "60",
+    "sDefense": "95",
+    "speed": "110"
+  },
+  {
+    "num": "137",
+    "name": "폴리곤",
+    "attack": "65",
+    "defense": "60",
+    "sAttack": "70",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "138",
+    "name": "암나이트",
+    "attack": "35",
+    "defense": "40",
+    "sAttack": "100",
+    "sDefense": "90",
+    "speed": "55"
+  },
+  {
+    "num": "139",
+    "name": "암스타",
+    "attack": "70",
+    "defense": "60",
+    "sAttack": "125",
+    "sDefense": "115",
+    "speed": "70"
+  },
+  {
+    "num": "140",
+    "name": "투구",
+    "attack": "30",
+    "defense": "80",
+    "sAttack": "90",
+    "sDefense": "55",
+    "speed": "45"
+  },
+  {
+    "num": "141",
+    "name": "투구푸스",
+    "attack": "60",
+    "defense": "115",
+    "sAttack": "105",
+    "sDefense": "65",
+    "speed": "70"
+  },
+  {
+    "num": "142",
+    "name": "프테라",
+    "attack": "80",
+    "defense": "105",
+    "sAttack": "65",
+    "sDefense": "60",
+    "speed": "75"
+  },
+  {
+    "num": "142",
+    "name": "메가프테라",
+    "attack": "80",
+    "defense": "135",
+    "sAttack": "85",
+    "sDefense": "70",
+    "speed": "95"
+  },
+  {
+    "num": "143",
+    "name": "잠만보",
+    "attack": "160",
+    "defense": "110",
+    "sAttack": "65",
+    "sDefense": "65",
+    "speed": "110"
+  },
+  {
+    "num": "144",
+    "name": "프리져",
+    "attack": "90",
+    "defense": "85",
+    "sAttack": "100",
+    "sDefense": "95",
+    "speed": "125"
+  },
+  {
+    "num": "144",
+    "name": "프리져",
+    "attack": "90",
+    "defense": "85",
+    "sAttack": "85",
+    "sDefense": "125",
+    "speed": "100"
+  },
+  {
+    "num": "145",
+    "name": "썬더",
+    "attack": "90",
+    "defense": "90",
+    "sAttack": "85",
+    "sDefense": "125",
+    "speed": "90"
+  },
+  {
+    "num": "145",
+    "name": "썬더",
+    "attack": "90",
+    "defense": "125",
+    "sAttack": "90",
+    "sDefense": "85",
+    "speed": "90"
+  },
+  {
+    "num": "146",
+    "name": "파이어",
+    "attack": "90",
+    "defense": "100",
+    "sAttack": "90",
+    "sDefense": "125",
+    "speed": "85"
+  },
+  {
+    "num": "146",
+    "name": "파이어",
+    "attack": "90",
+    "defense": "85",
+    "sAttack": "90",
+    "sDefense": "100",
+    "speed": "125"
+  },
+  {
+    "num": "147",
+    "name": "미뇽",
+    "attack": "41",
+    "defense": "64",
+    "sAttack": "45",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "148",
+    "name": "신뇽",
+    "attack": "61",
+    "defense": "84",
+    "sAttack": "65",
+    "sDefense": "70",
+    "speed": "70"
+  },
+  {
+    "num": "149",
+    "name": "망나뇽",
+    "attack": "91",
+    "defense": "134",
+    "sAttack": "95",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "150",
+    "name": "뮤츠",
+    "attack": "106",
+    "defense": "110",
+    "sAttack": "90",
+    "sDefense": "154",
+    "speed": "90"
+  },
+  {
+    "num": "150",
+    "name": "메가뮤츠X",
+    "attack": "106",
+    "defense": "190",
+    "sAttack": "100",
+    "sDefense": "154",
+    "speed": "100"
+  },
+  {
+    "num": "150",
+    "name": "메가뮤츠Y",
+    "attack": "106",
+    "defense": "150",
+    "sAttack": "70",
+    "sDefense": "194",
+    "speed": "120"
+  },
+  {
+    "num": "151",
+    "name": "뮤",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "100",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "152",
+    "name": "치코리타",
+    "attack": "45",
+    "defense": "49",
+    "sAttack": "65",
+    "sDefense": "49",
+    "speed": "65"
+  },
+  {
+    "num": "153",
+    "name": "베이리프",
+    "attack": "60",
+    "defense": "62",
+    "sAttack": "80",
+    "sDefense": "63",
+    "speed": "80"
+  },
+  {
+    "num": "154",
+    "name": "메가니움",
+    "attack": "80",
+    "defense": "82",
+    "sAttack": "100",
+    "sDefense": "83",
+    "speed": "100"
+  },
+  {
+    "num": "155",
+    "name": "브케인",
+    "attack": "39",
+    "defense": "52",
+    "sAttack": "43",
+    "sDefense": "60",
+    "speed": "50"
+  },
+  {
+    "num": "156",
+    "name": "마그케인",
+    "attack": "58",
+    "defense": "64",
+    "sAttack": "58",
+    "sDefense": "80",
+    "speed": "65"
+  },
+  {
+    "num": "157",
+    "name": "블레이범",
+    "attack": "78",
+    "defense": "84",
+    "sAttack": "78",
+    "sDefense": "109",
+    "speed": "85"
+  },
+  {
+    "num": "158",
+    "name": "리아코",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "64",
+    "sDefense": "44",
+    "speed": "48"
+  },
+  {
+    "num": "159",
+    "name": "엘리게이",
+    "attack": "65",
+    "defense": "80",
+    "sAttack": "80",
+    "sDefense": "59",
+    "speed": "63"
+  },
+  {
+    "num": "160",
+    "name": "장크로다일",
+    "attack": "85",
+    "defense": "105",
+    "sAttack": "100",
+    "sDefense": "79",
+    "speed": "83"
+  },
+  {
+    "num": "161",
+    "name": "꼬리선",
+    "attack": "35",
+    "defense": "46",
+    "sAttack": "34",
+    "sDefense": "35",
+    "speed": "45"
+  },
+  {
+    "num": "162",
+    "name": "다꼬리",
+    "attack": "85",
+    "defense": "76",
+    "sAttack": "64",
+    "sDefense": "45",
+    "speed": "55"
+  },
+  {
+    "num": "163",
+    "name": "부우부",
+    "attack": "60",
+    "defense": "30",
+    "sAttack": "30",
+    "sDefense": "36",
+    "speed": "56"
+  },
+  {
+    "num": "164",
+    "name": "야부엉",
+    "attack": "100",
+    "defense": "50",
+    "sAttack": "50",
+    "sDefense": "76",
+    "speed": "96"
+  },
+  {
+    "num": "165",
+    "name": "레디바",
+    "attack": "40",
+    "defense": "20",
+    "sAttack": "30",
+    "sDefense": "40",
+    "speed": "80"
+  },
+  {
+    "num": "166",
+    "name": "레디안",
+    "attack": "55",
+    "defense": "35",
+    "sAttack": "50",
+    "sDefense": "55",
+    "speed": "110"
+  },
+  {
+    "num": "167",
+    "name": "페이검",
+    "attack": "40",
+    "defense": "60",
+    "sAttack": "40",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "168",
+    "name": "아리아도스",
+    "attack": "70",
+    "defense": "90",
+    "sAttack": "70",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "169",
+    "name": "크로뱃",
+    "attack": "85",
+    "defense": "90",
+    "sAttack": "80",
+    "sDefense": "70",
+    "speed": "80"
+  },
+  {
+    "num": "170",
+    "name": "초라기",
+    "attack": "75",
+    "defense": "38",
+    "sAttack": "38",
+    "sDefense": "56",
+    "speed": "56"
+  },
+  {
+    "num": "171",
+    "name": "랜턴",
+    "attack": "125",
+    "defense": "58",
+    "sAttack": "58",
+    "sDefense": "76",
+    "speed": "76"
+  },
+  {
+    "num": "172",
+    "name": "피츄",
+    "attack": "20",
+    "defense": "40",
+    "sAttack": "15",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "173",
+    "name": "삐",
+    "attack": "50",
+    "defense": "25",
+    "sAttack": "28",
+    "sDefense": "45",
+    "speed": "55"
+  },
+  {
+    "num": "174",
+    "name": "푸푸린",
+    "attack": "90",
+    "defense": "30",
+    "sAttack": "15",
+    "sDefense": "40",
+    "speed": "20"
+  },
+  {
+    "num": "175",
+    "name": "토게피",
+    "attack": "35",
+    "defense": "20",
+    "sAttack": "65",
+    "sDefense": "40",
+    "speed": "65"
+  },
+  {
+    "num": "176",
+    "name": "토게틱",
+    "attack": "55",
+    "defense": "40",
+    "sAttack": "85",
+    "sDefense": "80",
+    "speed": "105"
+  },
+  {
+    "num": "177",
+    "name": "네이티",
+    "attack": "40",
+    "defense": "50",
+    "sAttack": "45",
+    "sDefense": "70",
+    "speed": "45"
+  },
+  {
+    "num": "178",
+    "name": "네이티오",
+    "attack": "65",
+    "defense": "75",
+    "sAttack": "70",
+    "sDefense": "95",
+    "speed": "70"
+  },
+  {
+    "num": "179",
+    "name": "메리프",
+    "attack": "55",
+    "defense": "40",
+    "sAttack": "40",
+    "sDefense": "65",
+    "speed": "45"
+  },
+  {
+    "num": "180",
+    "name": "보송송",
+    "attack": "70",
+    "defense": "55",
+    "sAttack": "55",
+    "sDefense": "80",
+    "speed": "60"
+  },
+  {
+    "num": "181",
+    "name": "전룡",
+    "attack": "90",
+    "defense": "75",
+    "sAttack": "75",
+    "sDefense": "115",
+    "speed": "90"
+  },
+  {
+    "num": "181",
+    "name": "전룡",
+    "attack": "90",
+    "defense": "75",
+    "sAttack": "85",
+    "sDefense": "115",
+    "speed": "90"
+  },
+  {
+    "num": "181",
+    "name": "메가전룡",
+    "attack": "90",
+    "defense": "95",
+    "sAttack": "105",
+    "sDefense": "165",
+    "speed": "110"
+  },
+  {
+    "num": "182",
+    "name": "아르코",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "85",
+    "sDefense": "90",
+    "speed": "100"
+  },
+  {
+    "num": "182",
+    "name": "아르코",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "95",
+    "sDefense": "90",
+    "speed": "100"
+  },
+  {
+    "num": "183",
+    "name": "마릴",
+    "attack": "70",
+    "defense": "20",
+    "sAttack": "50",
+    "sDefense": "20",
+    "speed": "50"
+  },
+  {
+    "num": "184",
+    "name": "마릴리",
+    "attack": "100",
+    "defense": "50",
+    "sAttack": "80",
+    "sDefense": "60",
+    "speed": "80"
+  },
+  {
+    "num": "185",
+    "name": "꼬지모",
+    "attack": "70",
+    "defense": "100",
+    "sAttack": "115",
+    "sDefense": "30",
+    "speed": "65"
+  },
+  {
+    "num": "186",
+    "name": "왕구리",
+    "attack": "90",
+    "defense": "75",
+    "sAttack": "75",
+    "sDefense": "90",
+    "speed": "100"
+  },
+  {
+    "num": "187",
+    "name": "통통코",
+    "attack": "35",
+    "defense": "35",
+    "sAttack": "40",
+    "sDefense": "35",
+    "speed": "55"
+  },
+  {
+    "num": "188",
+    "name": "두코",
+    "attack": "55",
+    "defense": "45",
+    "sAttack": "50",
+    "sDefense": "45",
+    "speed": "65"
+  },
+  {
+    "num": "189",
+    "name": "솜솜코",
+    "attack": "75",
+    "defense": "55",
+    "sAttack": "70",
+    "sDefense": "55",
+    "speed": "85"
+  },
+  {
+    "num": "189",
+    "name": "솜솜코",
+    "attack": "75",
+    "defense": "55",
+    "sAttack": "70",
+    "sDefense": "55",
+    "speed": "95"
+  },
+  {
+    "num": "190",
+    "name": "에이팜",
+    "attack": "55",
+    "defense": "70",
+    "sAttack": "55",
+    "sDefense": "40",
+    "speed": "55"
+  },
+  {
+    "num": "191",
+    "name": "해너츠",
+    "attack": "30",
+    "defense": "30",
+    "sAttack": "30",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "192",
+    "name": "해루미",
+    "attack": "75",
+    "defense": "75",
+    "sAttack": "55",
+    "sDefense": "105",
+    "speed": "85"
+  },
+  {
+    "num": "193",
+    "name": "왕자리",
+    "attack": "65",
+    "defense": "65",
+    "sAttack": "45",
+    "sDefense": "75",
+    "speed": "45"
+  },
+  {
+    "num": "194",
+    "name": "우파",
+    "attack": "55",
+    "defense": "45",
+    "sAttack": "45",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "195",
+    "name": "누오",
+    "attack": "95",
+    "defense": "85",
+    "sAttack": "85",
+    "sDefense": "65",
+    "speed": "65"
+  },
+  {
+    "num": "196",
+    "name": "에브이",
+    "attack": "65",
+    "defense": "65",
+    "sAttack": "60",
+    "sDefense": "130",
+    "speed": "95"
+  },
+  {
+    "num": "197",
+    "name": "블래키",
+    "attack": "95",
+    "defense": "65",
+    "sAttack": "110",
+    "sDefense": "60",
+    "speed": "130"
+  },
+  {
+    "num": "198",
+    "name": "니로우",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "42",
+    "sDefense": "85",
+    "speed": "42"
+  },
+  {
+    "num": "199",
+    "name": "야도킹",
+    "attack": "95",
+    "defense": "75",
+    "sAttack": "80",
+    "sDefense": "100",
+    "speed": "110"
+  },
+  {
+    "num": "200",
+    "name": "무우마",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "60",
+    "sDefense": "85",
+    "speed": "85"
+  },
+  {
+    "num": "201",
+    "name": "안농",
+    "attack": "48",
+    "defense": "72",
+    "sAttack": "48",
+    "sDefense": "72",
+    "speed": "48"
+  },
+  {
+    "num": "202",
+    "name": "마자용",
+    "attack": "190",
+    "defense": "33",
+    "sAttack": "58",
+    "sDefense": "33",
+    "speed": "58"
+  },
+  {
+    "num": "203",
+    "name": "키링키",
+    "attack": "70",
+    "defense": "80",
+    "sAttack": "65",
+    "sDefense": "90",
+    "speed": "65"
+  },
+  {
+    "num": "204",
+    "name": "피콘",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "90",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "205",
+    "name": "쏘콘",
+    "attack": "75",
+    "defense": "90",
+    "sAttack": "140",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "206",
+    "name": "노고치",
+    "attack": "100",
+    "defense": "70",
+    "sAttack": "70",
+    "sDefense": "65",
+    "speed": "65"
+  },
+  {
+    "num": "207",
+    "name": "글라이거",
+    "attack": "65",
+    "defense": "75",
+    "sAttack": "105",
+    "sDefense": "35",
+    "speed": "65"
+  },
+  {
+    "num": "208",
+    "name": "강철톤",
+    "attack": "75",
+    "defense": "85",
+    "sAttack": "200",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "208",
+    "name": "메가강철톤",
+    "attack": "75",
+    "defense": "125",
+    "sAttack": "230",
+    "sDefense": "55",
+    "speed": "95"
+  },
+  {
+    "num": "209",
+    "name": "블루",
+    "attack": "60",
+    "defense": "80",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "210",
+    "name": "그랑블루",
+    "attack": "90",
+    "defense": "120",
+    "sAttack": "75",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "211",
+    "name": "침바루",
+    "attack": "65",
+    "defense": "95",
+    "sAttack": "75",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "212",
+    "name": "핫삼",
+    "attack": "70",
+    "defense": "130",
+    "sAttack": "100",
+    "sDefense": "55",
+    "speed": "80"
+  },
+  {
+    "num": "212",
+    "name": "메가핫삼",
+    "attack": "70",
+    "defense": "150",
+    "sAttack": "140",
+    "sDefense": "65",
+    "speed": "100"
+  },
+  {
+    "num": "213",
+    "name": "단단지",
+    "attack": "20",
+    "defense": "10",
+    "sAttack": "230",
+    "sDefense": "10",
+    "speed": "230"
+  },
+  {
+    "num": "214",
+    "name": "헤라크로스",
+    "attack": "80",
+    "defense": "125",
+    "sAttack": "75",
+    "sDefense": "40",
+    "speed": "95"
+  },
+  {
+    "num": "214",
+    "name": "메가헤라크로스",
+    "attack": "80",
+    "defense": "185",
+    "sAttack": "115",
+    "sDefense": "40",
+    "speed": "105"
+  },
+  {
+    "num": "215",
+    "name": "포푸니",
+    "attack": "55",
+    "defense": "95",
+    "sAttack": "55",
+    "sDefense": "35",
+    "speed": "75"
+  },
+  {
+    "num": "216",
+    "name": "깜지곰",
+    "attack": "60",
+    "defense": "80",
+    "sAttack": "50",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "217",
+    "name": "링곰",
+    "attack": "90",
+    "defense": "130",
+    "sAttack": "75",
+    "sDefense": "75",
+    "speed": "75"
+  },
+  {
+    "num": "218",
+    "name": "마그마그",
+    "attack": "40",
+    "defense": "40",
+    "sAttack": "40",
+    "sDefense": "70",
+    "speed": "40"
+  },
+  {
+    "num": "219",
+    "name": "마그카르고",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "120",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "220",
+    "name": "꾸꾸리",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "40",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "221",
+    "name": "메꾸리",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "80",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "222",
+    "name": "코산호",
+    "attack": "55",
+    "defense": "55",
+    "sAttack": "85",
+    "sDefense": "65",
+    "speed": "85"
+  },
+  {
+    "num": "222",
+    "name": "코산호",
+    "attack": "60",
+    "defense": "55",
+    "sAttack": "100",
+    "sDefense": "65",
+    "speed": "100"
+  },
+  {
+    "num": "223",
+    "name": "총어",
+    "attack": "35",
+    "defense": "65",
+    "sAttack": "35",
+    "sDefense": "65",
+    "speed": "35"
+  },
+  {
+    "num": "224",
+    "name": "대포무노",
+    "attack": "75",
+    "defense": "105",
+    "sAttack": "75",
+    "sDefense": "105",
+    "speed": "75"
+  },
+  {
+    "num": "225",
+    "name": "딜리버드",
+    "attack": "45",
+    "defense": "55",
+    "sAttack": "45",
+    "sDefense": "65",
+    "speed": "45"
+  },
+  {
+    "num": "226",
+    "name": "만타인",
+    "attack": "65",
+    "defense": "40",
+    "sAttack": "70",
+    "sDefense": "80",
+    "speed": "140"
+  },
+  {
+    "num": "227",
+    "name": "무장조",
+    "attack": "65",
+    "defense": "80",
+    "sAttack": "140",
+    "sDefense": "40",
+    "speed": "70"
+  },
+  {
+    "num": "228",
+    "name": "델빌",
+    "attack": "45",
+    "defense": "60",
+    "sAttack": "30",
+    "sDefense": "80",
+    "speed": "50"
+  },
+  {
+    "num": "229",
+    "name": "헬가",
+    "attack": "75",
+    "defense": "90",
+    "sAttack": "50",
+    "sDefense": "110",
+    "speed": "80"
+  },
+  {
+    "num": "229",
+    "name": "메가헬가",
+    "attack": "75",
+    "defense": "90",
+    "sAttack": "90",
+    "sDefense": "140",
+    "speed": "90"
+  },
+  {
+    "num": "230",
+    "name": "킹드라",
+    "attack": "75",
+    "defense": "95",
+    "sAttack": "95",
+    "sDefense": "95",
+    "speed": "95"
+  },
+  {
+    "num": "231",
+    "name": "코코리",
+    "attack": "90",
+    "defense": "60",
+    "sAttack": "60",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "232",
+    "name": "코리갑",
+    "attack": "90",
+    "defense": "120",
+    "sAttack": "120",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "233",
+    "name": "폴리곤2",
+    "attack": "85",
+    "defense": "80",
+    "sAttack": "90",
+    "sDefense": "105",
+    "speed": "95"
+  },
+  {
+    "num": "234",
+    "name": "노라키",
+    "attack": "73",
+    "defense": "95",
+    "sAttack": "62",
+    "sDefense": "85",
+    "speed": "65"
+  },
+  {
+    "num": "235",
+    "name": "루브도",
+    "attack": "55",
+    "defense": "20",
+    "sAttack": "35",
+    "sDefense": "20",
+    "speed": "45"
+  },
+  {
+    "num": "236",
+    "name": "배루키",
+    "attack": "35",
+    "defense": "35",
+    "sAttack": "35",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "237",
+    "name": "카포에라",
+    "attack": "50",
+    "defense": "95",
+    "sAttack": "95",
+    "sDefense": "35",
+    "speed": "110"
+  },
+  {
+    "num": "238",
+    "name": "뽀뽀라",
+    "attack": "45",
+    "defense": "30",
+    "sAttack": "15",
+    "sDefense": "85",
+    "speed": "65"
+  },
+  {
+    "num": "239",
+    "name": "에레키드",
+    "attack": "45",
+    "defense": "63",
+    "sAttack": "37",
+    "sDefense": "65",
+    "speed": "55"
+  },
+  {
+    "num": "240",
+    "name": "마그비",
+    "attack": "45",
+    "defense": "75",
+    "sAttack": "37",
+    "sDefense": "70",
+    "speed": "55"
+  },
+  {
+    "num": "241",
+    "name": "밀탱크",
+    "attack": "95",
+    "defense": "80",
+    "sAttack": "105",
+    "sDefense": "40",
+    "speed": "70"
+  },
+  {
+    "num": "242",
+    "name": "해피너스",
+    "attack": "255",
+    "defense": "10",
+    "sAttack": "10",
+    "sDefense": "75",
+    "speed": "135"
+  },
+  {
+    "num": "243",
+    "name": "라이코",
+    "attack": "90",
+    "defense": "85",
+    "sAttack": "75",
+    "sDefense": "115",
+    "speed": "100"
+  },
+  {
+    "num": "244",
+    "name": "앤테이",
+    "attack": "115",
+    "defense": "115",
+    "sAttack": "85",
+    "sDefense": "90",
+    "speed": "75"
+  },
+  {
+    "num": "245",
+    "name": "스이쿤",
+    "attack": "100",
+    "defense": "75",
+    "sAttack": "115",
+    "sDefense": "90",
+    "speed": "115"
+  },
+  {
+    "num": "246",
+    "name": "애버라스",
+    "attack": "50",
+    "defense": "64",
+    "sAttack": "50",
+    "sDefense": "45",
+    "speed": "50"
+  },
+  {
+    "num": "247",
+    "name": "데기라스",
+    "attack": "70",
+    "defense": "84",
+    "sAttack": "70",
+    "sDefense": "65",
+    "speed": "70"
+  },
+  {
+    "num": "248",
+    "name": "마기라스",
+    "attack": "100",
+    "defense": "134",
+    "sAttack": "110",
+    "sDefense": "95",
+    "speed": "100"
+  },
+  {
+    "num": "248",
+    "name": "메가마기라스",
+    "attack": "100",
+    "defense": "164",
+    "sAttack": "150",
+    "sDefense": "95",
+    "speed": "120"
+  },
+  {
+    "num": "249",
+    "name": "루기아",
+    "attack": "106",
+    "defense": "90",
+    "sAttack": "130",
+    "sDefense": "90",
+    "speed": "154"
+  },
+  {
+    "num": "250",
+    "name": "칠색조",
+    "attack": "106",
+    "defense": "130",
+    "sAttack": "90",
+    "sDefense": "110",
+    "speed": "154"
+  },
+  {
+    "num": "251",
+    "name": "세레비",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "100",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "252",
+    "name": "나무지기",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "35",
+    "sDefense": "65",
+    "speed": "55"
+  },
+  {
+    "num": "253",
+    "name": "나무돌이",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "45",
+    "sDefense": "85",
+    "speed": "65"
+  },
+  {
+    "num": "254",
+    "name": "나무킹",
+    "attack": "70",
+    "defense": "85",
+    "sAttack": "65",
+    "sDefense": "105",
+    "speed": "85"
+  },
+  {
+    "num": "254",
+    "name": "메가나무킹",
+    "attack": "70",
+    "defense": "110",
+    "sAttack": "75",
+    "sDefense": "145",
+    "speed": "85"
+  },
+  {
+    "num": "255",
+    "name": "아차모",
+    "attack": "45",
+    "defense": "60",
+    "sAttack": "40",
+    "sDefense": "70",
+    "speed": "50"
+  },
+  {
+    "num": "256",
+    "name": "영치코",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "60",
+    "sDefense": "85",
+    "speed": "60"
+  },
+  {
+    "num": "257",
+    "name": "번치코",
+    "attack": "80",
+    "defense": "120",
+    "sAttack": "70",
+    "sDefense": "110",
+    "speed": "70"
+  },
+  {
+    "num": "257",
+    "name": "메가번치코",
+    "attack": "80",
+    "defense": "160",
+    "sAttack": "80",
+    "sDefense": "130",
+    "speed": "80"
+  },
+  {
+    "num": "258",
+    "name": "물짱이",
+    "attack": "50",
+    "defense": "70",
+    "sAttack": "50",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "259",
+    "name": "늪짱이",
+    "attack": "70",
+    "defense": "85",
+    "sAttack": "70",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "260",
+    "name": "대짱이",
+    "attack": "100",
+    "defense": "110",
+    "sAttack": "90",
+    "sDefense": "85",
+    "speed": "90"
+  },
+  {
+    "num": "260",
+    "name": "메가대짱이",
+    "attack": "100",
+    "defense": "150",
+    "sAttack": "110",
+    "sDefense": "95",
+    "speed": "110"
+  },
+  {
+    "num": "261",
+    "name": "포챠나",
+    "attack": "35",
+    "defense": "55",
+    "sAttack": "35",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "262",
+    "name": "그라에나",
+    "attack": "70",
+    "defense": "90",
+    "sAttack": "70",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "263",
+    "name": "지그제구리",
+    "attack": "38",
+    "defense": "30",
+    "sAttack": "41",
+    "sDefense": "30",
+    "speed": "41"
+  },
+  {
+    "num": "263",
+    "name": "지그제구리",
+    "attack": "38",
+    "defense": "30",
+    "sAttack": "41",
+    "sDefense": "30",
+    "speed": "41"
+  },
+  {
+    "num": "264",
+    "name": "직구리",
+    "attack": "78",
+    "defense": "70",
+    "sAttack": "61",
+    "sDefense": "50",
+    "speed": "61"
+  },
+  {
+    "num": "264",
+    "name": "직구리",
+    "attack": "78",
+    "defense": "70",
+    "sAttack": "61",
+    "sDefense": "50",
+    "speed": "61"
+  },
+  {
+    "num": "265",
+    "name": "개무소",
+    "attack": "45",
+    "defense": "45",
+    "sAttack": "35",
+    "sDefense": "20",
+    "speed": "30"
+  },
+  {
+    "num": "266",
+    "name": "실쿤",
+    "attack": "50",
+    "defense": "35",
+    "sAttack": "55",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "267",
+    "name": "뷰티플라이",
+    "attack": "60",
+    "defense": "70",
+    "sAttack": "50",
+    "sDefense": "100",
+    "speed": "50"
+  },
+  {
+    "num": "267",
+    "name": "뷰티플라이",
+    "attack": "60",
+    "defense": "70",
+    "sAttack": "50",
+    "sDefense": "90",
+    "speed": "50"
+  },
+  {
+    "num": "268",
+    "name": "카스쿤",
+    "attack": "50",
+    "defense": "35",
+    "sAttack": "55",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "269",
+    "name": "독케일",
+    "attack": "60",
+    "defense": "50",
+    "sAttack": "70",
+    "sDefense": "50",
+    "speed": "90"
+  },
+  {
+    "num": "270",
+    "name": "연꽃몬",
+    "attack": "40",
+    "defense": "30",
+    "sAttack": "30",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "271",
+    "name": "로토스",
+    "attack": "60",
+    "defense": "50",
+    "sAttack": "50",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "272",
+    "name": "로파파",
+    "attack": "80",
+    "defense": "70",
+    "sAttack": "70",
+    "sDefense": "90",
+    "speed": "100"
+  },
+  {
+    "num": "273",
+    "name": "도토링",
+    "attack": "40",
+    "defense": "40",
+    "sAttack": "50",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "274",
+    "name": "잎새코",
+    "attack": "70",
+    "defense": "70",
+    "sAttack": "40",
+    "sDefense": "60",
+    "speed": "40"
+  },
+  {
+    "num": "275",
+    "name": "다탱구",
+    "attack": "90",
+    "defense": "100",
+    "sAttack": "60",
+    "sDefense": "90",
+    "speed": "60"
+  },
+  {
+    "num": "276",
+    "name": "테일로",
+    "attack": "40",
+    "defense": "55",
+    "sAttack": "30",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "277",
+    "name": "스왈로",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "60",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "278",
+    "name": "갈모매",
+    "attack": "40",
+    "defense": "30",
+    "sAttack": "30",
+    "sDefense": "55",
+    "speed": "30"
+  },
+  {
+    "num": "279",
+    "name": "패리퍼",
+    "attack": "60",
+    "defense": "50",
+    "sAttack": "100",
+    "sDefense": "85",
+    "speed": "70"
+  },
+  {
+    "num": "280",
+    "name": "랄토스",
+    "attack": "28",
+    "defense": "25",
+    "sAttack": "25",
+    "sDefense": "45",
+    "speed": "35"
+  },
+  {
+    "num": "281",
+    "name": "킬리아",
+    "attack": "38",
+    "defense": "35",
+    "sAttack": "35",
+    "sDefense": "65",
+    "speed": "55"
+  },
+  {
+    "num": "282",
+    "name": "가디안",
+    "attack": "68",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "125",
+    "speed": "115"
+  },
+  {
+    "num": "282",
+    "name": "메가가디안",
+    "attack": "68",
+    "defense": "85",
+    "sAttack": "65",
+    "sDefense": "165",
+    "speed": "135"
+  },
+  {
+    "num": "283",
+    "name": "비구술",
+    "attack": "40",
+    "defense": "30",
+    "sAttack": "32",
+    "sDefense": "50",
+    "speed": "52"
+  },
+  {
+    "num": "284",
+    "name": "비나방",
+    "attack": "70",
+    "defense": "60",
+    "sAttack": "62",
+    "sDefense": "80",
+    "speed": "82"
+  },
+  {
+    "num": "285",
+    "name": "버섯꼬",
+    "attack": "60",
+    "defense": "40",
+    "sAttack": "60",
+    "sDefense": "40",
+    "speed": "60"
+  },
+  {
+    "num": "286",
+    "name": "버섯모",
+    "attack": "60",
+    "defense": "130",
+    "sAttack": "80",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "287",
+    "name": "게을로",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "60",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "288",
+    "name": "발바로",
+    "attack": "80",
+    "defense": "80",
+    "sAttack": "80",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "289",
+    "name": "게을킹",
+    "attack": "150",
+    "defense": "160",
+    "sAttack": "100",
+    "sDefense": "95",
+    "speed": "65"
+  },
+  {
+    "num": "290",
+    "name": "토중몬",
+    "attack": "31",
+    "defense": "45",
+    "sAttack": "90",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "291",
+    "name": "아이스크",
+    "attack": "61",
+    "defense": "90",
+    "sAttack": "45",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "292",
+    "name": "껍질몬",
+    "attack": "1",
+    "defense": "90",
+    "sAttack": "45",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "293",
+    "name": "소곤룡",
+    "attack": "64",
+    "defense": "51",
+    "sAttack": "23",
+    "sDefense": "51",
+    "speed": "23"
+  },
+  {
+    "num": "294",
+    "name": "노공룡",
+    "attack": "84",
+    "defense": "71",
+    "sAttack": "43",
+    "sDefense": "71",
+    "speed": "43"
+  },
+  {
+    "num": "295",
+    "name": "폭음룡",
+    "attack": "104",
+    "defense": "91",
+    "sAttack": "63",
+    "sDefense": "91",
+    "speed": "63"
+  },
+  {
+    "num": "295",
+    "name": "폭음룡",
+    "attack": "104",
+    "defense": "91",
+    "sAttack": "63",
+    "sDefense": "91",
+    "speed": "73"
+  },
+  {
+    "num": "296",
+    "name": "마크탕",
+    "attack": "72",
+    "defense": "60",
+    "sAttack": "30",
+    "sDefense": "20",
+    "speed": "30"
+  },
+  {
+    "num": "297",
+    "name": "하리뭉",
+    "attack": "144",
+    "defense": "120",
+    "sAttack": "60",
+    "sDefense": "40",
+    "speed": "60"
+  },
+  {
+    "num": "298",
+    "name": "루리리",
+    "attack": "50",
+    "defense": "20",
+    "sAttack": "40",
+    "sDefense": "20",
+    "speed": "40"
+  },
+  {
+    "num": "299",
+    "name": "코코파스",
+    "attack": "30",
+    "defense": "45",
+    "sAttack": "135",
+    "sDefense": "45",
+    "speed": "90"
+  },
+  {
+    "num": "300",
+    "name": "에나비",
+    "attack": "50",
+    "defense": "45",
+    "sAttack": "45",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "301",
+    "name": "델케티",
+    "attack": "70",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "302",
+    "name": "깜까미",
+    "attack": "50",
+    "defense": "75",
+    "sAttack": "75",
+    "sDefense": "65",
+    "speed": "65"
+  },
+  {
+    "num": "302",
+    "name": "메가깜까미",
+    "attack": "50",
+    "defense": "85",
+    "sAttack": "125",
+    "sDefense": "85",
+    "speed": "115"
+  },
+  {
+    "num": "303",
+    "name": "입치트",
+    "attack": "50",
+    "defense": "85",
+    "sAttack": "85",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "303",
+    "name": "메가입치트",
+    "attack": "50",
+    "defense": "105",
+    "sAttack": "125",
+    "sDefense": "55",
+    "speed": "95"
+  },
+  {
+    "num": "304",
+    "name": "가보리",
+    "attack": "50",
+    "defense": "70",
+    "sAttack": "100",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "305",
+    "name": "갱도라",
+    "attack": "60",
+    "defense": "90",
+    "sAttack": "140",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "306",
+    "name": "보스로라",
+    "attack": "70",
+    "defense": "110",
+    "sAttack": "180",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "306",
+    "name": "메가보스로라",
+    "attack": "70",
+    "defense": "140",
+    "sAttack": "230",
+    "sDefense": "60",
+    "speed": "80"
+  },
+  {
+    "num": "307",
+    "name": "요가랑",
+    "attack": "30",
+    "defense": "40",
+    "sAttack": "55",
+    "sDefense": "40",
+    "speed": "55"
+  },
+  {
+    "num": "308",
+    "name": "요가램",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "75",
+    "sDefense": "60",
+    "speed": "75"
+  },
+  {
+    "num": "308",
+    "name": "메가요가램",
+    "attack": "60",
+    "defense": "100",
+    "sAttack": "85",
+    "sDefense": "80",
+    "speed": "85"
+  },
+  {
+    "num": "309",
+    "name": "썬더라이",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "40",
+    "sDefense": "65",
+    "speed": "40"
+  },
+  {
+    "num": "310",
+    "name": "썬더볼트",
+    "attack": "70",
+    "defense": "75",
+    "sAttack": "60",
+    "sDefense": "105",
+    "speed": "60"
+  },
+  {
+    "num": "310",
+    "name": "메가썬더볼트",
+    "attack": "70",
+    "defense": "75",
+    "sAttack": "80",
+    "sDefense": "135",
+    "speed": "80"
+  },
+  {
+    "num": "311",
+    "name": "플러시",
+    "attack": "60",
+    "defense": "50",
+    "sAttack": "40",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "312",
+    "name": "마이농",
+    "attack": "60",
+    "defense": "40",
+    "sAttack": "50",
+    "sDefense": "75",
+    "speed": "85"
+  },
+  {
+    "num": "313",
+    "name": "볼비트",
+    "attack": "65",
+    "defense": "73",
+    "sAttack": "55",
+    "sDefense": "47",
+    "speed": "75"
+  },
+  {
+    "num": "314",
+    "name": "네오비트",
+    "attack": "65",
+    "defense": "47",
+    "sAttack": "55",
+    "sDefense": "73",
+    "speed": "75"
+  },
+  {
+    "num": "315",
+    "name": "로젤리아",
+    "attack": "50",
+    "defense": "60",
+    "sAttack": "45",
+    "sDefense": "100",
+    "speed": "80"
+  },
+  {
+    "num": "316",
+    "name": "꼴깍몬",
+    "attack": "70",
+    "defense": "43",
+    "sAttack": "53",
+    "sDefense": "43",
+    "speed": "53"
+  },
+  {
+    "num": "317",
+    "name": "꿀꺽몬",
+    "attack": "100",
+    "defense": "73",
+    "sAttack": "83",
+    "sDefense": "73",
+    "speed": "83"
+  },
+  {
+    "num": "318",
+    "name": "샤프니아",
+    "attack": "45",
+    "defense": "90",
+    "sAttack": "20",
+    "sDefense": "65",
+    "speed": "20"
+  },
+  {
+    "num": "319",
+    "name": "샤크니아",
+    "attack": "70",
+    "defense": "120",
+    "sAttack": "40",
+    "sDefense": "95",
+    "speed": "40"
+  },
+  {
+    "num": "319",
+    "name": "메가샤크니아",
+    "attack": "70",
+    "defense": "140",
+    "sAttack": "70",
+    "sDefense": "110",
+    "speed": "65"
+  },
+  {
+    "num": "320",
+    "name": "고래왕자",
+    "attack": "130",
+    "defense": "70",
+    "sAttack": "35",
+    "sDefense": "70",
+    "speed": "35"
+  },
+  {
+    "num": "321",
+    "name": "고래왕",
+    "attack": "170",
+    "defense": "90",
+    "sAttack": "45",
+    "sDefense": "90",
+    "speed": "45"
+  },
+  {
+    "num": "322",
+    "name": "둔타",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "40",
+    "sDefense": "65",
+    "speed": "45"
+  },
+  {
+    "num": "323",
+    "name": "폭타",
+    "attack": "70",
+    "defense": "100",
+    "sAttack": "70",
+    "sDefense": "105",
+    "speed": "75"
+  },
+  {
+    "num": "323",
+    "name": "메가폭타",
+    "attack": "70",
+    "defense": "120",
+    "sAttack": "100",
+    "sDefense": "145",
+    "speed": "105"
+  },
+  {
+    "num": "324",
+    "name": "코터스",
+    "attack": "70",
+    "defense": "85",
+    "sAttack": "140",
+    "sDefense": "85",
+    "speed": "70"
+  },
+  {
+    "num": "325",
+    "name": "피그점프",
+    "attack": "60",
+    "defense": "25",
+    "sAttack": "35",
+    "sDefense": "70",
+    "speed": "80"
+  },
+  {
+    "num": "326",
+    "name": "피그킹",
+    "attack": "80",
+    "defense": "45",
+    "sAttack": "65",
+    "sDefense": "90",
+    "speed": "110"
+  },
+  {
+    "num": "327",
+    "name": "얼루기",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "60",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "328",
+    "name": "톱치",
+    "attack": "45",
+    "defense": "100",
+    "sAttack": "45",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "329",
+    "name": "비브라바",
+    "attack": "50",
+    "defense": "70",
+    "sAttack": "50",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "330",
+    "name": "플라이곤",
+    "attack": "80",
+    "defense": "100",
+    "sAttack": "80",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "331",
+    "name": "선인왕",
+    "attack": "50",
+    "defense": "85",
+    "sAttack": "40",
+    "sDefense": "85",
+    "speed": "40"
+  },
+  {
+    "num": "332",
+    "name": "밤선인",
+    "attack": "70",
+    "defense": "115",
+    "sAttack": "60",
+    "sDefense": "115",
+    "speed": "60"
+  },
+  {
+    "num": "333",
+    "name": "파비코",
+    "attack": "45",
+    "defense": "40",
+    "sAttack": "60",
+    "sDefense": "40",
+    "speed": "75"
+  },
+  {
+    "num": "334",
+    "name": "파비코리",
+    "attack": "75",
+    "defense": "70",
+    "sAttack": "90",
+    "sDefense": "70",
+    "speed": "105"
+  },
+  {
+    "num": "334",
+    "name": "메가파비코리",
+    "attack": "75",
+    "defense": "110",
+    "sAttack": "110",
+    "sDefense": "110",
+    "speed": "105"
+  },
+  {
+    "num": "335",
+    "name": "쟝고",
+    "attack": "73",
+    "defense": "115",
+    "sAttack": "60",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "336",
+    "name": "세비퍼",
+    "attack": "73",
+    "defense": "100",
+    "sAttack": "60",
+    "sDefense": "100",
+    "speed": "60"
+  },
+  {
+    "num": "337",
+    "name": "루나톤",
+    "attack": "70",
+    "defense": "55",
+    "sAttack": "65",
+    "sDefense": "95",
+    "speed": "85"
+  },
+  {
+    "num": "338",
+    "name": "솔록",
+    "attack": "70",
+    "defense": "95",
+    "sAttack": "85",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "339",
+    "name": "미꾸리",
+    "attack": "50",
+    "defense": "48",
+    "sAttack": "43",
+    "sDefense": "46",
+    "speed": "41"
+  },
+  {
+    "num": "340",
+    "name": "메깅",
+    "attack": "110",
+    "defense": "78",
+    "sAttack": "73",
+    "sDefense": "76",
+    "speed": "71"
+  },
+  {
+    "num": "341",
+    "name": "가재군",
+    "attack": "43",
+    "defense": "80",
+    "sAttack": "65",
+    "sDefense": "50",
+    "speed": "35"
+  },
+  {
+    "num": "342",
+    "name": "가재장군",
+    "attack": "63",
+    "defense": "120",
+    "sAttack": "85",
+    "sDefense": "90",
+    "speed": "55"
+  },
+  {
+    "num": "343",
+    "name": "오뚝군",
+    "attack": "40",
+    "defense": "40",
+    "sAttack": "55",
+    "sDefense": "40",
+    "speed": "70"
+  },
+  {
+    "num": "344",
+    "name": "점토도리",
+    "attack": "60",
+    "defense": "70",
+    "sAttack": "105",
+    "sDefense": "70",
+    "speed": "120"
+  },
+  {
+    "num": "345",
+    "name": "릴링",
+    "attack": "66",
+    "defense": "41",
+    "sAttack": "77",
+    "sDefense": "61",
+    "speed": "87"
+  },
+  {
+    "num": "346",
+    "name": "릴리요",
+    "attack": "86",
+    "defense": "81",
+    "sAttack": "97",
+    "sDefense": "81",
+    "speed": "107"
+  },
+  {
+    "num": "347",
+    "name": "아노딥스",
+    "attack": "45",
+    "defense": "95",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "348",
+    "name": "아말도",
+    "attack": "75",
+    "defense": "125",
+    "sAttack": "100",
+    "sDefense": "70",
+    "speed": "80"
+  },
+  {
+    "num": "349",
+    "name": "빈티나",
+    "attack": "20",
+    "defense": "15",
+    "sAttack": "20",
+    "sDefense": "10",
+    "speed": "55"
+  },
+  {
+    "num": "350",
+    "name": "밀로틱",
+    "attack": "95",
+    "defense": "60",
+    "sAttack": "79",
+    "sDefense": "100",
+    "speed": "125"
+  },
+  {
+    "num": "351",
+    "name": "캐스퐁",
+    "attack": "70",
+    "defense": "70",
+    "sAttack": "70",
+    "sDefense": "70",
+    "speed": "70"
+  },
+  {
+    "num": "352",
+    "name": "켈리몬",
+    "attack": "60",
+    "defense": "90",
+    "sAttack": "70",
+    "sDefense": "60",
+    "speed": "120"
+  },
+  {
+    "num": "353",
+    "name": "어둠대신",
+    "attack": "44",
+    "defense": "75",
+    "sAttack": "35",
+    "sDefense": "63",
+    "speed": "33"
+  },
+  {
+    "num": "354",
+    "name": "다크펫",
+    "attack": "64",
+    "defense": "115",
+    "sAttack": "65",
+    "sDefense": "83",
+    "speed": "63"
+  },
+  {
+    "num": "354",
+    "name": "메가다크펫",
+    "attack": "64",
+    "defense": "165",
+    "sAttack": "75",
+    "sDefense": "93",
+    "speed": "83"
+  },
+  {
+    "num": "355",
+    "name": "해골몽",
+    "attack": "20",
+    "defense": "40",
+    "sAttack": "90",
+    "sDefense": "30",
+    "speed": "90"
+  },
+  {
+    "num": "356",
+    "name": "미라몽",
+    "attack": "40",
+    "defense": "70",
+    "sAttack": "130",
+    "sDefense": "60",
+    "speed": "130"
+  },
+  {
+    "num": "357",
+    "name": "트로피우스",
+    "attack": "99",
+    "defense": "68",
+    "sAttack": "83",
+    "sDefense": "72",
+    "speed": "87"
+  },
+  {
+    "num": "358",
+    "name": "치렁",
+    "attack": "65",
+    "defense": "50",
+    "sAttack": "70",
+    "sDefense": "95",
+    "speed": "80"
+  },
+  {
+    "num": "359",
+    "name": "앱솔",
+    "attack": "65",
+    "defense": "130",
+    "sAttack": "60",
+    "sDefense": "75",
+    "speed": "60"
+  },
+  {
+    "num": "359",
+    "name": "메가앱솔",
+    "attack": "65",
+    "defense": "150",
+    "sAttack": "60",
+    "sDefense": "115",
+    "speed": "60"
+  },
+  {
+    "num": "360",
+    "name": "마자",
+    "attack": "95",
+    "defense": "23",
+    "sAttack": "48",
+    "sDefense": "23",
+    "speed": "48"
+  },
+  {
+    "num": "361",
+    "name": "눈꼬마",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "50",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "362",
+    "name": "얼음귀신",
+    "attack": "80",
+    "defense": "80",
+    "sAttack": "80",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "362",
+    "name": "메가얼음귀신",
+    "attack": "80",
+    "defense": "120",
+    "sAttack": "80",
+    "sDefense": "120",
+    "speed": "80"
+  },
+  {
+    "num": "363",
+    "name": "대굴레오",
+    "attack": "70",
+    "defense": "40",
+    "sAttack": "50",
+    "sDefense": "55",
+    "speed": "50"
+  },
+  {
+    "num": "364",
+    "name": "씨레오",
+    "attack": "90",
+    "defense": "60",
+    "sAttack": "70",
+    "sDefense": "75",
+    "speed": "70"
+  },
+  {
+    "num": "365",
+    "name": "씨카이저",
+    "attack": "110",
+    "defense": "80",
+    "sAttack": "90",
+    "sDefense": "95",
+    "speed": "90"
+  },
+  {
+    "num": "366",
+    "name": "진주몽",
+    "attack": "35",
+    "defense": "64",
+    "sAttack": "85",
+    "sDefense": "74",
+    "speed": "55"
+  },
+  {
+    "num": "367",
+    "name": "헌테일",
+    "attack": "55",
+    "defense": "104",
+    "sAttack": "105",
+    "sDefense": "94",
+    "speed": "75"
+  },
+  {
+    "num": "368",
+    "name": "분홍장이",
+    "attack": "55",
+    "defense": "84",
+    "sAttack": "105",
+    "sDefense": "114",
+    "speed": "75"
+  },
+  {
+    "num": "369",
+    "name": "시라칸",
+    "attack": "100",
+    "defense": "90",
+    "sAttack": "130",
+    "sDefense": "45",
+    "speed": "65"
+  },
+  {
+    "num": "370",
+    "name": "사랑동이",
+    "attack": "43",
+    "defense": "30",
+    "sAttack": "55",
+    "sDefense": "40",
+    "speed": "65"
+  },
+  {
+    "num": "371",
+    "name": "아공이",
+    "attack": "45",
+    "defense": "75",
+    "sAttack": "60",
+    "sDefense": "40",
+    "speed": "30"
+  },
+  {
+    "num": "372",
+    "name": "쉘곤",
+    "attack": "65",
+    "defense": "95",
+    "sAttack": "100",
+    "sDefense": "60",
+    "speed": "50"
+  },
+  {
+    "num": "373",
+    "name": "보만다",
+    "attack": "95",
+    "defense": "135",
+    "sAttack": "80",
+    "sDefense": "110",
+    "speed": "80"
+  },
+  {
+    "num": "373",
+    "name": "메가보만다",
+    "attack": "95",
+    "defense": "145",
+    "sAttack": "130",
+    "sDefense": "120",
+    "speed": "90"
+  },
+  {
+    "num": "374",
+    "name": "메탕",
+    "attack": "40",
+    "defense": "55",
+    "sAttack": "80",
+    "sDefense": "35",
+    "speed": "60"
+  },
+  {
+    "num": "375",
+    "name": "메탕구",
+    "attack": "60",
+    "defense": "75",
+    "sAttack": "100",
+    "sDefense": "55",
+    "speed": "80"
+  },
+  {
+    "num": "376",
+    "name": "메타그로스",
+    "attack": "80",
+    "defense": "135",
+    "sAttack": "130",
+    "sDefense": "95",
+    "speed": "90"
+  },
+  {
+    "num": "376",
+    "name": "메가메타그로스",
+    "attack": "80",
+    "defense": "145",
+    "sAttack": "150",
+    "sDefense": "105",
+    "speed": "110"
+  },
+  {
+    "num": "377",
+    "name": "레지락",
+    "attack": "80",
+    "defense": "100",
+    "sAttack": "200",
+    "sDefense": "50",
+    "speed": "100"
+  },
+  {
+    "num": "378",
+    "name": "레지아이스",
+    "attack": "80",
+    "defense": "50",
+    "sAttack": "100",
+    "sDefense": "100",
+    "speed": "200"
+  },
+  {
+    "num": "379",
+    "name": "레지스틸",
+    "attack": "80",
+    "defense": "75",
+    "sAttack": "150",
+    "sDefense": "75",
+    "speed": "150"
+  },
+  {
+    "num": "380",
+    "name": "라티아스",
+    "attack": "80",
+    "defense": "80",
+    "sAttack": "90",
+    "sDefense": "110",
+    "speed": "130"
+  },
+  {
+    "num": "380",
+    "name": "메가라티아스",
+    "attack": "80",
+    "defense": "100",
+    "sAttack": "120",
+    "sDefense": "140",
+    "speed": "150"
+  },
+  {
+    "num": "381",
+    "name": "라티오스",
+    "attack": "80",
+    "defense": "90",
+    "sAttack": "80",
+    "sDefense": "130",
+    "speed": "110"
+  },
+  {
+    "num": "381",
+    "name": "메가라티오스",
+    "attack": "80",
+    "defense": "130",
+    "sAttack": "100",
+    "sDefense": "160",
+    "speed": "120"
+  },
+  {
+    "num": "382",
+    "name": "가이오가",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "90",
+    "sDefense": "150",
+    "speed": "140"
+  },
+  {
+    "num": "382",
+    "name": "원시가이오가",
+    "attack": "100",
+    "defense": "150",
+    "sAttack": "90",
+    "sDefense": "180",
+    "speed": "160"
+  },
+  {
+    "num": "383",
+    "name": "그란돈",
+    "attack": "100",
+    "defense": "150",
+    "sAttack": "140",
+    "sDefense": "100",
+    "speed": "90"
+  },
+  {
+    "num": "383",
+    "name": "원시그란돈",
+    "attack": "100",
+    "defense": "180",
+    "sAttack": "160",
+    "sDefense": "150",
+    "speed": "90"
+  },
+  {
+    "num": "384",
+    "name": "레쿠쟈",
+    "attack": "105",
+    "defense": "150",
+    "sAttack": "90",
+    "sDefense": "150",
+    "speed": "90"
+  },
+  {
+    "num": "384",
+    "name": "메가레쿠쟈",
+    "attack": "105",
+    "defense": "180",
+    "sAttack": "100",
+    "sDefense": "180",
+    "speed": "100"
+  },
+  {
+    "num": "385",
+    "name": "지라치",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "100",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "386",
+    "name": "테오키스",
+    "attack": "50",
+    "defense": "150",
+    "sAttack": "50",
+    "sDefense": "150",
+    "speed": "50"
+  },
+  {
+    "num": "386",
+    "name": "테오키스",
+    "attack": "50",
+    "defense": "180",
+    "sAttack": "20",
+    "sDefense": "180",
+    "speed": "20"
+  },
+  {
+    "num": "386",
+    "name": "테오키스",
+    "attack": "50",
+    "defense": "70",
+    "sAttack": "160",
+    "sDefense": "70",
+    "speed": "160"
+  },
+  {
+    "num": "386",
+    "name": "테오키스",
+    "attack": "50",
+    "defense": "95",
+    "sAttack": "90",
+    "sDefense": "95",
+    "speed": "90"
+  },
+  {
+    "num": "387",
+    "name": "모부기",
+    "attack": "55",
+    "defense": "68",
+    "sAttack": "64",
+    "sDefense": "45",
+    "speed": "55"
+  },
+  {
+    "num": "388",
+    "name": "수풀부기",
+    "attack": "75",
+    "defense": "89",
+    "sAttack": "85",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "389",
+    "name": "토대부기",
+    "attack": "95",
+    "defense": "109",
+    "sAttack": "105",
+    "sDefense": "75",
+    "speed": "85"
+  },
+  {
+    "num": "390",
+    "name": "불꽃숭이",
+    "attack": "44",
+    "defense": "58",
+    "sAttack": "44",
+    "sDefense": "58",
+    "speed": "44"
+  },
+  {
+    "num": "391",
+    "name": "파이숭이",
+    "attack": "64",
+    "defense": "78",
+    "sAttack": "52",
+    "sDefense": "78",
+    "speed": "52"
+  },
+  {
+    "num": "392",
+    "name": "초염몽",
+    "attack": "76",
+    "defense": "104",
+    "sAttack": "71",
+    "sDefense": "104",
+    "speed": "71"
+  },
+  {
+    "num": "393",
+    "name": "팽도리",
+    "attack": "53",
+    "defense": "51",
+    "sAttack": "53",
+    "sDefense": "61",
+    "speed": "56"
+  },
+  {
+    "num": "394",
+    "name": "팽태자",
+    "attack": "64",
+    "defense": "66",
+    "sAttack": "68",
+    "sDefense": "81",
+    "speed": "76"
+  },
+  {
+    "num": "395",
+    "name": "엠페르트",
+    "attack": "84",
+    "defense": "86",
+    "sAttack": "88",
+    "sDefense": "111",
+    "speed": "101"
+  },
+  {
+    "num": "396",
+    "name": "찌르꼬",
+    "attack": "40",
+    "defense": "55",
+    "sAttack": "30",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "397",
+    "name": "찌르버드",
+    "attack": "55",
+    "defense": "75",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "398",
+    "name": "찌르호크",
+    "attack": "85",
+    "defense": "120",
+    "sAttack": "70",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "398",
+    "name": "찌르호크",
+    "attack": "85",
+    "defense": "120",
+    "sAttack": "70",
+    "sDefense": "50",
+    "speed": "60"
+  },
+  {
+    "num": "399",
+    "name": "비버니",
+    "attack": "59",
+    "defense": "45",
+    "sAttack": "40",
+    "sDefense": "35",
+    "speed": "40"
+  },
+  {
+    "num": "400",
+    "name": "비버통",
+    "attack": "79",
+    "defense": "85",
+    "sAttack": "60",
+    "sDefense": "55",
+    "speed": "60"
+  },
+  {
+    "num": "401",
+    "name": "귀뚤뚜기",
+    "attack": "37",
+    "defense": "25",
+    "sAttack": "41",
+    "sDefense": "25",
+    "speed": "41"
+  },
+  {
+    "num": "402",
+    "name": "귀뚤톡크",
+    "attack": "77",
+    "defense": "85",
+    "sAttack": "51",
+    "sDefense": "55",
+    "speed": "51"
+  },
+  {
+    "num": "403",
+    "name": "꼬링크",
+    "attack": "45",
+    "defense": "65",
+    "sAttack": "34",
+    "sDefense": "40",
+    "speed": "34"
+  },
+  {
+    "num": "404",
+    "name": "럭시오",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "49",
+    "sDefense": "60",
+    "speed": "49"
+  },
+  {
+    "num": "405",
+    "name": "렌트라",
+    "attack": "80",
+    "defense": "120",
+    "sAttack": "79",
+    "sDefense": "95",
+    "speed": "79"
+  },
+  {
+    "num": "406",
+    "name": "꼬몽울",
+    "attack": "40",
+    "defense": "30",
+    "sAttack": "35",
+    "sDefense": "50",
+    "speed": "70"
+  },
+  {
+    "num": "407",
+    "name": "로즈레이드",
+    "attack": "60",
+    "defense": "70",
+    "sAttack": "55",
+    "sDefense": "125",
+    "speed": "105"
+  },
+  {
+    "num": "407",
+    "name": "로즈레이드",
+    "attack": "60",
+    "defense": "70",
+    "sAttack": "65",
+    "sDefense": "125",
+    "speed": "105"
+  },
+  {
+    "num": "408",
+    "name": "두개도스",
+    "attack": "67",
+    "defense": "125",
+    "sAttack": "40",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "409",
+    "name": "램펄드",
+    "attack": "97",
+    "defense": "165",
+    "sAttack": "60",
+    "sDefense": "65",
+    "speed": "50"
+  },
+  {
+    "num": "410",
+    "name": "방패톱스",
+    "attack": "30",
+    "defense": "42",
+    "sAttack": "118",
+    "sDefense": "42",
+    "speed": "88"
+  },
+  {
+    "num": "411",
+    "name": "바리톱스",
+    "attack": "60",
+    "defense": "52",
+    "sAttack": "168",
+    "sDefense": "47",
+    "speed": "138"
+  },
+  {
+    "num": "412",
+    "name": "도롱충이",
+    "attack": "40",
+    "defense": "29",
+    "sAttack": "45",
+    "sDefense": "29",
+    "speed": "45"
+  },
+  {
+    "num": "413",
+    "name": "도롱마담",
+    "attack": "60",
+    "defense": "59",
+    "sAttack": "85",
+    "sDefense": "79",
+    "speed": "105"
+  },
+  {
+    "num": "413",
+    "name": "도롱마담",
+    "attack": "60",
+    "defense": "69",
+    "sAttack": "95",
+    "sDefense": "69",
+    "speed": "95"
+  },
+  {
+    "num": "413",
+    "name": "도롱마담",
+    "attack": "60",
+    "defense": "79",
+    "sAttack": "105",
+    "sDefense": "59",
+    "speed": "85"
+  },
+  {
+    "num": "414",
+    "name": "나메일",
+    "attack": "70",
+    "defense": "94",
+    "sAttack": "50",
+    "sDefense": "94",
+    "speed": "50"
+  },
+  {
+    "num": "415",
+    "name": "세꿀버리",
+    "attack": "30",
+    "defense": "30",
+    "sAttack": "42",
+    "sDefense": "30",
+    "speed": "42"
+  },
+  {
+    "num": "416",
+    "name": "비퀸",
+    "attack": "70",
+    "defense": "80",
+    "sAttack": "102",
+    "sDefense": "80",
+    "speed": "102"
+  },
+  {
+    "num": "417",
+    "name": "파치리스",
+    "attack": "60",
+    "defense": "45",
+    "sAttack": "70",
+    "sDefense": "45",
+    "speed": "90"
+  },
+  {
+    "num": "418",
+    "name": "브이젤",
+    "attack": "55",
+    "defense": "65",
+    "sAttack": "35",
+    "sDefense": "60",
+    "speed": "30"
+  },
+  {
+    "num": "419",
+    "name": "플로젤",
+    "attack": "85",
+    "defense": "105",
+    "sAttack": "55",
+    "sDefense": "85",
+    "speed": "50"
+  },
+  {
+    "num": "420",
+    "name": "체리버",
+    "attack": "45",
+    "defense": "35",
+    "sAttack": "45",
+    "sDefense": "62",
+    "speed": "53"
+  },
+  {
+    "num": "421",
+    "name": "체리꼬",
+    "attack": "70",
+    "defense": "60",
+    "sAttack": "70",
+    "sDefense": "87",
+    "speed": "78"
+  },
+  {
+    "num": "422",
+    "name": "깝질무",
+    "attack": "76",
+    "defense": "48",
+    "sAttack": "48",
+    "sDefense": "57",
+    "speed": "62"
+  },
+  {
+    "num": "423",
+    "name": "트리토돈",
+    "attack": "111",
+    "defense": "83",
+    "sAttack": "68",
+    "sDefense": "92",
+    "speed": "82"
+  },
+  {
+    "num": "424",
+    "name": "겟핸보숭",
+    "attack": "75",
+    "defense": "100",
+    "sAttack": "66",
+    "sDefense": "60",
+    "speed": "66"
+  },
+  {
+    "num": "425",
+    "name": "흔들풍손",
+    "attack": "90",
+    "defense": "50",
+    "sAttack": "34",
+    "sDefense": "60",
+    "speed": "44"
+  },
+  {
+    "num": "426",
+    "name": "둥실라이드",
+    "attack": "150",
+    "defense": "80",
+    "sAttack": "44",
+    "sDefense": "90",
+    "speed": "54"
+  },
+  {
+    "num": "427",
+    "name": "이어롤",
+    "attack": "55",
+    "defense": "66",
+    "sAttack": "44",
+    "sDefense": "44",
+    "speed": "56"
+  },
+  {
+    "num": "428",
+    "name": "이어롭",
+    "attack": "65",
+    "defense": "76",
+    "sAttack": "84",
+    "sDefense": "54",
+    "speed": "96"
+  },
+  {
+    "num": "428",
+    "name": "메가이어롭",
+    "attack": "65",
+    "defense": "136",
+    "sAttack": "94",
+    "sDefense": "54",
+    "speed": "96"
+  },
+  {
+    "num": "429",
+    "name": "무우마직",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "60",
+    "sDefense": "105",
+    "speed": "105"
+  },
+  {
+    "num": "430",
+    "name": "돈크로우",
+    "attack": "100",
+    "defense": "125",
+    "sAttack": "52",
+    "sDefense": "105",
+    "speed": "52"
+  },
+  {
+    "num": "431",
+    "name": "나옹마",
+    "attack": "49",
+    "defense": "55",
+    "sAttack": "42",
+    "sDefense": "42",
+    "speed": "37"
+  },
+  {
+    "num": "432",
+    "name": "몬냥이",
+    "attack": "71",
+    "defense": "82",
+    "sAttack": "64",
+    "sDefense": "64",
+    "speed": "59"
+  },
+  {
+    "num": "433",
+    "name": "랑딸랑",
+    "attack": "45",
+    "defense": "30",
+    "sAttack": "50",
+    "sDefense": "65",
+    "speed": "50"
+  },
+  {
+    "num": "434",
+    "name": "스컹뿡",
+    "attack": "63",
+    "defense": "63",
+    "sAttack": "47",
+    "sDefense": "41",
+    "speed": "41"
+  },
+  {
+    "num": "435",
+    "name": "스컹탱크",
+    "attack": "103",
+    "defense": "93",
+    "sAttack": "67",
+    "sDefense": "71",
+    "speed": "61"
+  },
+  {
+    "num": "436",
+    "name": "동미러",
+    "attack": "57",
+    "defense": "24",
+    "sAttack": "86",
+    "sDefense": "24",
+    "speed": "86"
+  },
+  {
+    "num": "437",
+    "name": "동탁군",
+    "attack": "67",
+    "defense": "89",
+    "sAttack": "116",
+    "sDefense": "79",
+    "speed": "116"
+  },
+  {
+    "num": "438",
+    "name": "꼬지지",
+    "attack": "50",
+    "defense": "80",
+    "sAttack": "95",
+    "sDefense": "10",
+    "speed": "45"
+  },
+  {
+    "num": "439",
+    "name": "흉내내",
+    "attack": "20",
+    "defense": "25",
+    "sAttack": "45",
+    "sDefense": "70",
+    "speed": "90"
+  },
+  {
+    "num": "440",
+    "name": "핑복",
+    "attack": "100",
+    "defense": "5",
+    "sAttack": "5",
+    "sDefense": "15",
+    "speed": "65"
+  },
+  {
+    "num": "441",
+    "name": "페라페",
+    "attack": "76",
+    "defense": "65",
+    "sAttack": "45",
+    "sDefense": "92",
+    "speed": "42"
+  },
+  {
+    "num": "442",
+    "name": "화강돌",
+    "attack": "50",
+    "defense": "92",
+    "sAttack": "108",
+    "sDefense": "92",
+    "speed": "108"
+  },
+  {
+    "num": "443",
+    "name": "딥상어동",
+    "attack": "58",
+    "defense": "70",
+    "sAttack": "45",
+    "sDefense": "40",
+    "speed": "45"
+  },
+  {
+    "num": "444",
+    "name": "한바이트",
+    "attack": "68",
+    "defense": "90",
+    "sAttack": "65",
+    "sDefense": "50",
+    "speed": "55"
+  },
+  {
+    "num": "445",
+    "name": "한카리아스",
+    "attack": "108",
+    "defense": "130",
+    "sAttack": "95",
+    "sDefense": "80",
+    "speed": "85"
+  },
+  {
+    "num": "445",
+    "name": "메가한카리아스",
+    "attack": "108",
+    "defense": "170",
+    "sAttack": "115",
+    "sDefense": "120",
+    "speed": "95"
+  },
+  {
+    "num": "446",
+    "name": "먹고자",
+    "attack": "135",
+    "defense": "85",
+    "sAttack": "40",
+    "sDefense": "40",
+    "speed": "85"
+  },
+  {
+    "num": "447",
+    "name": "리오르",
+    "attack": "40",
+    "defense": "70",
+    "sAttack": "40",
+    "sDefense": "35",
+    "speed": "40"
+  },
+  {
+    "num": "448",
+    "name": "루카리오",
+    "attack": "70",
+    "defense": "110",
+    "sAttack": "70",
+    "sDefense": "115",
+    "speed": "70"
+  },
+  {
+    "num": "448",
+    "name": "메가루카리오",
+    "attack": "70",
+    "defense": "145",
+    "sAttack": "88",
+    "sDefense": "140",
+    "speed": "70"
+  },
+  {
+    "num": "449",
+    "name": "히포포타스",
+    "attack": "68",
+    "defense": "72",
+    "sAttack": "78",
+    "sDefense": "38",
+    "speed": "42"
+  },
+  {
+    "num": "450",
+    "name": "하마돈",
+    "attack": "108",
+    "defense": "112",
+    "sAttack": "118",
+    "sDefense": "68",
+    "speed": "72"
+  },
+  {
+    "num": "451",
+    "name": "스콜피",
+    "attack": "40",
+    "defense": "50",
+    "sAttack": "90",
+    "sDefense": "30",
+    "speed": "55"
+  },
+  {
+    "num": "452",
+    "name": "드래피온",
+    "attack": "70",
+    "defense": "90",
+    "sAttack": "110",
+    "sDefense": "60",
+    "speed": "75"
+  },
+  {
+    "num": "453",
+    "name": "삐딱구리",
+    "attack": "48",
+    "defense": "61",
+    "sAttack": "40",
+    "sDefense": "61",
+    "speed": "40"
+  },
+  {
+    "num": "454",
+    "name": "독개굴",
+    "attack": "83",
+    "defense": "106",
+    "sAttack": "65",
+    "sDefense": "86",
+    "speed": "65"
+  },
+  {
+    "num": "455",
+    "name": "무스틈니",
+    "attack": "74",
+    "defense": "100",
+    "sAttack": "72",
+    "sDefense": "90",
+    "speed": "72"
+  },
+  {
+    "num": "456",
+    "name": "형광어",
+    "attack": "49",
+    "defense": "49",
+    "sAttack": "56",
+    "sDefense": "49",
+    "speed": "61"
+  },
+  {
+    "num": "457",
+    "name": "네오라이트",
+    "attack": "69",
+    "defense": "69",
+    "sAttack": "76",
+    "sDefense": "69",
+    "speed": "86"
+  },
+  {
+    "num": "458",
+    "name": "타만타",
+    "attack": "45",
+    "defense": "20",
+    "sAttack": "50",
+    "sDefense": "60",
+    "speed": "120"
+  },
+  {
+    "num": "459",
+    "name": "눈쓰개",
+    "attack": "60",
+    "defense": "62",
+    "sAttack": "50",
+    "sDefense": "62",
+    "speed": "60"
+  },
+  {
+    "num": "460",
+    "name": "눈설왕",
+    "attack": "90",
+    "defense": "92",
+    "sAttack": "75",
+    "sDefense": "92",
+    "speed": "85"
+  },
+  {
+    "num": "460",
+    "name": "메가눈설왕",
+    "attack": "90",
+    "defense": "132",
+    "sAttack": "105",
+    "sDefense": "132",
+    "speed": "105"
+  },
+  {
+    "num": "461",
+    "name": "포푸니라",
+    "attack": "70",
+    "defense": "120",
+    "sAttack": "65",
+    "sDefense": "45",
+    "speed": "85"
+  },
+  {
+    "num": "462",
+    "name": "자포코일",
+    "attack": "70",
+    "defense": "70",
+    "sAttack": "115",
+    "sDefense": "130",
+    "speed": "90"
+  },
+  {
+    "num": "463",
+    "name": "내룸벨트",
+    "attack": "110",
+    "defense": "85",
+    "sAttack": "95",
+    "sDefense": "80",
+    "speed": "95"
+  },
+  {
+    "num": "464",
+    "name": "거대코뿌리",
+    "attack": "115",
+    "defense": "140",
+    "sAttack": "130",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "465",
+    "name": "덩쿠림보",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "125",
+    "sDefense": "110",
+    "speed": "50"
+  },
+  {
+    "num": "466",
+    "name": "에레키블",
+    "attack": "75",
+    "defense": "123",
+    "sAttack": "67",
+    "sDefense": "95",
+    "speed": "85"
+  },
+  {
+    "num": "467",
+    "name": "마그마번",
+    "attack": "75",
+    "defense": "95",
+    "sAttack": "67",
+    "sDefense": "125",
+    "speed": "95"
+  },
+  {
+    "num": "468",
+    "name": "토게키스",
+    "attack": "85",
+    "defense": "50",
+    "sAttack": "95",
+    "sDefense": "120",
+    "speed": "115"
+  },
+  {
+    "num": "469",
+    "name": "메가자리",
+    "attack": "86",
+    "defense": "76",
+    "sAttack": "86",
+    "sDefense": "116",
+    "speed": "56"
+  },
+  {
+    "num": "470",
+    "name": "리피아",
+    "attack": "65",
+    "defense": "110",
+    "sAttack": "130",
+    "sDefense": "60",
+    "speed": "65"
+  },
+  {
+    "num": "471",
+    "name": "글레이시아",
+    "attack": "65",
+    "defense": "60",
+    "sAttack": "110",
+    "sDefense": "130",
+    "speed": "95"
+  },
+  {
+    "num": "472",
+    "name": "글라이온",
+    "attack": "75",
+    "defense": "95",
+    "sAttack": "125",
+    "sDefense": "45",
+    "speed": "75"
+  },
+  {
+    "num": "473",
+    "name": "맘모꾸리",
+    "attack": "110",
+    "defense": "130",
+    "sAttack": "80",
+    "sDefense": "70",
+    "speed": "60"
+  },
+  {
+    "num": "474",
+    "name": "폴리곤Z",
+    "attack": "85",
+    "defense": "80",
+    "sAttack": "70",
+    "sDefense": "135",
+    "speed": "75"
+  },
+  {
+    "num": "475",
+    "name": "엘레이드",
+    "attack": "68",
+    "defense": "125",
+    "sAttack": "65",
+    "sDefense": "65",
+    "speed": "115"
+  },
+  {
+    "num": "475",
+    "name": "메가엘레이드",
+    "attack": "68",
+    "defense": "165",
+    "sAttack": "95",
+    "sDefense": "65",
+    "speed": "115"
+  },
+  {
+    "num": "476",
+    "name": "대코파스",
+    "attack": "60",
+    "defense": "55",
+    "sAttack": "145",
+    "sDefense": "75",
+    "speed": "150"
+  },
+  {
+    "num": "477",
+    "name": "야느와르몽",
+    "attack": "45",
+    "defense": "100",
+    "sAttack": "135",
+    "sDefense": "65",
+    "speed": "135"
+  },
+  {
+    "num": "478",
+    "name": "눈여아",
+    "attack": "70",
+    "defense": "80",
+    "sAttack": "70",
+    "sDefense": "80",
+    "speed": "70"
+  },
+  {
+    "num": "479",
+    "name": "로토무",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "77",
+    "sDefense": "95",
+    "speed": "77"
+  },
+  {
+    "num": "479",
+    "name": "로토무",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "107",
+    "sDefense": "105",
+    "speed": "107"
+  },
+  {
+    "num": "480",
+    "name": "유크시",
+    "attack": "75",
+    "defense": "75",
+    "sAttack": "130",
+    "sDefense": "75",
+    "speed": "130"
+  },
+  {
+    "num": "481",
+    "name": "엠라이트",
+    "attack": "80",
+    "defense": "105",
+    "sAttack": "105",
+    "sDefense": "105",
+    "speed": "105"
+  },
+  {
+    "num": "482",
+    "name": "아그놈",
+    "attack": "75",
+    "defense": "125",
+    "sAttack": "70",
+    "sDefense": "125",
+    "speed": "70"
+  },
+  {
+    "num": "483",
+    "name": "디아루가",
+    "attack": "100",
+    "defense": "120",
+    "sAttack": "120",
+    "sDefense": "150",
+    "speed": "100"
+  },
+  {
+    "num": "484",
+    "name": "펄기아",
+    "attack": "90",
+    "defense": "120",
+    "sAttack": "100",
+    "sDefense": "150",
+    "speed": "120"
+  },
+  {
+    "num": "485",
+    "name": "히드런",
+    "attack": "91",
+    "defense": "90",
+    "sAttack": "106",
+    "sDefense": "130",
+    "speed": "106"
+  },
+  {
+    "num": "486",
+    "name": "레지기가스",
+    "attack": "110",
+    "defense": "160",
+    "sAttack": "110",
+    "sDefense": "80",
+    "speed": "110"
+  },
+  {
+    "num": "487",
+    "name": "기라티나",
+    "attack": "150",
+    "defense": "100",
+    "sAttack": "120",
+    "sDefense": "100",
+    "speed": "120"
+  },
+  {
+    "num": "487",
+    "name": "기라티나",
+    "attack": "150",
+    "defense": "120",
+    "sAttack": "100",
+    "sDefense": "120",
+    "speed": "100"
+  },
+  {
+    "num": "488",
+    "name": "크레세리아",
+    "attack": "120",
+    "defense": "70",
+    "sAttack": "120",
+    "sDefense": "75",
+    "speed": "130"
+  },
+  {
+    "num": "489",
+    "name": "피오네",
+    "attack": "80",
+    "defense": "80",
+    "sAttack": "80",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "490",
+    "name": "마나피",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "100",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "491",
+    "name": "다크라이",
+    "attack": "70",
+    "defense": "90",
+    "sAttack": "90",
+    "sDefense": "135",
+    "speed": "90"
+  },
+  {
+    "num": "492",
+    "name": "쉐이미",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "100",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "492",
+    "name": "쉐이미",
+    "attack": "100",
+    "defense": "103",
+    "sAttack": "75",
+    "sDefense": "120",
+    "speed": "75"
+  },
+  {
+    "num": "493",
+    "name": "아르세우스",
+    "attack": "120",
+    "defense": "120",
+    "sAttack": "120",
+    "sDefense": "120",
+    "speed": "120"
+  },
+  {
+    "num": "494",
+    "name": "비크티니",
+    "attack": "100",
+    "defense": "100",
+    "sAttack": "100",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "495",
+    "name": "주리비얀",
+    "attack": "45",
+    "defense": "45",
+    "sAttack": "55",
+    "sDefense": "45",
+    "speed": "55"
+  },
+  {
+    "num": "496",
+    "name": "샤비",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "75",
+    "sDefense": "60",
+    "speed": "75"
+  },
+  {
+    "num": "497",
+    "name": "샤로다",
+    "attack": "75",
+    "defense": "75",
+    "sAttack": "95",
+    "sDefense": "75",
+    "speed": "95"
+  },
+  {
+    "num": "498",
+    "name": "뚜꾸리",
+    "attack": "65",
+    "defense": "63",
+    "sAttack": "45",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "499",
+    "name": "차오꿀",
+    "attack": "90",
+    "defense": "93",
+    "sAttack": "55",
+    "sDefense": "70",
+    "speed": "55"
+  },
+  {
+    "num": "500",
+    "name": "염무왕",
+    "attack": "110",
+    "defense": "123",
+    "sAttack": "65",
+    "sDefense": "100",
+    "speed": "65"
+  },
+  {
+    "num": "501",
+    "name": "수댕이",
+    "attack": "55",
+    "defense": "55",
+    "sAttack": "45",
+    "sDefense": "63",
+    "speed": "45"
+  },
+  {
+    "num": "502",
+    "name": "쌍검자비",
+    "attack": "75",
+    "defense": "75",
+    "sAttack": "60",
+    "sDefense": "83",
+    "speed": "60"
+  },
+  {
+    "num": "503",
+    "name": "대검귀",
+    "attack": "95",
+    "defense": "100",
+    "sAttack": "85",
+    "sDefense": "108",
+    "speed": "70"
+  },
+  {
+    "num": "504",
+    "name": "보르쥐",
+    "attack": "45",
+    "defense": "55",
+    "sAttack": "39",
+    "sDefense": "35",
+    "speed": "39"
+  },
+  {
+    "num": "505",
+    "name": "보르그",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "69",
+    "sDefense": "60",
+    "speed": "69"
+  },
+  {
+    "num": "506",
+    "name": "요테리",
+    "attack": "45",
+    "defense": "60",
+    "sAttack": "45",
+    "sDefense": "25",
+    "speed": "45"
+  },
+  {
+    "num": "507",
+    "name": "하데리어",
+    "attack": "65",
+    "defense": "80",
+    "sAttack": "65",
+    "sDefense": "35",
+    "speed": "65"
+  },
+  {
+    "num": "508",
+    "name": "바랜드",
+    "attack": "85",
+    "defense": "100",
+    "sAttack": "90",
+    "sDefense": "45",
+    "speed": "90"
+  },
+  {
+    "num": "508",
+    "name": "바랜드",
+    "attack": "85",
+    "defense": "110",
+    "sAttack": "90",
+    "sDefense": "45",
+    "speed": "90"
+  },
+  {
+    "num": "509",
+    "name": "쌔비냥",
+    "attack": "41",
+    "defense": "50",
+    "sAttack": "37",
+    "sDefense": "50",
+    "speed": "37"
+  },
+  {
+    "num": "510",
+    "name": "레파르다스",
+    "attack": "64",
+    "defense": "88",
+    "sAttack": "50",
+    "sDefense": "88",
+    "speed": "50"
+  },
+  {
+    "num": "511",
+    "name": "야나프",
+    "attack": "50",
+    "defense": "53",
+    "sAttack": "48",
+    "sDefense": "53",
+    "speed": "48"
+  },
+  {
+    "num": "512",
+    "name": "야나키",
+    "attack": "75",
+    "defense": "98",
+    "sAttack": "63",
+    "sDefense": "98",
+    "speed": "63"
+  },
+  {
+    "num": "513",
+    "name": "바오프",
+    "attack": "50",
+    "defense": "53",
+    "sAttack": "48",
+    "sDefense": "53",
+    "speed": "48"
+  },
+  {
+    "num": "514",
+    "name": "바오키",
+    "attack": "75",
+    "defense": "98",
+    "sAttack": "63",
+    "sDefense": "98",
+    "speed": "63"
+  },
+  {
+    "num": "515",
+    "name": "앗차프",
+    "attack": "50",
+    "defense": "53",
+    "sAttack": "48",
+    "sDefense": "53",
+    "speed": "48"
+  },
+  {
+    "num": "516",
+    "name": "앗차키",
+    "attack": "75",
+    "defense": "98",
+    "sAttack": "63",
+    "sDefense": "98",
+    "speed": "63"
+  },
+  {
+    "num": "517",
+    "name": "몽나",
+    "attack": "76",
+    "defense": "25",
+    "sAttack": "45",
+    "sDefense": "67",
+    "speed": "55"
+  },
+  {
+    "num": "518",
+    "name": "몽얌나",
+    "attack": "116",
+    "defense": "55",
+    "sAttack": "85",
+    "sDefense": "107",
+    "speed": "95"
+  },
+  {
+    "num": "519",
+    "name": "콩둘기",
+    "attack": "50",
+    "defense": "55",
+    "sAttack": "50",
+    "sDefense": "36",
+    "speed": "30"
+  },
+  {
+    "num": "520",
+    "name": "유토브",
+    "attack": "62",
+    "defense": "77",
+    "sAttack": "62",
+    "sDefense": "50",
+    "speed": "42"
+  },
+  {
+    "num": "521",
+    "name": "켄호로우",
+    "attack": "80",
+    "defense": "105",
+    "sAttack": "80",
+    "sDefense": "65",
+    "speed": "55"
+  },
+  {
+    "num": "521",
+    "name": "켄호로우",
+    "attack": "80",
+    "defense": "115",
+    "sAttack": "80",
+    "sDefense": "65",
+    "speed": "55"
+  },
+  {
+    "num": "522",
+    "name": "줄뮤마",
+    "attack": "45",
+    "defense": "60",
+    "sAttack": "32",
+    "sDefense": "50",
+    "speed": "32"
+  },
+  {
+    "num": "523",
+    "name": "제브라이카",
+    "attack": "75",
+    "defense": "100",
+    "sAttack": "63",
+    "sDefense": "80",
+    "speed": "63"
+  },
+  {
+    "num": "524",
+    "name": "단굴",
+    "attack": "55",
+    "defense": "75",
+    "sAttack": "85",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "525",
+    "name": "암트르",
+    "attack": "70",
+    "defense": "105",
+    "sAttack": "105",
+    "sDefense": "50",
+    "speed": "40"
+  },
+  {
+    "num": "526",
+    "name": "기가이어스",
+    "attack": "85",
+    "defense": "135",
+    "sAttack": "130",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "526",
+    "name": "기가이어스",
+    "attack": "85",
+    "defense": "135",
+    "sAttack": "130",
+    "sDefense": "60",
+    "speed": "80"
+  },
+  {
+    "num": "527",
+    "name": "또르박쥐",
+    "attack": "55",
+    "defense": "45",
+    "sAttack": "43",
+    "sDefense": "55",
+    "speed": "43"
+  },
+  {
+    "num": "528",
+    "name": "맘박쥐",
+    "attack": "67",
+    "defense": "57",
+    "sAttack": "55",
+    "sDefense": "77",
+    "speed": "55"
+  },
+  {
+    "num": "529",
+    "name": "두더류",
+    "attack": "60",
+    "defense": "85",
+    "sAttack": "40",
+    "sDefense": "30",
+    "speed": "45"
+  },
+  {
+    "num": "530",
+    "name": "몰드류",
+    "attack": "110",
+    "defense": "135",
+    "sAttack": "60",
+    "sDefense": "50",
+    "speed": "65"
+  },
+  {
+    "num": "531",
+    "name": "다부니",
+    "attack": "103",
+    "defense": "60",
+    "sAttack": "86",
+    "sDefense": "60",
+    "speed": "86"
+  },
+  {
+    "num": "531",
+    "name": "메가다부니",
+    "attack": "103",
+    "defense": "60",
+    "sAttack": "126",
+    "sDefense": "80",
+    "speed": "126"
+  },
+  {
+    "num": "532",
+    "name": "으랏차",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "55",
+    "sDefense": "25",
+    "speed": "35"
+  },
+  {
+    "num": "533",
+    "name": "토쇠골",
+    "attack": "85",
+    "defense": "105",
+    "sAttack": "85",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "534",
+    "name": "노보청",
+    "attack": "105",
+    "defense": "140",
+    "sAttack": "95",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "535",
+    "name": "동챙이",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "40",
+    "sDefense": "50",
+    "speed": "40"
+  },
+  {
+    "num": "536",
+    "name": "두까비",
+    "attack": "75",
+    "defense": "65",
+    "sAttack": "55",
+    "sDefense": "65",
+    "speed": "55"
+  },
+  {
+    "num": "537",
+    "name": "두빅굴",
+    "attack": "105",
+    "defense": "85",
+    "sAttack": "75",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "537",
+    "name": "두빅굴",
+    "attack": "105",
+    "defense": "95",
+    "sAttack": "75",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "538",
+    "name": "던지미",
+    "attack": "120",
+    "defense": "100",
+    "sAttack": "85",
+    "sDefense": "30",
+    "speed": "85"
+  },
+  {
+    "num": "539",
+    "name": "타격귀",
+    "attack": "75",
+    "defense": "125",
+    "sAttack": "75",
+    "sDefense": "30",
+    "speed": "75"
+  },
+  {
+    "num": "540",
+    "name": "두르보",
+    "attack": "45",
+    "defense": "53",
+    "sAttack": "70",
+    "sDefense": "40",
+    "speed": "60"
+  },
+  {
+    "num": "541",
+    "name": "두르쿤",
+    "attack": "55",
+    "defense": "63",
+    "sAttack": "90",
+    "sDefense": "50",
+    "speed": "80"
+  },
+  {
+    "num": "542",
+    "name": "모아머",
+    "attack": "75",
+    "defense": "103",
+    "sAttack": "80",
+    "sDefense": "70",
+    "speed": "70"
+  },
+  {
+    "num": "542",
+    "name": "모아머",
+    "attack": "75",
+    "defense": "103",
+    "sAttack": "80",
+    "sDefense": "70",
+    "speed": "80"
+  },
+  {
+    "num": "543",
+    "name": "마디네",
+    "attack": "30",
+    "defense": "45",
+    "sAttack": "59",
+    "sDefense": "30",
+    "speed": "39"
+  },
+  {
+    "num": "544",
+    "name": "휠구",
+    "attack": "40",
+    "defense": "55",
+    "sAttack": "99",
+    "sDefense": "40",
+    "speed": "79"
+  },
+  {
+    "num": "545",
+    "name": "펜드라",
+    "attack": "60",
+    "defense": "100",
+    "sAttack": "89",
+    "sDefense": "55",
+    "speed": "69"
+  },
+  {
+    "num": "545",
+    "name": "펜드라",
+    "attack": "60",
+    "defense": "90",
+    "sAttack": "89",
+    "sDefense": "55",
+    "speed": "69"
+  },
+  {
+    "num": "546",
+    "name": "소미안",
+    "attack": "40",
+    "defense": "27",
+    "sAttack": "60",
+    "sDefense": "37",
+    "speed": "50"
+  },
+  {
+    "num": "547",
+    "name": "엘풍",
+    "attack": "60",
+    "defense": "67",
+    "sAttack": "85",
+    "sDefense": "77",
+    "speed": "75"
+  },
+  {
+    "num": "548",
+    "name": "치릴리",
+    "attack": "45",
+    "defense": "35",
+    "sAttack": "50",
+    "sDefense": "70",
+    "speed": "50"
+  },
+  {
+    "num": "549",
+    "name": "드레디어",
+    "attack": "70",
+    "defense": "60",
+    "sAttack": "75",
+    "sDefense": "110",
+    "speed": "75"
+  },
+  {
+    "num": "550",
+    "name": "배쓰나이",
+    "attack": "70",
+    "defense": "92",
+    "sAttack": "65",
+    "sDefense": "80",
+    "speed": "55"
+  },
+  {
+    "num": "551",
+    "name": "깜눈크",
+    "attack": "50",
+    "defense": "72",
+    "sAttack": "35",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "552",
+    "name": "악비르",
+    "attack": "60",
+    "defense": "82",
+    "sAttack": "45",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "553",
+    "name": "악비아르",
+    "attack": "95",
+    "defense": "117",
+    "sAttack": "70",
+    "sDefense": "65",
+    "speed": "70"
+  },
+  {
+    "num": "553",
+    "name": "악비아르",
+    "attack": "95",
+    "defense": "117",
+    "sAttack": "80",
+    "sDefense": "65",
+    "speed": "70"
+  },
+  {
+    "num": "554",
+    "name": "달막화",
+    "attack": "70",
+    "defense": "90",
+    "sAttack": "45",
+    "sDefense": "15",
+    "speed": "45"
+  },
+  {
+    "num": "554",
+    "name": "달막화",
+    "attack": "70",
+    "defense": "90",
+    "sAttack": "45",
+    "sDefense": "15",
+    "speed": "45"
+  },
+  {
+    "num": "555",
+    "name": "불비달마",
+    "attack": "105",
+    "defense": "140",
+    "sAttack": "55",
+    "sDefense": "30",
+    "speed": "55"
+  },
+  {
+    "num": "555",
+    "name": "불비달마",
+    "attack": "105",
+    "defense": "30",
+    "sAttack": "105",
+    "sDefense": "140",
+    "speed": "105"
+  },
+  {
+    "num": "555",
+    "name": "불비달마",
+    "attack": "105",
+    "defense": "140",
+    "sAttack": "55",
+    "sDefense": "30",
+    "speed": "55"
+  },
+  {
+    "num": "555",
+    "name": "불비달마",
+    "attack": " 달마모드)",
+    "defense": "105",
+    "sAttack": "160",
+    "sDefense": "55",
+    "speed": "30"
+  },
+  {
+    "num": "556",
+    "name": "마라카치",
+    "attack": "75",
+    "defense": "86",
+    "sAttack": "67",
+    "sDefense": "106",
+    "speed": "67"
+  },
+  {
+    "num": "557",
+    "name": "돌살이",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "85",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "558",
+    "name": "암팰리스",
+    "attack": "70",
+    "defense": "95",
+    "sAttack": "125",
+    "sDefense": "65",
+    "speed": "75"
+  },
+  {
+    "num": "559",
+    "name": "곤율랭",
+    "attack": "50",
+    "defense": "75",
+    "sAttack": "70",
+    "sDefense": "35",
+    "speed": "70"
+  },
+  {
+    "num": "560",
+    "name": "곤율거니",
+    "attack": "65",
+    "defense": "90",
+    "sAttack": "115",
+    "sDefense": "45",
+    "speed": "115"
+  },
+  {
+    "num": "561",
+    "name": "심보러",
+    "attack": "72",
+    "defense": "58",
+    "sAttack": "80",
+    "sDefense": "103",
+    "speed": "80"
+  },
+  {
+    "num": "562",
+    "name": "데스마스",
+    "attack": "38",
+    "defense": "30",
+    "sAttack": "85",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "562",
+    "name": "데스마스",
+    "attack": "38",
+    "defense": "55",
+    "sAttack": "85",
+    "sDefense": "30",
+    "speed": "65"
+  },
+  {
+    "num": "563",
+    "name": "데스니칸",
+    "attack": "58",
+    "defense": "50",
+    "sAttack": "145",
+    "sDefense": "95",
+    "speed": "105"
+  },
+  {
+    "num": "564",
+    "name": "프로토가",
+    "attack": "54",
+    "defense": "78",
+    "sAttack": "103",
+    "sDefense": "53",
+    "speed": "45"
+  },
+  {
+    "num": "565",
+    "name": "늑골라",
+    "attack": "74",
+    "defense": "108",
+    "sAttack": "133",
+    "sDefense": "83",
+    "speed": "65"
+  },
+  {
+    "num": "566",
+    "name": "아켄",
+    "attack": "55",
+    "defense": "112",
+    "sAttack": "45",
+    "sDefense": "74",
+    "speed": "45"
+  },
+  {
+    "num": "567",
+    "name": "아케오스",
+    "attack": "75",
+    "defense": "140",
+    "sAttack": "65",
+    "sDefense": "112",
+    "speed": "65"
+  },
+  {
+    "num": "568",
+    "name": "깨봉이",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "62",
+    "sDefense": "40",
+    "speed": "62"
+  },
+  {
+    "num": "569",
+    "name": "더스트나",
+    "attack": "80",
+    "defense": "95",
+    "sAttack": "82",
+    "sDefense": "60",
+    "speed": "82"
+  },
+  {
+    "num": "570",
+    "name": "조로아",
+    "attack": "40",
+    "defense": "65",
+    "sAttack": "40",
+    "sDefense": "80",
+    "speed": "40"
+  },
+  {
+    "num": "571",
+    "name": "조로아크",
+    "attack": "60",
+    "defense": "105",
+    "sAttack": "60",
+    "sDefense": "120",
+    "speed": "60"
+  },
+  {
+    "num": "572",
+    "name": "치라미",
+    "attack": "55",
+    "defense": "50",
+    "sAttack": "40",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "573",
+    "name": "치라치노",
+    "attack": "75",
+    "defense": "95",
+    "sAttack": "60",
+    "sDefense": "65",
+    "speed": "60"
+  },
+  {
+    "num": "574",
+    "name": "고디탱",
+    "attack": "45",
+    "defense": "30",
+    "sAttack": "50",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "575",
+    "name": "고디보미",
+    "attack": "60",
+    "defense": "45",
+    "sAttack": "70",
+    "sDefense": "75",
+    "speed": "85"
+  },
+  {
+    "num": "576",
+    "name": "고디모아젤",
+    "attack": "70",
+    "defense": "55",
+    "sAttack": "95",
+    "sDefense": "95",
+    "speed": "110"
+  },
+  {
+    "num": "577",
+    "name": "유니란",
+    "attack": "45",
+    "defense": "30",
+    "sAttack": "40",
+    "sDefense": "105",
+    "speed": "50"
+  },
+  {
+    "num": "578",
+    "name": "듀란",
+    "attack": "65",
+    "defense": "40",
+    "sAttack": "50",
+    "sDefense": "125",
+    "speed": "60"
+  },
+  {
+    "num": "579",
+    "name": "란쿨루스",
+    "attack": "110",
+    "defense": "65",
+    "sAttack": "75",
+    "sDefense": "125",
+    "speed": "85"
+  },
+  {
+    "num": "580",
+    "name": "꼬지보리",
+    "attack": "62",
+    "defense": "44",
+    "sAttack": "50",
+    "sDefense": "44",
+    "speed": "50"
+  },
+  {
+    "num": "581",
+    "name": "스완나",
+    "attack": "75",
+    "defense": "87",
+    "sAttack": "63",
+    "sDefense": "87",
+    "speed": "63"
+  },
+  {
+    "num": "582",
+    "name": "바닐프티",
+    "attack": "36",
+    "defense": "50",
+    "sAttack": "50",
+    "sDefense": "65",
+    "speed": "60"
+  },
+  {
+    "num": "583",
+    "name": "바닐리치",
+    "attack": "51",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "80",
+    "speed": "75"
+  },
+  {
+    "num": "584",
+    "name": "배바닐라",
+    "attack": "71",
+    "defense": "95",
+    "sAttack": "85",
+    "sDefense": "110",
+    "speed": "95"
+  },
+  {
+    "num": "585",
+    "name": "사철록",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "586",
+    "name": "바라철록",
+    "attack": "80",
+    "defense": "100",
+    "sAttack": "70",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "587",
+    "name": "에몽가",
+    "attack": "55",
+    "defense": "75",
+    "sAttack": "60",
+    "sDefense": "75",
+    "speed": "60"
+  },
+  {
+    "num": "588",
+    "name": "딱정곤",
+    "attack": "50",
+    "defense": "75",
+    "sAttack": "45",
+    "sDefense": "40",
+    "speed": "45"
+  },
+  {
+    "num": "589",
+    "name": "슈바르고",
+    "attack": "70",
+    "defense": "135",
+    "sAttack": "105",
+    "sDefense": "60",
+    "speed": "105"
+  },
+  {
+    "num": "590",
+    "name": "깜놀버슬",
+    "attack": "69",
+    "defense": "55",
+    "sAttack": "45",
+    "sDefense": "55",
+    "speed": "55"
+  },
+  {
+    "num": "591",
+    "name": "뽀록나",
+    "attack": "114",
+    "defense": "85",
+    "sAttack": "70",
+    "sDefense": "85",
+    "speed": "80"
+  },
+  {
+    "num": "592",
+    "name": "탱그릴",
+    "attack": "55",
+    "defense": "40",
+    "sAttack": "50",
+    "sDefense": "65",
+    "speed": "85"
+  },
+  {
+    "num": "593",
+    "name": "탱탱겔",
+    "attack": "100",
+    "defense": "60",
+    "sAttack": "70",
+    "sDefense": "85",
+    "speed": "105"
+  },
+  {
+    "num": "594",
+    "name": "맘복치",
+    "attack": "165",
+    "defense": "75",
+    "sAttack": "80",
+    "sDefense": "40",
+    "speed": "45"
+  },
+  {
+    "num": "595",
+    "name": "파쪼옥",
+    "attack": "50",
+    "defense": "47",
+    "sAttack": "50",
+    "sDefense": "57",
+    "speed": "50"
+  },
+  {
+    "num": "596",
+    "name": "전툴라",
+    "attack": "70",
+    "defense": "77",
+    "sAttack": "60",
+    "sDefense": "97",
+    "speed": "60"
+  },
+  {
+    "num": "597",
+    "name": "철시드",
+    "attack": "44",
+    "defense": "50",
+    "sAttack": "91",
+    "sDefense": "24",
+    "speed": "86"
+  },
+  {
+    "num": "598",
+    "name": "너트령",
+    "attack": "74",
+    "defense": "94",
+    "sAttack": "131",
+    "sDefense": "54",
+    "speed": "116"
+  },
+  {
+    "num": "599",
+    "name": "기어르",
+    "attack": "40",
+    "defense": "55",
+    "sAttack": "70",
+    "sDefense": "45",
+    "speed": "60"
+  },
+  {
+    "num": "600",
+    "name": "기기어르",
+    "attack": "60",
+    "defense": "80",
+    "sAttack": "95",
+    "sDefense": "70",
+    "speed": "85"
+  },
+  {
+    "num": "601",
+    "name": "기기기어르",
+    "attack": "60",
+    "defense": "100",
+    "sAttack": "115",
+    "sDefense": "70",
+    "speed": "85"
+  },
+  {
+    "num": "602",
+    "name": "저리어",
+    "attack": "35",
+    "defense": "55",
+    "sAttack": "40",
+    "sDefense": "45",
+    "speed": "40"
+  },
+  {
+    "num": "603",
+    "name": "저리릴",
+    "attack": "65",
+    "defense": "85",
+    "sAttack": "70",
+    "sDefense": "75",
+    "speed": "70"
+  },
+  {
+    "num": "604",
+    "name": "저리더프",
+    "attack": "85",
+    "defense": "115",
+    "sAttack": "80",
+    "sDefense": "105",
+    "speed": "80"
+  },
+  {
+    "num": "605",
+    "name": "리그레",
+    "attack": "55",
+    "defense": "55",
+    "sAttack": "55",
+    "sDefense": "85",
+    "speed": "55"
+  },
+  {
+    "num": "606",
+    "name": "벰크",
+    "attack": "75",
+    "defense": "75",
+    "sAttack": "75",
+    "sDefense": "125",
+    "speed": "95"
+  },
+  {
+    "num": "607",
+    "name": "불켜미",
+    "attack": "50",
+    "defense": "30",
+    "sAttack": "55",
+    "sDefense": "65",
+    "speed": "55"
+  },
+  {
+    "num": "608",
+    "name": "램프라",
+    "attack": "60",
+    "defense": "40",
+    "sAttack": "60",
+    "sDefense": "95",
+    "speed": "60"
+  },
+  {
+    "num": "609",
+    "name": "샹델라",
+    "attack": "60",
+    "defense": "55",
+    "sAttack": "90",
+    "sDefense": "145",
+    "speed": "90"
+  },
+  {
+    "num": "610",
+    "name": "터검니",
+    "attack": "46",
+    "defense": "87",
+    "sAttack": "60",
+    "sDefense": "30",
+    "speed": "40"
+  },
+  {
+    "num": "611",
+    "name": "액슨도",
+    "attack": "66",
+    "defense": "117",
+    "sAttack": "70",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "612",
+    "name": "액스라이즈",
+    "attack": "76",
+    "defense": "147",
+    "sAttack": "90",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "613",
+    "name": "코고미",
+    "attack": "55",
+    "defense": "70",
+    "sAttack": "40",
+    "sDefense": "60",
+    "speed": "40"
+  },
+  {
+    "num": "614",
+    "name": "툰베어",
+    "attack": "95",
+    "defense": "110",
+    "sAttack": "80",
+    "sDefense": "70",
+    "speed": "80"
+  },
+  {
+    "num": "615",
+    "name": "프리지오",
+    "attack": "70",
+    "defense": "50",
+    "sAttack": "30",
+    "sDefense": "95",
+    "speed": "135"
+  },
+  {
+    "num": "616",
+    "name": "쪼마리",
+    "attack": "50",
+    "defense": "40",
+    "sAttack": "85",
+    "sDefense": "40",
+    "speed": "65"
+  },
+  {
+    "num": "617",
+    "name": "어지리더",
+    "attack": "80",
+    "defense": "70",
+    "sAttack": "40",
+    "sDefense": "100",
+    "speed": "60"
+  },
+  {
+    "num": "618",
+    "name": "메더",
+    "attack": "109",
+    "defense": "66",
+    "sAttack": "84",
+    "sDefense": "81",
+    "speed": "99"
+  },
+  {
+    "num": "618",
+    "name": "메더",
+    "attack": "109",
+    "defense": "81",
+    "sAttack": "99",
+    "sDefense": "66",
+    "speed": "84"
+  },
+  {
+    "num": "619",
+    "name": "비조푸",
+    "attack": "45",
+    "defense": "85",
+    "sAttack": "50",
+    "sDefense": "55",
+    "speed": "50"
+  },
+  {
+    "num": "620",
+    "name": "비조도",
+    "attack": "65",
+    "defense": "125",
+    "sAttack": "60",
+    "sDefense": "95",
+    "speed": "60"
+  },
+  {
+    "num": "621",
+    "name": "크리만",
+    "attack": "77",
+    "defense": "120",
+    "sAttack": "90",
+    "sDefense": "60",
+    "speed": "90"
+  },
+  {
+    "num": "622",
+    "name": "골비람",
+    "attack": "59",
+    "defense": "74",
+    "sAttack": "50",
+    "sDefense": "35",
+    "speed": "50"
+  },
+  {
+    "num": "623",
+    "name": "골루그",
+    "attack": "89",
+    "defense": "124",
+    "sAttack": "80",
+    "sDefense": "55",
+    "speed": "80"
+  },
+  {
+    "num": "624",
+    "name": "자망칼",
+    "attack": "45",
+    "defense": "85",
+    "sAttack": "70",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "625",
+    "name": "절각참",
+    "attack": "65",
+    "defense": "125",
+    "sAttack": "100",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "626",
+    "name": "버프론",
+    "attack": "95",
+    "defense": "110",
+    "sAttack": "95",
+    "sDefense": "40",
+    "speed": "95"
+  },
+  {
+    "num": "627",
+    "name": "수리둥보",
+    "attack": "70",
+    "defense": "83",
+    "sAttack": "50",
+    "sDefense": "37",
+    "speed": "50"
+  },
+  {
+    "num": "628",
+    "name": "워글",
+    "attack": "100",
+    "defense": "123",
+    "sAttack": "75",
+    "sDefense": "57",
+    "speed": "75"
+  },
+  {
+    "num": "629",
+    "name": "벌차이",
+    "attack": "70",
+    "defense": "55",
+    "sAttack": "75",
+    "sDefense": "45",
+    "speed": "65"
+  },
+  {
+    "num": "630",
+    "name": "버랜지나",
+    "attack": "110",
+    "defense": "65",
+    "sAttack": "105",
+    "sDefense": "55",
+    "speed": "95"
+  },
+  {
+    "num": "631",
+    "name": "앤티골",
+    "attack": "85",
+    "defense": "97",
+    "sAttack": "66",
+    "sDefense": "105",
+    "speed": "66"
+  },
+  {
+    "num": "632",
+    "name": "아이앤트",
+    "attack": "58",
+    "defense": "109",
+    "sAttack": "112",
+    "sDefense": "48",
+    "speed": "48"
+  },
+  {
+    "num": "633",
+    "name": "모노두",
+    "attack": "52",
+    "defense": "65",
+    "sAttack": "50",
+    "sDefense": "45",
+    "speed": "50"
+  },
+  {
+    "num": "634",
+    "name": "디헤드",
+    "attack": "72",
+    "defense": "85",
+    "sAttack": "70",
+    "sDefense": "65",
+    "speed": "70"
+  },
+  {
+    "num": "635",
+    "name": "삼삼드래",
+    "attack": "92",
+    "defense": "105",
+    "sAttack": "90",
+    "sDefense": "125",
+    "speed": "90"
+  },
+  {
+    "num": "636",
+    "name": "활화르바",
+    "attack": "55",
+    "defense": "85",
+    "sAttack": "55",
+    "sDefense": "50",
+    "speed": "55"
+  },
+  {
+    "num": "637",
+    "name": "불카모스",
+    "attack": "85",
+    "defense": "60",
+    "sAttack": "65",
+    "sDefense": "135",
+    "speed": "105"
+  },
+  {
+    "num": "638",
+    "name": "코바르온",
+    "attack": "91",
+    "defense": "90",
+    "sAttack": "129",
+    "sDefense": "90",
+    "speed": "72"
+  },
+  {
+    "num": "639",
+    "name": "테라키온",
+    "attack": "91",
+    "defense": "129",
+    "sAttack": "90",
+    "sDefense": "72",
+    "speed": "90"
+  },
+  {
+    "num": "640",
+    "name": "비리디온",
+    "attack": "91",
+    "defense": "90",
+    "sAttack": "72",
+    "sDefense": "90",
+    "speed": "129"
+  },
+  {
+    "num": "641",
+    "name": "토네로스",
+    "attack": "79",
+    "defense": "100",
+    "sAttack": "80",
+    "sDefense": "110",
+    "speed": "90"
+  },
+  {
+    "num": "641",
+    "name": "토네로스",
+    "attack": "79",
+    "defense": "115",
+    "sAttack": "70",
+    "sDefense": "125",
+    "speed": "80"
+  },
+  {
+    "num": "642",
+    "name": "볼트로스",
+    "attack": "79",
+    "defense": "105",
+    "sAttack": "70",
+    "sDefense": "145",
+    "speed": "80"
+  },
+  {
+    "num": "642",
+    "name": "볼트로스",
+    "attack": "79",
+    "defense": "115",
+    "sAttack": "70",
+    "sDefense": "125",
+    "speed": "80"
+  },
+  {
+    "num": "643",
+    "name": "레시라무",
+    "attack": "100",
+    "defense": "120",
+    "sAttack": "100",
+    "sDefense": "150",
+    "speed": "120"
+  },
+  {
+    "num": "644",
+    "name": "제크로무",
+    "attack": "100",
+    "defense": "150",
+    "sAttack": "120",
+    "sDefense": "120",
+    "speed": "100"
+  },
+  {
+    "num": "645",
+    "name": "랜드로스",
+    "attack": "89",
+    "defense": "125",
+    "sAttack": "90",
+    "sDefense": "115",
+    "speed": "80"
+  },
+  {
+    "num": "645",
+    "name": "랜드로스",
+    "attack": "89",
+    "defense": "145",
+    "sAttack": "90",
+    "sDefense": "105",
+    "speed": "80"
+  },
+  {
+    "num": "646",
+    "name": "큐레무",
+    "attack": "125",
+    "defense": "120",
+    "sAttack": "90",
+    "sDefense": "170",
+    "speed": "100"
+  },
+  {
+    "num": "646",
+    "name": "큐레무",
+    "attack": "125",
+    "defense": "130",
+    "sAttack": "90",
+    "sDefense": "130",
+    "speed": "90"
+  },
+  {
+    "num": "646",
+    "name": "큐레무",
+    "attack": "125",
+    "defense": "170",
+    "sAttack": "100",
+    "sDefense": "120",
+    "speed": "90"
+  },
+  {
+    "num": "647",
+    "name": "케르디오",
+    "attack": "91",
+    "defense": "72",
+    "sAttack": "90",
+    "sDefense": "129",
+    "speed": "90"
+  },
+  {
+    "num": "648",
+    "name": "메로엣타",
+    "attack": "100",
+    "defense": "128",
+    "sAttack": "90",
+    "sDefense": "77",
+    "speed": "77"
+  },
+  {
+    "num": "648",
+    "name": "메로엣타",
+    "attack": "100",
+    "defense": "77",
+    "sAttack": "77",
+    "sDefense": "128",
+    "speed": "128"
+  },
+  {
+    "num": "649",
+    "name": "게노세크트",
+    "attack": "71",
+    "defense": "120",
+    "sAttack": "95",
+    "sDefense": "120",
+    "speed": "95"
+  },
+  {
+    "num": "650",
+    "name": "도치마론",
+    "attack": "56",
+    "defense": "61",
+    "sAttack": "65",
+    "sDefense": "48",
+    "speed": "45"
+  },
+  {
+    "num": "651",
+    "name": "도치보구",
+    "attack": "61",
+    "defense": "78",
+    "sAttack": "95",
+    "sDefense": "56",
+    "speed": "58"
+  },
+  {
+    "num": "652",
+    "name": "브리가론",
+    "attack": "90",
+    "defense": "100",
+    "sAttack": "120",
+    "sDefense": "80",
+    "speed": "70"
+  },
+  {
+    "num": "653",
+    "name": "푸호꼬",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "40",
+    "sDefense": "62",
+    "speed": "60"
+  },
+  {
+    "num": "654",
+    "name": "테르나",
+    "attack": "59",
+    "defense": "59",
+    "sAttack": "58",
+    "sDefense": "90",
+    "speed": "70"
+  },
+  {
+    "num": "655",
+    "name": "마폭시",
+    "attack": "75",
+    "defense": "69",
+    "sAttack": "72",
+    "sDefense": "114",
+    "speed": "100"
+  },
+  {
+    "num": "656",
+    "name": "개구마르",
+    "attack": "41",
+    "defense": "56",
+    "sAttack": "40",
+    "sDefense": "62",
+    "speed": "44"
+  },
+  {
+    "num": "657",
+    "name": "개굴반장",
+    "attack": "54",
+    "defense": "63",
+    "sAttack": "52",
+    "sDefense": "83",
+    "speed": "56"
+  },
+  {
+    "num": "658",
+    "name": "개굴닌자",
+    "attack": "72",
+    "defense": "95",
+    "sAttack": "67",
+    "sDefense": "103",
+    "speed": "71"
+  },
+  {
+    "num": "659",
+    "name": "파르빗",
+    "attack": "38",
+    "defense": "36",
+    "sAttack": "38",
+    "sDefense": "32",
+    "speed": "36"
+  },
+  {
+    "num": "660",
+    "name": "파르토",
+    "attack": "85",
+    "defense": "56",
+    "sAttack": "77",
+    "sDefense": "50",
+    "speed": "77"
+  },
+  {
+    "num": "661",
+    "name": "화살꼬빈",
+    "attack": "45",
+    "defense": "50",
+    "sAttack": "43",
+    "sDefense": "40",
+    "speed": "38"
+  },
+  {
+    "num": "662",
+    "name": "불화살빈",
+    "attack": "62",
+    "defense": "73",
+    "sAttack": "55",
+    "sDefense": "56",
+    "speed": "52"
+  },
+  {
+    "num": "663",
+    "name": "파이어로",
+    "attack": "78",
+    "defense": "81",
+    "sAttack": "71",
+    "sDefense": "74",
+    "speed": "69"
+  },
+  {
+    "num": "664",
+    "name": "분이벌레",
+    "attack": "38",
+    "defense": "35",
+    "sAttack": "40",
+    "sDefense": "27",
+    "speed": "25"
+  },
+  {
+    "num": "665",
+    "name": "분떠도리",
+    "attack": "45",
+    "defense": "22",
+    "sAttack": "60",
+    "sDefense": "27",
+    "speed": "30"
+  },
+  {
+    "num": "666",
+    "name": "비비용",
+    "attack": "80",
+    "defense": "52",
+    "sAttack": "50",
+    "sDefense": "90",
+    "speed": "50"
+  },
+  {
+    "num": "667",
+    "name": "레오꼬",
+    "attack": "62",
+    "defense": "50",
+    "sAttack": "58",
+    "sDefense": "73",
+    "speed": "54"
+  },
+  {
+    "num": "668",
+    "name": "화염레오",
+    "attack": "86",
+    "defense": "68",
+    "sAttack": "72",
+    "sDefense": "109",
+    "speed": "66"
+  },
+  {
+    "num": "669",
+    "name": "플라베베",
+    "attack": "44",
+    "defense": "38",
+    "sAttack": "39",
+    "sDefense": "61",
+    "speed": "79"
+  },
+  {
+    "num": "670",
+    "name": "플라엣테",
+    "attack": "54",
+    "defense": "45",
+    "sAttack": "47",
+    "sDefense": "75",
+    "speed": "98"
+  },
+  {
+    "num": "671",
+    "name": "플라제스",
+    "attack": "78",
+    "defense": "65",
+    "sAttack": "68",
+    "sDefense": "112",
+    "speed": "154"
+  },
+  {
+    "num": "672",
+    "name": "메이클",
+    "attack": "66",
+    "defense": "65",
+    "sAttack": "48",
+    "sDefense": "62",
+    "speed": "57"
+  },
+  {
+    "num": "673",
+    "name": "고고트",
+    "attack": "123",
+    "defense": "100",
+    "sAttack": "62",
+    "sDefense": "97",
+    "speed": "81"
+  },
+  {
+    "num": "674",
+    "name": "판짱",
+    "attack": "67",
+    "defense": "82",
+    "sAttack": "62",
+    "sDefense": "46",
+    "speed": "48"
+  },
+  {
+    "num": "675",
+    "name": "부란다",
+    "attack": "95",
+    "defense": "124",
+    "sAttack": "78",
+    "sDefense": "69",
+    "speed": "71"
+  },
+  {
+    "num": "676",
+    "name": "트리미앙",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "60",
+    "sDefense": "65",
+    "speed": "90"
+  },
+  {
+    "num": "677",
+    "name": "냐스퍼",
+    "attack": "62",
+    "defense": "48",
+    "sAttack": "54",
+    "sDefense": "63",
+    "speed": "60"
+  },
+  {
+    "num": "678",
+    "name": "냐오닉스",
+    "attack": "74",
+    "defense": "48",
+    "sAttack": "76",
+    "sDefense": "83",
+    "speed": "81"
+  },
+  {
+    "num": "679",
+    "name": "단칼빙",
+    "attack": "45",
+    "defense": "80",
+    "sAttack": "100",
+    "sDefense": "35",
+    "speed": "37"
+  },
+  {
+    "num": "680",
+    "name": "쌍검킬",
+    "attack": "59",
+    "defense": "110",
+    "sAttack": "150",
+    "sDefense": "45",
+    "speed": "49"
+  },
+  {
+    "num": "681",
+    "name": "킬가르도",
+    "attack": "60",
+    "defense": "50",
+    "sAttack": "140",
+    "sDefense": "50",
+    "speed": "140"
+  },
+  {
+    "num": "681",
+    "name": "킬가르도",
+    "attack": "60",
+    "defense": "140",
+    "sAttack": "50",
+    "sDefense": "140",
+    "speed": "50"
+  },
+  {
+    "num": "682",
+    "name": "슈쁘",
+    "attack": "78",
+    "defense": "52",
+    "sAttack": "60",
+    "sDefense": "63",
+    "speed": "65"
+  },
+  {
+    "num": "683",
+    "name": "프레프티르",
+    "attack": "101",
+    "defense": "72",
+    "sAttack": "72",
+    "sDefense": "99",
+    "speed": "89"
+  },
+  {
+    "num": "684",
+    "name": "나룸퍼프",
+    "attack": "62",
+    "defense": "48",
+    "sAttack": "66",
+    "sDefense": "59",
+    "speed": "57"
+  },
+  {
+    "num": "685",
+    "name": "나루림",
+    "attack": "82",
+    "defense": "80",
+    "sAttack": "86",
+    "sDefense": "85",
+    "speed": "75"
+  },
+  {
+    "num": "686",
+    "name": "오케이징",
+    "attack": "53",
+    "defense": "54",
+    "sAttack": "53",
+    "sDefense": "37",
+    "speed": "46"
+  },
+  {
+    "num": "687",
+    "name": "칼라마네로",
+    "attack": "86",
+    "defense": "92",
+    "sAttack": "88",
+    "sDefense": "68",
+    "speed": "75"
+  },
+  {
+    "num": "688",
+    "name": "거북손손",
+    "attack": "42",
+    "defense": "52",
+    "sAttack": "67",
+    "sDefense": "39",
+    "speed": "56"
+  },
+  {
+    "num": "689",
+    "name": "거북손데스",
+    "attack": "72",
+    "defense": "92",
+    "sAttack": "115",
+    "sDefense": "54",
+    "speed": "86"
+  },
+  {
+    "num": "690",
+    "name": "수레기",
+    "attack": "50",
+    "defense": "60",
+    "sAttack": "60",
+    "sDefense": "60",
+    "speed": "60"
+  },
+  {
+    "num": "691",
+    "name": "드래캄",
+    "attack": "65",
+    "defense": "75",
+    "sAttack": "90",
+    "sDefense": "97",
+    "speed": "123"
+  },
+  {
+    "num": "692",
+    "name": "완철포",
+    "attack": "50",
+    "defense": "53",
+    "sAttack": "62",
+    "sDefense": "58",
+    "speed": "63"
+  },
+  {
+    "num": "693",
+    "name": "블로스터",
+    "attack": "71",
+    "defense": "73",
+    "sAttack": "88",
+    "sDefense": "120",
+    "speed": "89"
+  },
+  {
+    "num": "694",
+    "name": "목도리키텔",
+    "attack": "44",
+    "defense": "38",
+    "sAttack": "33",
+    "sDefense": "61",
+    "speed": "43"
+  },
+  {
+    "num": "695",
+    "name": "일레도리자드",
+    "attack": "62",
+    "defense": "55",
+    "sAttack": "52",
+    "sDefense": "109",
+    "speed": "94"
+  },
+  {
+    "num": "696",
+    "name": "티고라스",
+    "attack": "58",
+    "defense": "89",
+    "sAttack": "77",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "697",
+    "name": "견고라스",
+    "attack": "82",
+    "defense": "121",
+    "sAttack": "119",
+    "sDefense": "69",
+    "speed": "59"
+  },
+  {
+    "num": "698",
+    "name": "아마루스",
+    "attack": "77",
+    "defense": "59",
+    "sAttack": "50",
+    "sDefense": "67",
+    "speed": "63"
+  },
+  {
+    "num": "699",
+    "name": "아마루르가",
+    "attack": "123",
+    "defense": "77",
+    "sAttack": "72",
+    "sDefense": "99",
+    "speed": "92"
+  },
+  {
+    "num": "700",
+    "name": "님피아",
+    "attack": "95",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "110",
+    "speed": "130"
+  },
+  {
+    "num": "701",
+    "name": "루차불",
+    "attack": "78",
+    "defense": "92",
+    "sAttack": "75",
+    "sDefense": "74",
+    "speed": "63"
+  },
+  {
+    "num": "702",
+    "name": "데덴네",
+    "attack": "67",
+    "defense": "58",
+    "sAttack": "57",
+    "sDefense": "81",
+    "speed": "67"
+  },
+  {
+    "num": "703",
+    "name": "멜리시",
+    "attack": "50",
+    "defense": "50",
+    "sAttack": "150",
+    "sDefense": "50",
+    "speed": "150"
+  },
+  {
+    "num": "704",
+    "name": "미끄메라",
+    "attack": "45",
+    "defense": "50",
+    "sAttack": "35",
+    "sDefense": "55",
+    "speed": "75"
+  },
+  {
+    "num": "705",
+    "name": "미끄네일",
+    "attack": "68",
+    "defense": "75",
+    "sAttack": "53",
+    "sDefense": "83",
+    "speed": "113"
+  },
+  {
+    "num": "706",
+    "name": "미끄래곤",
+    "attack": "90",
+    "defense": "100",
+    "sAttack": "70",
+    "sDefense": "110",
+    "speed": "150"
+  },
+  {
+    "num": "707",
+    "name": "클레피",
+    "attack": "57",
+    "defense": "80",
+    "sAttack": "91",
+    "sDefense": "80",
+    "speed": "87"
+  },
+  {
+    "num": "708",
+    "name": "나목령",
+    "attack": "43",
+    "defense": "70",
+    "sAttack": "48",
+    "sDefense": "50",
+    "speed": "60"
+  },
+  {
+    "num": "709",
+    "name": "대로트",
+    "attack": "85",
+    "defense": "110",
+    "sAttack": "76",
+    "sDefense": "65",
+    "speed": "82"
+  },
+  {
+    "num": "710",
+    "name": "호바귀",
+    "attack": "44",
+    "defense": "66",
+    "sAttack": "70",
+    "sDefense": "44",
+    "speed": "55"
+  },
+  {
+    "num": "710",
+    "name": "호바귀",
+    "attack": "49",
+    "defense": "66",
+    "sAttack": "70",
+    "sDefense": "44",
+    "speed": "55"
+  },
+  {
+    "num": "710",
+    "name": "호바귀",
+    "attack": "54",
+    "defense": "66",
+    "sAttack": "70",
+    "sDefense": "44",
+    "speed": "55"
+  },
+  {
+    "num": "710",
+    "name": "호바귀",
+    "attack": "59",
+    "defense": "66",
+    "sAttack": "70",
+    "sDefense": "44",
+    "speed": "55"
+  },
+  {
+    "num": "711",
+    "name": "펌킨인",
+    "attack": "55",
+    "defense": "85",
+    "sAttack": "122",
+    "sDefense": "58",
+    "speed": "75"
+  },
+  {
+    "num": "711",
+    "name": "펌킨인",
+    "attack": "65",
+    "defense": "90",
+    "sAttack": "122",
+    "sDefense": "58",
+    "speed": "75"
+  },
+  {
+    "num": "711",
+    "name": "펌킨인",
+    "attack": "75",
+    "defense": "95",
+    "sAttack": "122",
+    "sDefense": "58",
+    "speed": "75"
+  },
+  {
+    "num": "711",
+    "name": "펌킨인",
+    "attack": "85",
+    "defense": "100",
+    "sAttack": "122",
+    "sDefense": "58",
+    "speed": "75"
+  },
+  {
+    "num": "712",
+    "name": "꽁어름",
+    "attack": "55",
+    "defense": "69",
+    "sAttack": "85",
+    "sDefense": "32",
+    "speed": "35"
+  },
+  {
+    "num": "713",
+    "name": "크레베이스",
+    "attack": "95",
+    "defense": "117",
+    "sAttack": "184",
+    "sDefense": "44",
+    "speed": "46"
+  },
+  {
+    "num": "714",
+    "name": "음뱃",
+    "attack": "40",
+    "defense": "30",
+    "sAttack": "35",
+    "sDefense": "45",
+    "speed": "40"
+  },
+  {
+    "num": "715",
+    "name": "음번",
+    "attack": "85",
+    "defense": "70",
+    "sAttack": "80",
+    "sDefense": "97",
+    "speed": "80"
+  },
+  {
+    "num": "716",
+    "name": "제르네아스",
+    "attack": "126",
+    "defense": "131",
+    "sAttack": "95",
+    "sDefense": "131",
+    "speed": "98"
+  },
+  {
+    "num": "717",
+    "name": "이벨타르",
+    "attack": "126",
+    "defense": "131",
+    "sAttack": "95",
+    "sDefense": "131",
+    "speed": "98"
+  },
+  {
+    "num": "718",
+    "name": "지가르데",
+    "attack": "54",
+    "defense": "100",
+    "sAttack": "71",
+    "sDefense": "61",
+    "speed": "85"
+  },
+  {
+    "num": "718",
+    "name": "지가르데",
+    "attack": "108",
+    "defense": "100",
+    "sAttack": "121",
+    "sDefense": "81",
+    "speed": "95"
+  },
+  {
+    "num": "718",
+    "name": "지가르데",
+    "attack": "216",
+    "defense": "100",
+    "sAttack": "121",
+    "sDefense": "91",
+    "speed": "95"
+  },
+  {
+    "num": "719",
+    "name": "디안시",
+    "attack": "50",
+    "defense": "100",
+    "sAttack": "150",
+    "sDefense": "100",
+    "speed": "150"
+  },
+  {
+    "num": "719",
+    "name": "메가디안시",
+    "attack": "50",
+    "defense": "160",
+    "sAttack": "110",
+    "sDefense": "160",
+    "speed": "110"
+  },
+  {
+    "num": "720",
+    "name": "후파",
+    "attack": "80",
+    "defense": "110",
+    "sAttack": "60",
+    "sDefense": "150",
+    "speed": "130"
+  },
+  {
+    "num": "720",
+    "name": "후파",
+    "attack": "80",
+    "defense": "160",
+    "sAttack": "60",
+    "sDefense": "170",
+    "speed": "130"
+  },
+  {
+    "num": "721",
+    "name": "볼케니온",
+    "attack": "80",
+    "defense": "110",
+    "sAttack": "120",
+    "sDefense": "130",
+    "speed": "90"
+  },
+  {
+    "num": "722",
+    "name": "나몰빼미",
+    "attack": "68",
+    "defense": "55",
+    "sAttack": "55",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "723",
+    "name": "빼미스로우",
+    "attack": "78",
+    "defense": "75",
+    "sAttack": "75",
+    "sDefense": "70",
+    "speed": "70"
+  },
+  {
+    "num": "724",
+    "name": "모크나이퍼",
+    "attack": "78",
+    "defense": "107",
+    "sAttack": "75",
+    "sDefense": "100",
+    "speed": "100"
+  },
+  {
+    "num": "725",
+    "name": "냐오불",
+    "attack": "45",
+    "defense": "65",
+    "sAttack": "40",
+    "sDefense": "60",
+    "speed": "40"
+  },
+  {
+    "num": "726",
+    "name": "냐오히트",
+    "attack": "65",
+    "defense": "85",
+    "sAttack": "50",
+    "sDefense": "80",
+    "speed": "50"
+  },
+  {
+    "num": "727",
+    "name": "어흥염",
+    "attack": "95",
+    "defense": "115",
+    "sAttack": "90",
+    "sDefense": "80",
+    "speed": "90"
+  },
+  {
+    "num": "728",
+    "name": "누리공",
+    "attack": "50",
+    "defense": "54",
+    "sAttack": "54",
+    "sDefense": "66",
+    "speed": "56"
+  },
+  {
+    "num": "729",
+    "name": "키요공",
+    "attack": "60",
+    "defense": "69",
+    "sAttack": "69",
+    "sDefense": "91",
+    "speed": "81"
+  },
+  {
+    "num": "730",
+    "name": "누리레느",
+    "attack": "80",
+    "defense": "74",
+    "sAttack": "74",
+    "sDefense": "126",
+    "speed": "116"
+  },
+  {
+    "num": "731",
+    "name": "콕코구리",
+    "attack": "35",
+    "defense": "75",
+    "sAttack": "30",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "732",
+    "name": "크라파",
+    "attack": "55",
+    "defense": "85",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "733",
+    "name": "왕큰부리",
+    "attack": "80",
+    "defense": "120",
+    "sAttack": "75",
+    "sDefense": "75",
+    "speed": "75"
+  },
+  {
+    "num": "734",
+    "name": "영구스",
+    "attack": "48",
+    "defense": "70",
+    "sAttack": "30",
+    "sDefense": "30",
+    "speed": "30"
+  },
+  {
+    "num": "735",
+    "name": "형사구스",
+    "attack": "88",
+    "defense": "110",
+    "sAttack": "60",
+    "sDefense": "55",
+    "speed": "60"
+  },
+  {
+    "num": "736",
+    "name": "턱지충이",
+    "attack": "47",
+    "defense": "62",
+    "sAttack": "45",
+    "sDefense": "55",
+    "speed": "45"
+  },
+  {
+    "num": "737",
+    "name": "전지충이",
+    "attack": "57",
+    "defense": "82",
+    "sAttack": "95",
+    "sDefense": "55",
+    "speed": "75"
+  },
+  {
+    "num": "738",
+    "name": "투구뿌논",
+    "attack": "77",
+    "defense": "70",
+    "sAttack": "90",
+    "sDefense": "145",
+    "speed": "75"
+  },
+  {
+    "num": "739",
+    "name": "오기지게",
+    "attack": "47",
+    "defense": "82",
+    "sAttack": "57",
+    "sDefense": "42",
+    "speed": "47"
+  },
+  {
+    "num": "740",
+    "name": "모단단게",
+    "attack": "97",
+    "defense": "132",
+    "sAttack": "77",
+    "sDefense": "62",
+    "speed": "67"
+  },
+  {
+    "num": "741",
+    "name": "춤추새",
+    "attack": "75",
+    "defense": "70",
+    "sAttack": "70",
+    "sDefense": "98",
+    "speed": "70"
+  },
+  {
+    "num": "742",
+    "name": "에블리",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "40",
+    "sDefense": "55",
+    "speed": "40"
+  },
+  {
+    "num": "743",
+    "name": "에리본",
+    "attack": "60",
+    "defense": "55",
+    "sAttack": "60",
+    "sDefense": "95",
+    "speed": "70"
+  },
+  {
+    "num": "744",
+    "name": "암멍이",
+    "attack": "45",
+    "defense": "65",
+    "sAttack": "40",
+    "sDefense": "30",
+    "speed": "40"
+  },
+  {
+    "num": "745",
+    "name": "루가루암",
+    "attack": "75",
+    "defense": "115",
+    "sAttack": "65",
+    "sDefense": "55",
+    "speed": "65"
+  },
+  {
+    "num": "746",
+    "name": "약어리",
+    "attack": "45",
+    "defense": "20",
+    "sAttack": "20",
+    "sDefense": "25",
+    "speed": "25"
+  },
+  {
+    "num": "746",
+    "name": "약어리",
+    "attack": "45",
+    "defense": "140",
+    "sAttack": "130",
+    "sDefense": "140",
+    "speed": "135"
+  },
+  {
+    "num": "747",
+    "name": "시마사리",
+    "attack": "50",
+    "defense": "53",
+    "sAttack": "62",
+    "sDefense": "43",
+    "speed": "52"
+  },
+  {
+    "num": "748",
+    "name": "더시마사리",
+    "attack": "50",
+    "defense": "63",
+    "sAttack": "152",
+    "sDefense": "53",
+    "speed": "142"
+  },
+  {
+    "num": "749",
+    "name": "머드나기",
+    "attack": "70",
+    "defense": "100",
+    "sAttack": "70",
+    "sDefense": "45",
+    "speed": "55"
+  },
+  {
+    "num": "750",
+    "name": "만마드",
+    "attack": "100",
+    "defense": "125",
+    "sAttack": "100",
+    "sDefense": "55",
+    "speed": "85"
+  },
+  {
+    "num": "751",
+    "name": "물거미",
+    "attack": "38",
+    "defense": "40",
+    "sAttack": "52",
+    "sDefense": "40",
+    "speed": "72"
+  },
+  {
+    "num": "752",
+    "name": "깨비물거미",
+    "attack": "68",
+    "defense": "70",
+    "sAttack": "92",
+    "sDefense": "50",
+    "speed": "132"
+  },
+  {
+    "num": "753",
+    "name": "짜랑랑",
+    "attack": "40",
+    "defense": "55",
+    "sAttack": "35",
+    "sDefense": "50",
+    "speed": "35"
+  },
+  {
+    "num": "754",
+    "name": "라란티스",
+    "attack": "70",
+    "defense": "105",
+    "sAttack": "90",
+    "sDefense": "80",
+    "speed": "90"
+  },
+  {
+    "num": "755",
+    "name": "자마슈",
+    "attack": "40",
+    "defense": "35",
+    "sAttack": "55",
+    "sDefense": "65",
+    "speed": "75"
+  },
+  {
+    "num": "756",
+    "name": "마셰이드",
+    "attack": "60",
+    "defense": "45",
+    "sAttack": "80",
+    "sDefense": "90",
+    "speed": "100"
+  },
+  {
+    "num": "757",
+    "name": "야도뇽",
+    "attack": "48",
+    "defense": "44",
+    "sAttack": "40",
+    "sDefense": "71",
+    "speed": "40"
+  },
+  {
+    "num": "758",
+    "name": "염뉴트",
+    "attack": "68",
+    "defense": "64",
+    "sAttack": "60",
+    "sDefense": "111",
+    "speed": "60"
+  },
+  {
+    "num": "759",
+    "name": "포곰곰",
+    "attack": "70",
+    "defense": "75",
+    "sAttack": "50",
+    "sDefense": "45",
+    "speed": "50"
+  },
+  {
+    "num": "760",
+    "name": "이븐곰",
+    "attack": "120",
+    "defense": "125",
+    "sAttack": "80",
+    "sDefense": "55",
+    "speed": "60"
+  },
+  {
+    "num": "761",
+    "name": "달콤아",
+    "attack": "42",
+    "defense": "30",
+    "sAttack": "38",
+    "sDefense": "30",
+    "speed": "38"
+  },
+  {
+    "num": "762",
+    "name": "달무리나",
+    "attack": "52",
+    "defense": "40",
+    "sAttack": "48",
+    "sDefense": "40",
+    "speed": "48"
+  },
+  {
+    "num": "763",
+    "name": "달코퀸",
+    "attack": "72",
+    "defense": "120",
+    "sAttack": "98",
+    "sDefense": "50",
+    "speed": "98"
+  },
+  {
+    "num": "764",
+    "name": "큐아링",
+    "attack": "51",
+    "defense": "52",
+    "sAttack": "90",
+    "sDefense": "82",
+    "speed": "110"
+  },
+  {
+    "num": "765",
+    "name": "하랑우탄",
+    "attack": "90",
+    "defense": "60",
+    "sAttack": "80",
+    "sDefense": "90",
+    "speed": "110"
+  },
+  {
+    "num": "766",
+    "name": "내던숭이",
+    "attack": "100",
+    "defense": "120",
+    "sAttack": "90",
+    "sDefense": "40",
+    "speed": "60"
+  },
+  {
+    "num": "767",
+    "name": "꼬시레",
+    "attack": "25",
+    "defense": "35",
+    "sAttack": "40",
+    "sDefense": "20",
+    "speed": "30"
+  },
+  {
+    "num": "768",
+    "name": "갑주무사",
+    "attack": "75",
+    "defense": "125",
+    "sAttack": "140",
+    "sDefense": "60",
+    "speed": "90"
+  },
+  {
+    "num": "769",
+    "name": "모래꿍",
+    "attack": "55",
+    "defense": "55",
+    "sAttack": "80",
+    "sDefense": "70",
+    "speed": "45"
+  },
+  {
+    "num": "770",
+    "name": "모래성이당",
+    "attack": "85",
+    "defense": "75",
+    "sAttack": "110",
+    "sDefense": "100",
+    "speed": "75"
+  },
+  {
+    "num": "771",
+    "name": "해무기",
+    "attack": "55",
+    "defense": "60",
+    "sAttack": "130",
+    "sDefense": "30",
+    "speed": "130"
+  },
+  {
+    "num": "772",
+    "name": "타입:널",
+    "attack": "95",
+    "defense": "95",
+    "sAttack": "95",
+    "sDefense": "95",
+    "speed": "95"
+  },
+  {
+    "num": "773",
+    "name": "실버디",
+    "attack": "95",
+    "defense": "95",
+    "sAttack": "95",
+    "sDefense": "95",
+    "speed": "95"
+  },
+  {
+    "num": "774",
+    "name": "메테노",
+    "attack": "60",
+    "defense": "60",
+    "sAttack": "100",
+    "sDefense": "60",
+    "speed": "100"
+  },
+  {
+    "num": "775",
+    "name": "자말라",
+    "attack": "65",
+    "defense": "115",
+    "sAttack": "65",
+    "sDefense": "75",
+    "speed": "95"
+  },
+  {
+    "num": "776",
+    "name": "폭거북스",
+    "attack": "60",
+    "defense": "78",
+    "sAttack": "135",
+    "sDefense": "91",
+    "speed": "85"
+  },
+  {
+    "num": "777",
+    "name": "토게데마루",
+    "attack": "65",
+    "defense": "98",
+    "sAttack": "63",
+    "sDefense": "40",
+    "speed": "73"
+  },
+  {
+    "num": "778",
+    "name": "따라큐",
+    "attack": "55",
+    "defense": "90",
+    "sAttack": "80",
+    "sDefense": "50",
+    "speed": "105"
+  },
+  {
+    "num": "779",
+    "name": "치갈기",
+    "attack": "68",
+    "defense": "105",
+    "sAttack": "70",
+    "sDefense": "70",
+    "speed": "70"
+  },
+  {
+    "num": "780",
+    "name": "할비롱",
+    "attack": "78",
+    "defense": "60",
+    "sAttack": "85",
+    "sDefense": "135",
+    "speed": "91"
+  },
+  {
+    "num": "781",
+    "name": "타타륜",
+    "attack": "70",
+    "defense": "131",
+    "sAttack": "100",
+    "sDefense": "86",
+    "speed": "90"
+  },
+  {
+    "num": "782",
+    "name": "짜랑꼬",
+    "attack": "45",
+    "defense": "55",
+    "sAttack": "65",
+    "sDefense": "45",
+    "speed": "45"
+  },
+  {
+    "num": "783",
+    "name": "짜랑고우",
+    "attack": "55",
+    "defense": "75",
+    "sAttack": "90",
+    "sDefense": "65",
+    "speed": "70"
+  },
+  {
+    "num": "784",
+    "name": "짜랑고우거",
+    "attack": "75",
+    "defense": "110",
+    "sAttack": "125",
+    "sDefense": "100",
+    "speed": "105"
+  },
+  {
+    "num": "785",
+    "name": "카푸꼬꼬꼭",
+    "attack": "70",
+    "defense": "115",
+    "sAttack": "85",
+    "sDefense": "95",
+    "speed": "75"
+  },
+  {
+    "num": "786",
+    "name": "카푸나비나",
+    "attack": "70",
+    "defense": "85",
+    "sAttack": "75",
+    "sDefense": "130",
+    "speed": "115"
+  },
+  {
+    "num": "787",
+    "name": "카푸브루루",
+    "attack": "70",
+    "defense": "130",
+    "sAttack": "115",
+    "sDefense": "85",
+    "speed": "95"
+  },
+  {
+    "num": "788",
+    "name": "카푸느지느",
+    "attack": "70",
+    "defense": "75",
+    "sAttack": "115",
+    "sDefense": "95",
+    "speed": "130"
+  },
+  {
+    "num": "789",
+    "name": "코스모그",
+    "attack": "43",
+    "defense": "29",
+    "sAttack": "31",
+    "sDefense": "29",
+    "speed": "31"
+  },
+  {
+    "num": "790",
+    "name": "코스모움",
+    "attack": "43",
+    "defense": "29",
+    "sAttack": "131",
+    "sDefense": "29",
+    "speed": "131"
+  },
+  {
+    "num": "791",
+    "name": "솔가레오",
+    "attack": "137",
+    "defense": "137",
+    "sAttack": "107",
+    "sDefense": "113",
+    "speed": "89"
+  },
+  {
+    "num": "792",
+    "name": "루나아라",
+    "attack": "137",
+    "defense": "113",
+    "sAttack": "89",
+    "sDefense": "137",
+    "speed": "107"
+  },
+  {
+    "num": "793",
+    "name": "텅비드",
+    "attack": "109",
+    "defense": "53",
+    "sAttack": "47",
+    "sDefense": "127",
+    "speed": "131"
+  },
+  {
+    "num": "794",
+    "name": "매시붕",
+    "attack": "107",
+    "defense": "139",
+    "sAttack": "139",
+    "sDefense": "53",
+    "speed": "53"
+  },
+  {
+    "num": "795",
+    "name": "페로코체",
+    "attack": "71",
+    "defense": "137",
+    "sAttack": "37",
+    "sDefense": "137",
+    "speed": "37"
+  },
+  {
+    "num": "796",
+    "name": "전수목",
+    "attack": "83",
+    "defense": "89",
+    "sAttack": "71",
+    "sDefense": "173",
+    "speed": "71"
+  },
+  {
+    "num": "797",
+    "name": "철화구야",
+    "attack": "97",
+    "defense": "101",
+    "sAttack": "103",
+    "sDefense": "107",
+    "speed": "101"
+  },
+  {
+    "num": "798",
+    "name": "종이신도",
+    "attack": "59",
+    "defense": "181",
+    "sAttack": "131",
+    "sDefense": "59",
+    "speed": "31"
+  },
+  {
+    "num": "799",
+    "name": "악식킹",
+    "attack": "223",
+    "defense": "101",
+    "sAttack": "53",
+    "sDefense": "97",
+    "speed": "53"
+  },
+  {
+    "num": "800",
+    "name": "네크로즈마",
+    "attack": "97",
+    "defense": "107",
+    "sAttack": "101",
+    "sDefense": "127",
+    "speed": "89"
+  },
+  {
+    "num": "800",
+    "name": "네크로즈마",
+    "attack": "97",
+    "defense": "157",
+    "sAttack": "127",
+    "sDefense": "113",
+    "speed": "109"
+  },
+  {
+    "num": "800",
+    "name": "네크로즈마",
+    "attack": "97",
+    "defense": "113",
+    "sAttack": "109",
+    "sDefense": "157",
+    "speed": "127"
+  },
+  {
+    "num": "800",
+    "name": "네크로즈마",
+    "attack": "97",
+    "defense": "167",
+    "sAttack": "97",
+    "sDefense": "167",
+    "speed": "97"
+  },
+  {
+    "num": "801",
+    "name": "마기아나",
+    "attack": "80",
+    "defense": "95",
+    "sAttack": "115",
+    "sDefense": "130",
+    "speed": "115"
+  },
+  {
+    "num": "802",
+    "name": "마샤도",
+    "attack": "90",
+    "defense": "125",
+    "sAttack": "80",
+    "sDefense": "90",
+    "speed": "90"
+  },
+  {
+    "num": "803",
+    "name": "베베놈",
+    "attack": "67",
+    "defense": "73",
+    "sAttack": "67",
+    "sDefense": "73",
+    "speed": "67"
+  },
+  {
+    "num": "804",
+    "name": "아고용",
+    "attack": "73",
+    "defense": "73",
+    "sAttack": "73",
+    "sDefense": "127",
+    "speed": "73"
+  },
+  {
+    "num": "805",
+    "name": "차곡차곡",
+    "attack": "61",
+    "defense": "131",
+    "sAttack": "211",
+    "sDefense": "53",
+    "speed": "101"
+  },
+  {
+    "num": "806",
+    "name": "두파팡",
+    "attack": "53",
+    "defense": "127",
+    "sAttack": "53",
+    "sDefense": "151",
+    "speed": "79"
+  },
+  {
+    "num": "807",
+    "name": "제라오라",
+    "attack": "88",
+    "defense": "112",
+    "sAttack": "75",
+    "sDefense": "102",
+    "speed": "80"
+  },
+  {
+    "num": "808",
+    "name": "멜탄",
+    "attack": "46",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "55",
+    "speed": "35"
+  },
+  {
+    "num": "809",
+    "name": "멜메탈",
+    "attack": "135",
+    "defense": "143",
+    "sAttack": "143",
+    "sDefense": "80",
+    "speed": "65"
+  },
+  {
+    "num": "810",
+    "name": "흥나숭",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "811",
+    "name": "채키몽",
+    "attack": "70",
+    "defense": "85",
+    "sAttack": "70",
+    "sDefense": "55",
+    "speed": "60"
+  },
+  {
+    "num": "812",
+    "name": "고릴타",
+    "attack": "100",
+    "defense": "125",
+    "sAttack": "90",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "813",
+    "name": "염버니",
+    "attack": "50",
+    "defense": "71",
+    "sAttack": "40",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "814",
+    "name": "래비풋",
+    "attack": "65",
+    "defense": "86",
+    "sAttack": "60",
+    "sDefense": "55",
+    "speed": "60"
+  },
+  {
+    "num": "815",
+    "name": "에이스번",
+    "attack": "80",
+    "defense": "116",
+    "sAttack": "75",
+    "sDefense": "65",
+    "speed": "75"
+  },
+  {
+    "num": "816",
+    "name": "울머기",
+    "attack": "50",
+    "defense": "40",
+    "sAttack": "40",
+    "sDefense": "70",
+    "speed": "40"
+  },
+  {
+    "num": "817",
+    "name": "누겔레온",
+    "attack": "65",
+    "defense": "60",
+    "sAttack": "55",
+    "sDefense": "95",
+    "speed": "55"
+  },
+  {
+    "num": "818",
+    "name": "인텔리레온",
+    "attack": "70",
+    "defense": "85",
+    "sAttack": "65",
+    "sDefense": "125",
+    "speed": "65"
+  },
+  {
+    "num": "819",
+    "name": "탐리스",
+    "attack": "70",
+    "defense": "55",
+    "sAttack": "55",
+    "sDefense": "35",
+    "speed": "35"
+  },
+  {
+    "num": "820",
+    "name": "요씽리스",
+    "attack": "120",
+    "defense": "95",
+    "sAttack": "95",
+    "sDefense": "55",
+    "speed": "75"
+  },
+  {
+    "num": "821",
+    "name": "파라꼬",
+    "attack": "38",
+    "defense": "47",
+    "sAttack": "35",
+    "sDefense": "33",
+    "speed": "35"
+  },
+  {
+    "num": "822",
+    "name": "파크로우",
+    "attack": "68",
+    "defense": "67",
+    "sAttack": "55",
+    "sDefense": "43",
+    "speed": "55"
+  },
+  {
+    "num": "823",
+    "name": "아머까오",
+    "attack": "98",
+    "defense": "87",
+    "sAttack": "105",
+    "sDefense": "53",
+    "speed": "85"
+  },
+  {
+    "num": "824",
+    "name": "두루지벌레",
+    "attack": "25",
+    "defense": "20",
+    "sAttack": "20",
+    "sDefense": "25",
+    "speed": "45"
+  },
+  {
+    "num": "825",
+    "name": "레돔벌레",
+    "attack": "50",
+    "defense": "35",
+    "sAttack": "80",
+    "sDefense": "50",
+    "speed": "90"
+  },
+  {
+    "num": "826",
+    "name": "이올브",
+    "attack": "60",
+    "defense": "45",
+    "sAttack": "110",
+    "sDefense": "80",
+    "speed": "120"
+  },
+  {
+    "num": "827",
+    "name": "훔처우",
+    "attack": "40",
+    "defense": "28",
+    "sAttack": "28",
+    "sDefense": "47",
+    "speed": "52"
+  },
+  {
+    "num": "828",
+    "name": "폭슬라이",
+    "attack": "70",
+    "defense": "58",
+    "sAttack": "58",
+    "sDefense": "87",
+    "speed": "92"
+  },
+  {
+    "num": "829",
+    "name": "꼬모카",
+    "attack": "40",
+    "defense": "40",
+    "sAttack": "60",
+    "sDefense": "40",
+    "speed": "60"
+  },
+  {
+    "num": "830",
+    "name": "백솜모카",
+    "attack": "60",
+    "defense": "50",
+    "sAttack": "90",
+    "sDefense": "80",
+    "speed": "120"
+  },
+  {
+    "num": "831",
+    "name": "우르",
+    "attack": "42",
+    "defense": "40",
+    "sAttack": "55",
+    "sDefense": "40",
+    "speed": "45"
+  },
+  {
+    "num": "832",
+    "name": "배우르",
+    "attack": "72",
+    "defense": "80",
+    "sAttack": "100",
+    "sDefense": "60",
+    "speed": "90"
+  },
+  {
+    "num": "833",
+    "name": "깨물부기",
+    "attack": "50",
+    "defense": "64",
+    "sAttack": "50",
+    "sDefense": "38",
+    "speed": "38"
+  },
+  {
+    "num": "834",
+    "name": "갈가부기",
+    "attack": "90",
+    "defense": "115",
+    "sAttack": "90",
+    "sDefense": "48",
+    "speed": "68"
+  },
+  {
+    "num": "835",
+    "name": "멍파치",
+    "attack": "59",
+    "defense": "45",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "836",
+    "name": "펄스멍",
+    "attack": "69",
+    "defense": "90",
+    "sAttack": "60",
+    "sDefense": "90",
+    "speed": "60"
+  },
+  {
+    "num": "837",
+    "name": "탄동",
+    "attack": "30",
+    "defense": "40",
+    "sAttack": "50",
+    "sDefense": "40",
+    "speed": "50"
+  },
+  {
+    "num": "838",
+    "name": "탄차곤",
+    "attack": "80",
+    "defense": "60",
+    "sAttack": "90",
+    "sDefense": "60",
+    "speed": "70"
+  },
+  {
+    "num": "839",
+    "name": "석탄산",
+    "attack": "110",
+    "defense": "80",
+    "sAttack": "120",
+    "sDefense": "80",
+    "speed": "90"
+  },
+  {
+    "num": "840",
+    "name": "과사삭벌레",
+    "attack": "40",
+    "defense": "40",
+    "sAttack": "80",
+    "sDefense": "40",
+    "speed": "40"
+  },
+  {
+    "num": "841",
+    "name": "애프룡",
+    "attack": "70",
+    "defense": "110",
+    "sAttack": "80",
+    "sDefense": "95",
+    "speed": "60"
+  },
+  {
+    "num": "842",
+    "name": "단지래플",
+    "attack": "110",
+    "defense": "85",
+    "sAttack": "80",
+    "sDefense": "100",
+    "speed": "80"
+  },
+  {
+    "num": "843",
+    "name": "모래뱀",
+    "attack": "52",
+    "defense": "57",
+    "sAttack": "75",
+    "sDefense": "35",
+    "speed": "50"
+  },
+  {
+    "num": "844",
+    "name": "사다이사",
+    "attack": "72",
+    "defense": "107",
+    "sAttack": "125",
+    "sDefense": "65",
+    "speed": "70"
+  },
+  {
+    "num": "845",
+    "name": "윽우지",
+    "attack": "70",
+    "defense": "85",
+    "sAttack": "55",
+    "sDefense": "85",
+    "speed": "95"
+  },
+  {
+    "num": "846",
+    "name": "찌로꼬치",
+    "attack": "41",
+    "defense": "63",
+    "sAttack": "40",
+    "sDefense": "40",
+    "speed": "30"
+  },
+  {
+    "num": "847",
+    "name": "꼬치조",
+    "attack": "61",
+    "defense": "123",
+    "sAttack": "60",
+    "sDefense": "60",
+    "speed": "50"
+  },
+  {
+    "num": "848",
+    "name": "일레즌",
+    "attack": "40",
+    "defense": "38",
+    "sAttack": "35",
+    "sDefense": "54",
+    "speed": "35"
+  },
+  {
+    "num": "849",
+    "name": "스트린더",
+    "attack": "75",
+    "defense": "98",
+    "sAttack": "70",
+    "sDefense": "114",
+    "speed": "70"
+  },
+  {
+    "num": "850",
+    "name": "태우지네",
+    "attack": "50",
+    "defense": "65",
+    "sAttack": "45",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "851",
+    "name": "다태우지네",
+    "attack": "100",
+    "defense": "115",
+    "sAttack": "65",
+    "sDefense": "90",
+    "speed": "90"
+  },
+  {
+    "num": "852",
+    "name": "때때무노",
+    "attack": "50",
+    "defense": "68",
+    "sAttack": "60",
+    "sDefense": "50",
+    "speed": "50"
+  },
+  {
+    "num": "853",
+    "name": "케오퍼스",
+    "attack": "80",
+    "defense": "118",
+    "sAttack": "90",
+    "sDefense": "70",
+    "speed": "80"
+  },
+  {
+    "num": "854",
+    "name": "데인차",
+    "attack": "40",
+    "defense": "45",
+    "sAttack": "45",
+    "sDefense": "74",
+    "speed": "54"
+  },
+  {
+    "num": "855",
+    "name": "포트데스",
+    "attack": "60",
+    "defense": "65",
+    "sAttack": "65",
+    "sDefense": "134",
+    "speed": "114"
+  },
+  {
+    "num": "856",
+    "name": "몸지브림",
+    "attack": "42",
+    "defense": "30",
+    "sAttack": "45",
+    "sDefense": "56",
+    "speed": "53"
+  },
+  {
+    "num": "857",
+    "name": "손지브림",
+    "attack": "57",
+    "defense": "40",
+    "sAttack": "65",
+    "sDefense": "86",
+    "speed": "73"
+  },
+  {
+    "num": "858",
+    "name": "브리무음",
+    "attack": "57",
+    "defense": "90",
+    "sAttack": "95",
+    "sDefense": "136",
+    "speed": "103"
+  },
+  {
+    "num": "859",
+    "name": "메롱꿍",
+    "attack": "45",
+    "defense": "45",
+    "sAttack": "30",
+    "sDefense": "55",
+    "speed": "40"
+  },
+  {
+    "num": "860",
+    "name": "쏘겨모",
+    "attack": "65",
+    "defense": "60",
+    "sAttack": "45",
+    "sDefense": "75",
+    "speed": "55"
+  },
+  {
+    "num": "861",
+    "name": "오롱털",
+    "attack": "95",
+    "defense": "120",
+    "sAttack": "65",
+    "sDefense": "95",
+    "speed": "75"
+  },
+  {
+    "num": "862",
+    "name": "가로막구리",
+    "attack": "93",
+    "defense": "90",
+    "sAttack": "101",
+    "sDefense": "60",
+    "speed": "81"
+  },
+  {
+    "num": "863",
+    "name": "나이킹",
+    "attack": "70",
+    "defense": "110",
+    "sAttack": "100",
+    "sDefense": "50",
+    "speed": "60"
+  },
+  {
+    "num": "864",
+    "name": "산호르곤",
+    "attack": "60",
+    "defense": "95",
+    "sAttack": "50",
+    "sDefense": "145",
+    "speed": "130"
+  },
+  {
+    "num": "865",
+    "name": "창파나이트",
+    "attack": "62",
+    "defense": "135",
+    "sAttack": "95",
+    "sDefense": "68",
+    "speed": "82"
+  },
+  {
+    "num": "866",
+    "name": "마임꽁꽁",
+    "attack": "80",
+    "defense": "85",
+    "sAttack": "75",
+    "sDefense": "110",
+    "speed": "100"
+  },
+  {
+    "num": "867",
+    "name": "데스판",
+    "attack": "58",
+    "defense": "95",
+    "sAttack": "145",
+    "sDefense": "50",
+    "speed": "105"
+  },
+  {
+    "num": "868",
+    "name": "마빌크",
+    "attack": "45",
+    "defense": "40",
+    "sAttack": "40",
+    "sDefense": "50",
+    "speed": "61"
+  },
+  {
+    "num": "869",
+    "name": "마휘핑",
+    "attack": "65",
+    "defense": "60",
+    "sAttack": "75",
+    "sDefense": "110",
+    "speed": "121"
+  },
+  {
+    "num": "870",
+    "name": "대여르",
+    "attack": "65",
+    "defense": "100",
+    "sAttack": "100",
+    "sDefense": "70",
+    "speed": "60"
+  },
+  {
+    "num": "871",
+    "name": "찌르성게",
+    "attack": "48",
+    "defense": "101",
+    "sAttack": "95",
+    "sDefense": "91",
+    "speed": "85"
+  },
+  {
+    "num": "872",
+    "name": "누니머기",
+    "attack": "30",
+    "defense": "25",
+    "sAttack": "35",
+    "sDefense": "45",
+    "speed": "30"
+  },
+  {
+    "num": "873",
+    "name": "모스노우",
+    "attack": "70",
+    "defense": "65",
+    "sAttack": "60",
+    "sDefense": "125",
+    "speed": "90"
+  },
+  {
+    "num": "874",
+    "name": "돌헨진",
+    "attack": "100",
+    "defense": "125",
+    "sAttack": "135",
+    "sDefense": "20",
+    "speed": "20"
+  },
+  {
+    "num": "875",
+    "name": "빙큐보",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "110",
+    "sDefense": "65",
+    "speed": "90"
+  },
+  {
+    "num": "875",
+    "name": "빙큐보",
+    "attack": "75",
+    "defense": "80",
+    "sAttack": "70",
+    "sDefense": "65",
+    "speed": "50"
+  },
+  {
+    "num": "876",
+    "name": "에써르",
+    "attack": "60",
+    "defense": "65",
+    "sAttack": "55",
+    "sDefense": "105",
+    "speed": "95"
+  },
+  {
+    "num": "876",
+    "name": "에써르",
+    "attack": "70",
+    "defense": "55",
+    "sAttack": "65",
+    "sDefense": "95",
+    "speed": "105"
+  },
+  {
+    "num": "877",
+    "name": "모르페코",
+    "attack": "58",
+    "defense": "95",
+    "sAttack": "58",
+    "sDefense": "70",
+    "speed": "58"
+  },
+  {
+    "num": "878",
+    "name": "끼리동",
+    "attack": "72",
+    "defense": "80",
+    "sAttack": "49",
+    "sDefense": "40",
+    "speed": "49"
+  },
+  {
+    "num": "879",
+    "name": "대왕끼리동",
+    "attack": "122",
+    "defense": "130",
+    "sAttack": "69",
+    "sDefense": "80",
+    "speed": "69"
+  },
+  {
+    "num": "880",
+    "name": "파치래곤",
+    "attack": "90",
+    "defense": "100",
+    "sAttack": "90",
+    "sDefense": "80",
+    "speed": "70"
+  },
+  {
+    "num": "881",
+    "name": "파치르돈",
+    "attack": "90",
+    "defense": "100",
+    "sAttack": "90",
+    "sDefense": "90",
+    "speed": "80"
+  },
+  {
+    "num": "882",
+    "name": "어래곤",
+    "attack": "90",
+    "defense": "90",
+    "sAttack": "100",
+    "sDefense": "70",
+    "speed": "80"
+  },
+  {
+    "num": "883",
+    "name": "어치르돈",
+    "attack": "90",
+    "defense": "90",
+    "sAttack": "100",
+    "sDefense": "80",
+    "speed": "90"
+  },
+  {
+    "num": "884",
+    "name": "두랄루돈",
+    "attack": "70",
+    "defense": "95",
+    "sAttack": "115",
+    "sDefense": "120",
+    "speed": "50"
+  },
+  {
+    "num": "885",
+    "name": "드라꼰",
+    "attack": "28",
+    "defense": "60",
+    "sAttack": "30",
+    "sDefense": "40",
+    "speed": "30"
+  },
+  {
+    "num": "886",
+    "name": "드래런치",
+    "attack": "68",
+    "defense": "80",
+    "sAttack": "50",
+    "sDefense": "60",
+    "speed": "50"
+  },
+  {
+    "num": "887",
+    "name": "드래펄트",
+    "attack": "88",
+    "defense": "120",
+    "sAttack": "75",
+    "sDefense": "100",
+    "speed": "75"
+  },
+  {
+    "num": "888",
+    "name": "자시안",
+    "attack": "92",
+    "defense": "130",
+    "sAttack": "115",
+    "sDefense": "80",
+    "speed": "115"
+  },
+  {
+    "num": "888",
+    "name": "자시안",
+    "attack": "92",
+    "defense": "170",
+    "sAttack": "115",
+    "sDefense": "80",
+    "speed": "115"
+  },
+  {
+    "num": "889",
+    "name": "자마젠타",
+    "attack": "92",
+    "defense": "130",
+    "sAttack": "115",
+    "sDefense": "80",
+    "speed": "115"
+  },
+  {
+    "num": "889",
+    "name": "자마젠타",
+    "attack": "92",
+    "defense": "130",
+    "sAttack": "145",
+    "sDefense": "80",
+    "speed": "145"
+  },
+  {
+    "num": "890",
+    "name": "무한다이노",
+    "attack": "140",
+    "defense": "85",
+    "sAttack": "95",
+    "sDefense": "145",
+    "speed": "95"
+  },
+  {
+    "num": "890",
+    "name": "무한다이노",
+    "attack": "255",
+    "defense": "115",
+    "sAttack": "250",
+    "sDefense": "125",
+    "speed": "250"
+  },
+  {
+    "num": "891",
+    "name": "치고마",
+    "attack": "60",
+    "defense": "90",
+    "sAttack": "60",
+    "sDefense": "53",
+    "speed": "50"
+  },
+  {
+    "num": "892",
+    "name": "우라오스",
+    "attack": "100",
+    "defense": "130",
+    "sAttack": "100",
+    "sDefense": "63",
+    "speed": "60"
+  },
+  {
+    "num": "893",
+    "name": "자루도",
+    "attack": "105",
+    "defense": "120",
+    "sAttack": "105",
+    "sDefense": "70",
+    "speed": "95"
+  },
+  {
+    "num": "894",
+    "name": "레지에레키",
+    "attack": "80",
+    "defense": "100",
+    "sAttack": "50",
+    "sDefense": "100",
+    "speed": "50"
+  },
+  {
+    "num": "895",
+    "name": "레지드래고",
+    "attack": "200",
+    "defense": "100",
+    "sAttack": "50",
+    "sDefense": "100",
+    "speed": "50"
+  },
+  {
+    "num": "896",
+    "name": "블리자포스",
+    "attack": "100",
+    "defense": "145",
+    "sAttack": "130",
+    "sDefense": "65",
+    "speed": "110"
+  },
+  {
+    "num": "897",
+    "name": "레이스포스",
+    "attack": "100",
+    "defense": "65",
+    "sAttack": "60",
+    "sDefense": "145",
+    "speed": "80"
+  },
+  {
+    "num": "898",
+    "name": "버드렉스",
+    "attack": "100",
+    "defense": "80",
+    "sAttack": "80",
+    "sDefense": "80",
+    "speed": "80"
+  },
+  {
+    "num": "898",
+    "name": "버드렉스",
+    "attack": "100",
+    "defense": "165",
+    "sAttack": "150",
+    "sDefense": "85",
+    "speed": "130"
+  },
+  {
+    "num": "898",
+    "name": "버드렉스",
+    "attack": "100",
+    "defense": "85",
+    "sAttack": "80",
+    "sDefense": "165",
+    "speed": "100"
+  }
+]
