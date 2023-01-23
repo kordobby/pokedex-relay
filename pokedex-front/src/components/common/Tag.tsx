@@ -1,13 +1,32 @@
-import React from "react";
+import React, { FC } from "react";
 import styled, { css } from "styled-components";
 import { sizeTypes } from "../../types/UI";
 
-const Tag = () => {
-  return <TagWrapper></TagWrapper>;
+interface TagInterface {
+  text: string;
+  color: string;
+}
+
+const Tag: FC<TagInterface> = ({ text, color }) => {
+  return (
+    <TagWrapper bgColor={color}>
+      <span>{text}</span>
+    </TagWrapper>
+  );
 };
 export default Tag;
 
-const TagWrapper = styled.div<{ size?: sizeTypes }>`
+const TagWrapper = styled.div<{ size?: sizeTypes; bgColor: string }>`
+  background-color: ${({ bgColor }) => bgColor ?? "black"};
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 3px;
+  span {
+    color: white;
+  }
+
   ${({ size }) => {
     switch (size) {
       case "large":
@@ -27,8 +46,8 @@ const TagWrapper = styled.div<{ size?: sizeTypes }>`
         `;
       default:
         return css`
-          height: 10px;
-          width: 10px;
+          height: 30px;
+          width: 80px;
         `;
     }
   }}

@@ -10,4 +10,6 @@ const StHeader = styled.div`
   width: 100%;
   height: 120px;
   background-color: red;
+  position: fixed;
+  top: 0;
 `;

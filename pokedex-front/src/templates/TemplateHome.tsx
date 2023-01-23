@@ -21,5 +21,8 @@ const TemplateHome: FC<HomeInterface> = ({ count, pokeList }) => {
 
 const TemplateHomeWrapper = styled.div`
   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 50px 50px;
 `;
 export default TemplateHome;

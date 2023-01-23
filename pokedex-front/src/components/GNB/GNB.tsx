@@ -19,4 +19,7 @@ const GNB: FC<GNBInterface> = ({ children }) => {
 
 export default GNB;
 
-const Layout = styled.div``;
+const Layout = styled.div`
+  padding-top: 120px;
+  padding-bottom: 150px;
+`;

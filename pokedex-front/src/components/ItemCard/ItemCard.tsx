@@ -3,7 +3,9 @@ import { useNavigate } from "react-router";
 import { Poketmon } from "../../types/BaseSchema";
 import { convertPokeTypes } from "../../utils/convertPokeTypes";
 import { ItemCardWrapper } from "./ItemCard.styles";
-
+import Tag from "../common/Tag";
+import { convertTypeColors } from "../../utils/convertTypeColors";
+import { PokeTypes } from "../../types/EnumPokeTypes";
 interface ItemCardInterface {
   data: Poketmon;
 }
@@ -18,11 +20,19 @@ const ItemCard: FC<ItemCardInterface> = ({ data }) => {
       }}
     >
       <>
-        <p>{data.name}</p>
         <img src={data.image} />
-        {type?.map((value) => {
-          return <p key={`poke-type-${value}`}>{value}</p>;
-        })}
+        <p>{data.name}</p>
+        <div className="tag_wrapper">
+          {type?.map((value) => {
+            return (
+              <Tag
+                key={`poke-type-${value}`}
+                text={value}
+                color={convertTypeColors(value as PokeTypes)}
+              ></Tag>
+            );
+          })}
+        </div>
       </>
     </ItemCardWrapper>
   );

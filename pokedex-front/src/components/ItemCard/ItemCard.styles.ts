@@ -1,16 +1,26 @@
 import styled from "styled-components";
 
 export const ItemCardWrapper = styled.div`
-  width: 100px;
-  height: 100px;
-  background-color: yellow;
+  width: 200px;
+  height: 250px;
+  border: 1px solid gray;
+  border-radius: 15px;
+  margin: 10px 0px;
+  box-sizing: border-box;
+  padding-top: 10px;
 
   img {
-    width: 50px;
-    height: 50px;
+    width: 150px;
+    height: 150px;
   }
 
   p {
-    font-size: 10px;
+    font-size: 20px;
+  }
+  .tag_wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 8px;
   }
 `;
