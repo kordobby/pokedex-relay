@@ -10,7 +10,7 @@ const useHomePage = () => {
     variables: {
       poketmonListInput: {
         page: 1,
-        perPage: 1,
+        perPage: 20,
       },
     },
     // fetchPolicy: "network-only",
