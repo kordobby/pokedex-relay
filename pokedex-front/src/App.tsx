@@ -4,7 +4,8 @@ import "./App.css";
 import { useQuery } from "@apollo/client";
 import { GET_POKE_LIST } from "./graphql/quries";
 import { Poketmon, PoketmonListResponse } from "./types/BaseSchema";
-
+import Router from "./shared/router/Router";
+import Header from "./components/GNB/Header";
 function App() {
   const { data } =
     useQuery<{ getPoketmonList: PoketmonListResponse }>(GET_POKE_LIST);
@@ -12,14 +13,8 @@ function App() {
 
   return (
     <div className="App">
-      {pokeList?.map((value: Poketmon) => {
-        return (
-          <div key={`main-list-${value?.id}`}>
-            <img src={value.image} alt="" />
-            <p>{value.name}</p>
-          </div>
-        );
-      })}
+      <Header />
+      <Router />
     </div>
   );
 }
