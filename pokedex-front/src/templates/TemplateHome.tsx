@@ -1,6 +1,6 @@
 import { FC } from "react";
 import { Poketmon } from "../types/BaseSchema";
-import ItemCard from "../components/home/ItemCard";
+import ItemCard from "../components/ItemCard/ItemCard";
 import styled from "styled-components";
 
 interface HomeInterface {
@@ -9,6 +9,7 @@ interface HomeInterface {
 }
 
 const TemplateHome: FC<HomeInterface> = ({ count, pokeList }) => {
+  console.log(pokeList);
   return (
     <TemplateHomeWrapper>
       {pokeList?.map((value) => {

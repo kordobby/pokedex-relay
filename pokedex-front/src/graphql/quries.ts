@@ -8,6 +8,17 @@ export const GET_POKE_LIST = gql`
         name
         id
         image
+        attack
+        attribute
+        category
+        defense
+        description
+        health
+        num
+        sAttack
+        sDefense
+        speed
+        type
       }
     }
   }
