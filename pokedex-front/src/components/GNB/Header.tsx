@@ -12,4 +12,5 @@ const StHeader = styled.div`
   background-color: red;
   position: fixed;
   top: 0;
+  z-index: 10;
 `;

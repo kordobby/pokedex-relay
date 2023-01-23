@@ -2,6 +2,7 @@ import { FC } from "react";
 import { Poketmon } from "../types/BaseSchema";
 import ItemCard from "../components/ItemCard/ItemCard";
 import styled from "styled-components";
+import SearchBox from "../components/home/SearchBox";
 
 interface HomeInterface {
   count: number;
@@ -12,14 +13,24 @@ const TemplateHome: FC<HomeInterface> = ({ count, pokeList }) => {
   console.log(pokeList);
   return (
     <TemplateHomeWrapper>
-      {pokeList?.map((value) => {
-        return <ItemCard key={`pokeList-${value?.id}`} data={value}></ItemCard>;
-      })}
+      <SearchBox />
+      <ItemCardWrapper>
+        {pokeList?.map((value) => {
+          return (
+            <ItemCard key={`pokeList-${value?.id}`} data={value}></ItemCard>
+          );
+        })}
+      </ItemCardWrapper>
     </TemplateHomeWrapper>
   );
 };
 
 const TemplateHomeWrapper = styled.div`
+  display: flex;
+  flex-direction: column;
+`;
+
+const ItemCardWrapper = styled.div`
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
