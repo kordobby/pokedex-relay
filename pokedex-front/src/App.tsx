@@ -5,7 +5,8 @@ import { useQuery } from "@apollo/client";
 import { GET_POKE_LIST } from "./graphql/quries";
 import { Poketmon, PoketmonListResponse } from "./types/BaseSchema";
 import Router from "./shared/router/Router";
-import Header from "./components/GNB/Header";
+import GNB from "./components/GNB/GNB";
+
 function App() {
   const { data } =
     useQuery<{ getPoketmonList: PoketmonListResponse }>(GET_POKE_LIST);
@@ -13,8 +14,9 @@ function App() {
 
   return (
     <div className="App">
-      <Header />
-      <Router />
+      <GNB>
+        <Router />
+      </GNB>
     </div>
   );
 }
