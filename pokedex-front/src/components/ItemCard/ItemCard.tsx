@@ -13,6 +13,7 @@ interface ItemCardInterface {
 const ItemCard: FC<ItemCardInterface> = ({ data }) => {
   const navigate = useNavigate();
   const type = convertPokeTypes(data?.type);
+
   return (
     <ItemCardWrapper
       onClick={() => {

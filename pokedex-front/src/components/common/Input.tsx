@@ -1,14 +1,20 @@
+import { FC } from "react";
 import styled from "styled-components";
-
-const SubmitButton = () => {
-  return <ButtonWrapper></ButtonWrapper>;
+import useSearchPoke from "../../hook/useSearchPoke";
+import { memo } from "react";
+interface SubmitButtonInterface {
+  onSubmit: () => void;
+}
+const SubmitButton: FC<SubmitButtonInterface> = ({ onSubmit }) => {
+  return <ButtonWrapper onClick={onSubmit}></ButtonWrapper>;
 };
 
 const Input = () => {
+  const { onChangeHandler, onSubmit } = useSearchPoke();
   return (
     <InputWrapper>
-      <input></input>
-      <SubmitButton />
+      <input onChange={onChangeHandler}></input>
+      <SubmitButton onSubmit={onSubmit} />
     </InputWrapper>
   );
 };
@@ -34,7 +40,7 @@ const InputWrapper = styled.div`
   }
 `;
 
-const ButtonWrapper = styled.div`
+const ButtonWrapper = styled.button`
   width: 30px;
   height: 30px;
   background-color: black;

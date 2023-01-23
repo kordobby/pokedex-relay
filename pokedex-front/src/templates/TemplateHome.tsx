@@ -10,7 +10,6 @@ interface HomeInterface {
 }
 
 const TemplateHome: FC<HomeInterface> = ({ count, pokeList }) => {
-  console.log(pokeList);
   return (
     <TemplateHomeWrapper>
       <SearchBox />
