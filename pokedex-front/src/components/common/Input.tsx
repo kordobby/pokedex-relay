@@ -5,6 +5,7 @@ import { memo } from "react";
 interface SubmitButtonInterface {
   onSubmit: () => void;
 }
+
 const SubmitButton: FC<SubmitButtonInterface> = ({ onSubmit }) => {
   return <ButtonWrapper onClick={onSubmit}></ButtonWrapper>;
 };

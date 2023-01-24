@@ -2,11 +2,11 @@ import useHomePage from "./useHomePage";
 import TemplateHome from "../../templates/TemplateHome";
 
 const HomePage = () => {
-  const { listCount, pokeList, loading, error, fetchMore, onLoadMore } =
-    useHomePage();
+  const { listCount, pokeList, loading, error, onLoadMore } = useHomePage();
 
   if (loading) return <></>;
   if (error) return <></>;
+
   return (
     <TemplateHome
       count={listCount ?? 0}

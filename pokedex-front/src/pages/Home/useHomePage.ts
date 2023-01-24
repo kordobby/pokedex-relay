@@ -23,7 +23,7 @@ const useHomePage = () => {
     },
   });
 
-  const [getMorePoke, { data: moreData }] = useLazyQuery<{
+  const [getMorePoke] = useLazyQuery<{
     getPoketmonList: PoketmonListResponse;
   }>(GET_POKE_LIST, {
     variables: {
