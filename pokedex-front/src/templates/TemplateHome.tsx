@@ -13,7 +13,6 @@ interface HomeInterface {
 const TemplateHome = ({ count, pokeList, fetchMore }: HomeInterface) => {
   return (
     <TemplateHomeWrapper>
-      <SearchBox />
       <ItemCardWrapper>
         {pokeList?.map((value, index) => {
           return (
@@ -55,6 +54,8 @@ const TemplateHome = ({ count, pokeList, fetchMore }: HomeInterface) => {
 const TemplateHomeWrapper = styled.div`
   display: flex;
   flex-direction: column;
+  padding-top: 100px;
+  padding-bottom: 100px;
 `;
 
 const ItemCardWrapper = styled.div`

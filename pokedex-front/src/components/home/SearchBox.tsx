@@ -13,6 +13,7 @@ export default SearchBox;
 
 const SearchBoxWrapper = styled.div`
   height: 80px;
+  width: 100%;
   background-color: #eeeeee;
 
   display: flex;

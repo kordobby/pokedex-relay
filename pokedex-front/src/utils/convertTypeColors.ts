@@ -1,25 +1,25 @@
 import { PokeTypes } from "../types/EnumPokeTypes";
-
+import { colors } from "./utilColors";
 export const convertTypeColors = (type: PokeTypes) => {
   const mapper = {
-    ["노말"]: "purple",
-    ["불꽃"]: "red",
-    ["물"]: "blue",
-    ["풀"]: "green",
-    ["전기"]: "yellow",
-    ["얼음"]: "aliceblue",
-    ["격투"]: "gray",
-    ["독"]: "purple",
-    ["땅"]: "brown",
-    ["비행"]: "blue",
-    ["에스퍼"]: "pink",
-    ["벌레"]: "lime",
-    ["바위"]: "gray",
-    ["고스트"]: "purple",
-    ["드래곤"]: "blue",
-    ["악"]: "black",
-    ["강철"]: "orange",
-    ["페어리"]: "pink",
+    ["노말"]: colors.mint01,
+    ["불꽃"]: colors.orange01,
+    ["물"]: colors.aqua01,
+    ["풀"]: colors.green01,
+    ["전기"]: colors.yellow02,
+    ["얼음"]: colors.blue01,
+    ["격투"]: colors.red01,
+    ["독"]: colors.laverder02,
+    ["땅"]: colors.orange02,
+    ["비행"]: colors.blue02,
+    ["에스퍼"]: colors.pink02,
+    ["벌레"]: colors.green02,
+    ["바위"]: colors.grayscale03,
+    ["고스트"]: colors.lavender01,
+    ["드래곤"]: colors.blue02,
+    ["악"]: colors.grayscale06,
+    ["강철"]: colors.grayscale05,
+    ["페어리"]: colors.pink01,
   } as { [key in PokeTypes]: string };
 
   const color = mapper?.[type];

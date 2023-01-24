@@ -1,4 +1,4 @@
-import React, { FC, ForwardedRef, RefObject } from "react";
+import { FC } from "react";
 import { useNavigate } from "react-router";
 import { Poketmon } from "../../types/BaseSchema";
 import { convertPokeTypes } from "../../utils/convertPokeTypes";
@@ -22,6 +22,7 @@ const ItemCard: FC<ItemCardInterface> = ({ data }) => {
         }}
       >
         <>
+          <p>{data.id.toString().padStart(4, "0")}</p>
           <img src={data.image} />
           <p>{data.name}</p>
           <div className="tag_wrapper">
