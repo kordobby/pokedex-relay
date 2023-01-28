@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { colors } from "../utils/utilColors";
 // 아무짓도안햇어요
 export const TemplateDetailWrapper = styled.div`
   display: flex;
@@ -13,10 +14,11 @@ export const TemplateDetailWrapper = styled.div`
 `;
 
 export const PokeCard = styled.div`
-  width: 500px;
-  height: 500px;
-  background-color: yellow;
-  padding: 50px;
+  width: 400px;
+  height: 400px;
+  background-color: ${colors.grayscale01};
+  border-radius: 20px;
+  padding: 25px;
   box-sizing: border-box;
   img {
     width: 200px;

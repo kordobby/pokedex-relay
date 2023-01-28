@@ -1,29 +1,36 @@
 import { FC } from "react";
-import Tag from "../components/common/Tag";
 import { Poketmon } from "../types/BaseSchema";
-import { PokeTypes } from "../types/EnumPokeTypes";
 import { convertIndexNum } from "../utils/convertIndexNum";
-import { convertPokeTypes } from "../utils/convertPokeTypes";
-import { convertTypeColors } from "../utils/convertTypeColors";
 import { TemplateDetailWrapper, PokeCard } from "./TemplateDetail.style";
 import TypeTags from "../components/TypeTags";
+import Image from "../components/common/Image";
+import Tag from "../components/common/Tag";
+import Table from "../components/common/Table";
 
 interface TemplateDetailProps {
   data: Poketmon | undefined;
 }
 
 const TemplateDetail: FC<TemplateDetailProps> = ({ data }) => {
-  const type = convertPokeTypes(data?.type);
-
   if (!data) return <></>;
+
+  const stats = [
+    data?.attack,
+    data?.sAttack,
+    data?.defense,
+    data?.sDefense,
+    data?.health,
+    data?.speed,
+  ];
+
   return (
     <TemplateDetailWrapper>
       <PokeCard>
-        <p>{convertIndexNum(data?.num)}</p>
-        <img src={data?.image} alt={data?.name} />
+        <Tag text={convertIndexNum(data?.num)} />
+        <Image url={data?.image} />
         <p>{data?.name}</p>
         <TypeTags pokeType={data?.type} />
-        <p>{`${data?.attack} - ${data?.sAttack} - ${data?.defense} - ${data?.sDefense} - ${data?.health} - ${data?.speed}`}</p>
+        <Table data={stats} />
       </PokeCard>
     </TemplateDetailWrapper>
   );

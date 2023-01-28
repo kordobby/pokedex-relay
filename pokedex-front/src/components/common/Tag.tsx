@@ -4,7 +4,7 @@ import { sizeTypes } from "../../types/UI";
 
 interface TagInterface {
   text: string;
-  color: string;
+  color?: string;
 }
 
 const Tag: FC<TagInterface> = ({ text, color }) => {
@@ -16,15 +16,15 @@ const Tag: FC<TagInterface> = ({ text, color }) => {
 };
 export default Tag;
 
-const TagWrapper = styled.div<{ size?: sizeTypes; bgColor: string }>`
-  background-color: ${({ bgColor }) => bgColor ?? "black"};
+const TagWrapper = styled.div<{ size?: sizeTypes; bgColor?: string }>`
+  background-color: ${({ bgColor }) => bgColor ?? "white"};
   border-radius: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0px 3px;
   span {
-    color: white;
+    color: ${({ bgColor }) => (bgColor ? "white" : "black")};
   }
 
   ${({ size }) => {
