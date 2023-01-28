@@ -1,11 +1,15 @@
 import useDetailPage from "./useDetailPage";
-
+import TemplateDetail from "../../templates/TemplateDetail";
 const DetailPage = () => {
   const { pokeData, loading, error } = useDetailPage();
-  console.log("::::::::::");
 
   if (loading || error) return <></>;
-  return <>{pokeData?.name}</>;
+  return (
+    <>
+      {pokeData?.name}
+      <TemplateDetail data={pokeData}></TemplateDetail>
+    </>
+  );
 };
 
 export default DetailPage;

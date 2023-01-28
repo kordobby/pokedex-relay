@@ -5,7 +5,6 @@ import { Poketmon } from "../../types/BaseSchema";
 
 const useDetailPage = () => {
   const { id } = useParams();
-  console.log(id);
   const { data, loading, error } = useQuery<{ getPoketmon: Poketmon }>(
     GET_POKE_DETAIL,
     {
